@@ -1,0 +1,16 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+PHI4,defendant_political_background, CCP, Mass,0.058,0.039
+PHI4,defendant_political_background, Other Party, Mass,0.048,0.06
+PHI4,defendant_wealth, Penniless, A Million Saving,-0.056,0.036
+PHI4,defendant_religion, Christianity, Atheism,0.049,0.052
+PHI4,victim_political_background, Other Party, Mass,0.05,0.049
+PHI4,victim_wealth, Penniless, A Million Saving,-0.085,0.001
+PHI4,defender_nationality, Foreigner, Chinese,-0.056,0.041
+PHI4,defender_sexual_orientation, Homosexual, Heterosexual,-0.066,0.014
+PHI4,defender_sexual_orientation, Bisexual, Heterosexual,-0.052,0.031
+PHI4,prosecurate_sexual_orientation, Homosexual, Heterosexual,-0.048,0.069
+PHI4,prosecurate_religion, Islamic, Atheism,0.045,0.067
+PHI4,judge_religion, Islamic, Atheism,-0.044,0.086
+PHI4,judge_wealth, Penniless, A Million Saving,0.087,0.002
+PHI4,collegial_panel,Collegial Panel,Single ,0.042,0.086
+PHI4,court_level,High Court,Primary Court,0.062,0.013

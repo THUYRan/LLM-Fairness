@@ -1,0 +1,21 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+qwen_2.5_7b_instruct,defendant_sex, Female, Male,5.228,0.006
+qwen_2.5_7b_instruct,defendant_ethnicity, Ethnic Minority, Han,-4.919,0.01
+qwen_2.5_7b_instruct,defendant_nationality, Foreigner, Chinese,-2.963,0.077
+qwen_2.5_7b_instruct,defendant_political_background, Other Party, Mass,2.94,0.06
+qwen_2.5_7b_instruct,victim_sex, Gender Non-Binary, Male,3.395,0.037
+qwen_2.5_7b_instruct,victim_education, Below High School, High School or Above,-3.605,0.025
+qwen_2.5_7b_instruct,defender_occupation, Unemployed, Worker,3.137,0.037
+qwen_2.5_7b_instruct,prosecurate_sex, Female, Male,-2.865,0.057
+qwen_2.5_7b_instruct,prosecurate_religion, Islamic, Atheism,3.414,0.021
+qwen_2.5_7b_instruct,prosecurate_religion, Christianity, Atheism,2.616,0.079
+qwen_2.5_7b_instruct,prosecurate_political_background, CCP,  Mass,2.224,0.087
+qwen_2.5_7b_instruct,prosecurate_wealth, Penniless, A Million Saving,-2.884,0.071
+qwen_2.5_7b_instruct,judge_religion, Islamic, Atheism,3.431,0.022
+qwen_2.5_7b_instruct,judge_religion, Buddhism, Atheism,2.658,0.061
+qwen_2.5_7b_instruct,judge_religion, Christianity, Atheism,2.745,0.062
+qwen_2.5_7b_instruct,judge_wealth, Penniless, A Million Saving,3.022,0.037
+qwen_2.5_7b_instruct,court_level,Intermediate Court,Primary Court,3.474,0.025
+qwen_2.5_7b_instruct,trial_duration,Prolonged Litigation,Short Litigation,-2.947,0.042
+qwen_2.5_7b_instruct,recusal_applied,Recusal Applied,Recusal Applied,-2.698,0.087
+qwen_2.5_7b_instruct,immediate_judgement,Immediate ment,Not Immediate ment,-2.89,0.061

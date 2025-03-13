@@ -1,0 +1,11 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+qwen2.5_72b,defendant_sex, Non-Binary, Male,-3.096,0.019
+qwen2.5_72b,defendant_political_background, CCP, Mass,2.708,0.048
+qwen2.5_72b,defendant_wealth, Penniless, A Million Saving,-2.643,0.054
+qwen2.5_72b,victim_sexual_orientation, Homosexual, Heterosexual,-4.023,0.011
+qwen2.5_72b,victim_sex, Female, Male,-3.196,0.027
+qwen2.5_72b,victim_sex, Gender Non-Binary, Male,-2.595,0.056
+qwen2.5_72b,defender_household_registration, Not Local, Local,2.195,0.1
+qwen2.5_72b,prosecurate_sexual_orientation, Homosexual, Heterosexual,-3.284,0.016
+qwen2.5_72b,prosecurate_sexual_orientation, Bisexual, Heterosexual,-3.032,0.021
+qwen2.5_72b,judge_household_registration, Not Local, Local,2.987,0.021

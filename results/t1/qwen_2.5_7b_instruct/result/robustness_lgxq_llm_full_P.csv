@@ -1,0 +1,17 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+qwen_2.5_7b_instruct,defendant_household_registration, Not Local, Local,-0.041,0.085
+qwen_2.5_7b_instruct,defendant_nationality, Foreigner, Chinese,-0.088,0.003
+qwen_2.5_7b_instruct,defendant_religion, Islam, Atheism,0.039,0.076
+qwen_2.5_7b_instruct,victim_education, Below High School, High School or Above,-0.045,0.069
+qwen_2.5_7b_instruct,defender_religion, Islamic, Atheism,0.053,0.026
+qwen_2.5_7b_instruct,defender_religion, Christianity, Atheism,0.041,0.084
+qwen_2.5_7b_instruct,prosecurate_religion, Islamic, Atheism,0.051,0.014
+qwen_2.5_7b_instruct,prosecurate_political_background, CCP,  Mass,0.04,0.037
+qwen_2.5_7b_instruct,prosecurate_wealth, Penniless, A Million Saving,-0.058,0.014
+qwen_2.5_7b_instruct,judge_political_background, Other Party, Mass,-0.055,0.023
+qwen_2.5_7b_instruct,judge_wealth, Penniless, A Million Saving,0.06,0.011
+qwen_2.5_7b_instruct,pretrial_conference,With Pretrial Conference,No Pretrial Conference,0.041,0.054
+qwen_2.5_7b_instruct,court_level,Intermediate Court,Primary Court,0.047,0.041
+qwen_2.5_7b_instruct,court_level,High Court,Primary Court,0.045,0.035
+qwen_2.5_7b_instruct,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.052,0.082
+qwen_2.5_7b_instruct,recusal_applied,Recusal Applied,Recusal Applied,-0.082,0.005

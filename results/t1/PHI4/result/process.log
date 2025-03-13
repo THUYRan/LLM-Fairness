@@ -1,0 +1,131 @@
+2025-03-13 15:21:52,570 - INFO - ====== 开始处理流程 ======
+2025-03-13 15:21:52,570 - INFO - 进度: 1/65 正在处理参数: defendant_sex
+2025-03-13 15:21:52,570 - INFO - 开始处理文件: merged_defendant_sex_PHI4
+2025-03-13 15:23:21,228 - INFO - 进度: 2/65 正在处理参数: defendant_ethnicity
+2025-03-13 15:23:21,228 - INFO - 开始处理文件: merged_defendant_ethnicity_PHI4
+2025-03-13 15:24:16,229 - INFO - 进度: 3/65 正在处理参数: defendant_education
+2025-03-13 15:24:16,230 - INFO - 开始处理文件: merged_defendant_education_PHI4
+2025-03-13 15:25:21,022 - INFO - 进度: 4/65 正在处理参数: defendant_age
+2025-03-13 15:25:21,023 - INFO - 开始处理文件: merged_defendant_age_PHI4
+2025-03-13 15:26:20,126 - INFO - 进度: 5/65 正在处理参数: defendant_occupation
+2025-03-13 15:26:20,128 - INFO - 开始处理文件: merged_defendant_occupation_PHI4
+2025-03-13 15:27:41,090 - INFO - 进度: 6/65 正在处理参数: defendant_household_registration
+2025-03-13 15:27:41,091 - INFO - 开始处理文件: merged_defendant_household_registration_PHI4
+2025-03-13 15:28:59,880 - INFO - 进度: 7/65 正在处理参数: defendant_nationality
+2025-03-13 15:28:59,880 - INFO - 开始处理文件: merged_defendant_nationality_PHI4
+2025-03-13 15:30:52,186 - INFO - 进度: 8/65 正在处理参数: defendant_political_background
+2025-03-13 15:30:52,188 - INFO - 开始处理文件: merged_defendant_political_background_PHI4
+2025-03-13 15:32:20,834 - INFO - 进度: 9/65 正在处理参数: defendant_wealth
+2025-03-13 15:32:20,836 - INFO - 开始处理文件: merged_defendant_wealth_PHI4
+2025-03-13 15:33:22,698 - INFO - 进度: 10/65 正在处理参数: defendant_religion
+2025-03-13 15:33:22,700 - INFO - 开始处理文件: merged_defendant_religion_PHI4
+2025-03-13 15:35:27,048 - INFO - 进度: 11/65 正在处理参数: defendant_sexual_orientation
+2025-03-13 15:35:27,050 - INFO - 开始处理文件: merged_defendant_sexual_orientation_PHI4
+2025-03-13 15:36:58,640 - INFO - 进度: 12/65 正在处理参数: victim_religion
+2025-03-13 15:36:58,641 - INFO - 开始处理文件: merged_victim_religion_PHI4
+2025-03-13 15:39:01,202 - INFO - 进度: 13/65 正在处理参数: victim_sexual_orientation
+2025-03-13 15:40:36,458 - INFO - 开始处理文件: merged_victim_sexual_orientation_PHI4
+2025-03-13 15:41:36,139 - INFO - 进度: 14/65 正在处理参数: victim_sex
+2025-03-13 15:41:36,140 - INFO - 开始处理文件: merged_victim_sex_PHI4
+2025-03-13 15:43:04,756 - INFO - 进度: 15/65 正在处理参数: victim_age
+2025-03-13 15:43:04,756 - INFO - 开始处理文件: merged_victim_age_PHI4
+2025-03-13 15:43:57,152 - INFO - 进度: 16/65 正在处理参数: victim_ethnicity
+2025-03-13 15:43:57,153 - INFO - 开始处理文件: merged_victim_ethnicity_PHI4
+2025-03-13 15:44:54,060 - INFO - 进度: 17/65 正在处理参数: victim_education
+2025-03-13 15:44:54,062 - INFO - 开始处理文件: merged_victim_education_PHI4
+2025-03-13 15:45:51,669 - INFO - 进度: 18/65 正在处理参数: victim_occupation
+2025-03-13 15:45:51,671 - INFO - 开始处理文件: merged_victim_occupation_PHI4
+2025-03-13 15:47:19,004 - INFO - 进度: 19/65 正在处理参数: victim_household_registration
+2025-03-13 15:47:19,005 - INFO - 开始处理文件: merged_victim_household_registration_PHI4
+2025-03-13 15:48:15,991 - INFO - 进度: 20/65 正在处理参数: victim_nationality
+2025-03-13 15:48:15,991 - INFO - 开始处理文件: merged_victim_nationality_PHI4
+2025-03-13 15:49:14,655 - INFO - 进度: 21/65 正在处理参数: victim_political_background
+2025-03-13 15:49:14,656 - INFO - 开始处理文件: merged_victim_political_background_PHI4
+2025-03-13 15:50:45,644 - INFO - 进度: 22/65 正在处理参数: victim_wealth
+2025-03-13 15:50:45,645 - INFO - 开始处理文件: merged_victim_wealth_PHI4
+2025-03-13 15:51:43,739 - INFO - 进度: 23/65 正在处理参数: crime_location
+2025-03-13 15:51:43,740 - INFO - 开始处理文件: merged_crime_location_PHI4
+2025-03-13 15:52:42,769 - INFO - 进度: 24/65 正在处理参数: crime_date
+2025-03-13 15:52:42,771 - INFO - 开始处理文件: merged_crime_date_PHI4
+2025-03-13 15:54:46,614 - INFO - 进度: 25/65 正在处理参数: crime_time
+2025-03-13 15:54:46,616 - INFO - 开始处理文件: merged_crime_time_PHI4
+2025-03-13 15:55:46,318 - INFO - 进度: 26/65 正在处理参数: defender_sex
+2025-03-13 15:55:46,319 - INFO - 开始处理文件: merged_defender_sex_PHI4
+2025-03-13 15:57:11,635 - INFO - 进度: 27/65 正在处理参数: defender_age
+2025-03-13 15:57:11,637 - INFO - 开始处理文件: merged_defender_age_PHI4
+2025-03-13 15:58:09,476 - INFO - 进度: 28/65 正在处理参数: defender_ethnicity
+2025-03-13 15:58:09,478 - INFO - 开始处理文件: merged_defender_ethnicity_PHI4
+2025-03-13 15:59:10,488 - INFO - 进度: 29/65 正在处理参数: defender_education
+2025-03-13 15:59:10,489 - INFO - 开始处理文件: merged_defender_education_PHI4
+2025-03-13 16:00:08,988 - INFO - 进度: 30/65 正在处理参数: defender_occupation
+2025-03-13 16:00:08,990 - INFO - 开始处理文件: merged_defender_occupation_PHI4
+2025-03-13 16:01:39,295 - INFO - 进度: 31/65 正在处理参数: defender_household_registration
+2025-03-13 16:01:39,296 - INFO - 开始处理文件: merged_defender_household_registration_PHI4
+2025-03-13 16:02:38,458 - INFO - 进度: 32/65 正在处理参数: defender_nationality
+2025-03-13 16:02:38,459 - INFO - 开始处理文件: merged_defender_nationality_PHI4
+2025-03-13 16:03:38,969 - INFO - 进度: 33/65 正在处理参数: defender_political_background
+2025-03-13 16:03:38,969 - INFO - 开始处理文件: merged_defender_political_background_PHI4
+2025-03-13 16:05:12,570 - INFO - 进度: 34/65 正在处理参数: defender_religion
+2025-03-13 16:05:12,572 - INFO - 开始处理文件: merged_defender_religion_PHI4
+2025-03-13 16:07:13,540 - INFO - 进度: 35/65 正在处理参数: defender_sexual_orientation
+2025-03-13 16:07:13,541 - INFO - 开始处理文件: merged_defender_sexual_orientation_PHI4
+2025-03-13 16:08:45,251 - INFO - 进度: 36/65 正在处理参数: defender_wealth
+2025-03-13 16:08:45,252 - INFO - 开始处理文件: merged_defender_wealth_PHI4
+2025-03-13 16:09:45,137 - INFO - 进度: 37/65 正在处理参数: prosecurate_sex
+2025-03-13 16:09:45,139 - INFO - 开始处理文件: merged_prosecurate_sex_PHI4
+2025-03-13 16:11:11,032 - INFO - 进度: 38/65 正在处理参数: prosecurate_age
+2025-03-13 16:11:11,033 - INFO - 开始处理文件: merged_prosecurate_age_PHI4
+2025-03-13 16:12:07,541 - INFO - 进度: 39/65 正在处理参数: prosecurate_ethnicity
+2025-03-13 16:12:07,543 - INFO - 开始处理文件: merged_prosecurate_ethnicity_PHI4
+2025-03-13 16:13:06,904 - INFO - 进度: 40/65 正在处理参数: prosecurate_household_registration
+2025-03-13 16:13:06,905 - INFO - 开始处理文件: merged_prosecurate_household_registration_PHI4
+2025-03-13 16:14:04,333 - INFO - 进度: 41/65 正在处理参数: prosecurate_sexual_orientation
+2025-03-13 16:14:04,334 - INFO - 开始处理文件: merged_prosecurate_sexual_orientation_PHI4
+2025-03-13 16:15:23,901 - INFO - 进度: 42/65 正在处理参数: prosecurate_religion
+2025-03-13 16:15:23,902 - INFO - 开始处理文件: merged_prosecurate_religion_PHI4
+2025-03-13 16:17:10,274 - INFO - 进度: 43/65 正在处理参数: prosecurate_political_background
+2025-03-13 16:17:10,276 - INFO - 开始处理文件: merged_prosecurate_political_background_PHI4
+2025-03-13 16:18:29,640 - INFO - 进度: 44/65 正在处理参数: prosecurate_wealth
+2025-03-13 16:18:29,641 - INFO - 开始处理文件: merged_prosecurate_wealth_PHI4
+2025-03-13 16:19:17,489 - INFO - 进度: 45/65 正在处理参数: judge_age
+2025-03-13 16:19:17,490 - INFO - 开始处理文件: merged_judge_age_PHI4
+2025-03-13 16:20:05,539 - INFO - 进度: 46/65 正在处理参数: judge_sex
+2025-03-13 16:20:05,540 - INFO - 开始处理文件: merged_judge_sex_PHI4
+2025-03-13 16:21:15,860 - INFO - 进度: 47/65 正在处理参数: judge_ethnicity
+2025-03-13 16:21:15,861 - INFO - 开始处理文件: merged_judge_ethnicity_PHI4
+2025-03-13 16:22:04,750 - INFO - 进度: 48/65 正在处理参数: judge_household_registration
+2025-03-13 16:22:04,750 - INFO - 开始处理文件: merged_judge_household_registration_PHI4
+2025-03-13 16:22:52,440 - INFO - 进度: 49/65 正在处理参数: judge_sexual_orientation
+2025-03-13 16:22:52,441 - INFO - 开始处理文件: merged_judge_sexual_orientation_PHI4
+2025-03-13 16:24:07,962 - INFO - 进度: 50/65 正在处理参数: judge_religion
+2025-03-13 16:24:07,964 - INFO - 开始处理文件: merged_judge_religion_PHI4
+2025-03-13 16:25:52,647 - INFO - 进度: 51/65 正在处理参数: judge_political_background
+2025-03-13 16:25:52,649 - INFO - 开始处理文件: merged_judge_political_background_PHI4
+2025-03-13 16:27:06,927 - INFO - 进度: 52/65 正在处理参数: judge_wealth
+2025-03-13 16:27:06,927 - INFO - 开始处理文件: merged_judge_wealth_PHI4
+2025-03-13 16:27:57,124 - INFO - 进度: 53/65 正在处理参数: collegial_panel
+2025-03-13 16:27:57,125 - INFO - 开始处理文件: merged_collegial_panel_PHI4
+2025-03-13 16:28:46,777 - INFO - 进度: 54/65 正在处理参数: assessor
+2025-03-13 16:28:46,778 - INFO - 开始处理文件: merged_assessor_PHI4
+2025-03-13 16:29:35,697 - INFO - 进度: 55/65 正在处理参数: defender_type
+2025-03-13 16:29:35,698 - INFO - 开始处理文件: merged_defender_type_PHI4
+2025-03-13 16:30:24,757 - INFO - 进度: 56/65 正在处理参数: pretrial_conference
+2025-03-13 16:30:24,759 - INFO - 开始处理文件: merged_pretrial_conference_PHI4
+2025-03-13 16:31:14,760 - INFO - 进度: 57/65 正在处理参数: judicial_committee
+2025-03-13 16:31:14,762 - INFO - 开始处理文件: merged_judicial_committee_PHI4
+2025-03-13 16:32:01,662 - INFO - 进度: 58/65 正在处理参数: online_broadcast
+2025-03-13 16:32:01,662 - INFO - 开始处理文件: merged_online_broadcast_PHI4
+2025-03-13 16:32:51,776 - INFO - 进度: 59/65 正在处理参数: open_trial
+2025-03-13 16:32:51,777 - INFO - 开始处理文件: merged_open_trial_PHI4
+2025-03-13 16:33:40,595 - INFO - 进度: 60/65 正在处理参数: court_level
+2025-03-13 16:33:40,596 - INFO - 开始处理文件: merged_court_level_PHI4
+2025-03-13 16:35:00,229 - INFO - 进度: 61/65 正在处理参数: court_location
+2025-03-13 16:35:00,230 - INFO - 开始处理文件: merged_court_location_PHI4
+2025-03-13 16:35:51,099 - INFO - 进度: 62/65 正在处理参数: compulsory_measure
+2025-03-13 16:35:51,099 - INFO - 开始处理文件: merged_compulsory_measure_PHI4
+2025-03-13 16:36:41,878 - INFO - 进度: 63/65 正在处理参数: trial_duration
+2025-03-13 16:36:41,879 - INFO - 开始处理文件: merged_trial_duration_PHI4
+2025-03-13 16:37:35,771 - INFO - 进度: 64/65 正在处理参数: recusal_applied
+2025-03-13 16:37:35,771 - INFO - 开始处理文件: merged_recusal_applied_PHI4
+2025-03-13 16:38:28,963 - INFO - 进度: 65/65 正在处理参数: immediate_judgement
+2025-03-13 16:38:28,965 - INFO - 开始处理文件: merged_immediate_judgement_PHI4

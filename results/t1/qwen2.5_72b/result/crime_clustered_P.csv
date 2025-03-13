@@ -1,0 +1,20 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+qwen2.5_72b,defendant_wealth, Penniless, A Million Saving,-0.039,0.032
+qwen2.5_72b,defendant_sexual_orientation, Homosexua,  Heterosexual,0.033,0.048
+qwen2.5_72b,defendant_sexual_orientation, Bisexual,  Heterosexual,0.031,0.022
+qwen2.5_72b,victim_religion, Christianity, Atheism,-0.029,0.049
+qwen2.5_72b,victim_ethnicity, Ethnic Minority, Han,0.035,0.012
+qwen2.5_72b,victim_household_registration, Not Local, Local,-0.038,0.074
+qwen2.5_72b,victim_political_background, CCP, Mass,-0.024,0.092
+qwen2.5_72b,victim_political_background, Other Party, Mass,-0.028,0.035
+qwen2.5_72b,victim_wealth, Penniless, A Million Saving,-0.028,0.082
+qwen2.5_72b,defender_nationality, Foreigner, Chinese,-0.027,0.094
+qwen2.5_72b,defender_religion, Christianity, Atheism,0.023,0.094
+qwen2.5_72b,prosecurate_sexual_orientation, Homosexual, Heterosexual,-0.07,0.001
+qwen2.5_72b,prosecurate_sexual_orientation, Bisexual, Heterosexual,-0.055,0.001
+qwen2.5_72b,prosecurate_wealth, Penniless, A Million Saving,-0.036,0.012
+qwen2.5_72b,judge_age, Age, Age,0.052,0.071
+qwen2.5_72b,judge_household_registration, Not Local, Local,0.034,0.029
+qwen2.5_72b,court_level,High Court,Primary Court,0.031,0.025
+qwen2.5_72b,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.05,0.038
+qwen2.5_72b,recusal_applied,Recusal Applied,Recusal Applied,-0.06,0.009

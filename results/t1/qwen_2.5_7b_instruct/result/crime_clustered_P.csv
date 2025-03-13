@@ -1,0 +1,21 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+qwen_2.5_7b_instruct,defendant_sex, Non-Binary, Male,-0.028,0.09
+qwen_2.5_7b_instruct,defendant_nationality, Foreigner, Chinese,-0.086,0.0
+qwen_2.5_7b_instruct,defendant_wealth, Penniless, A Million Saving,-0.047,0.051
+qwen_2.5_7b_instruct,defendant_religion, Islam, Atheism,0.037,0.085
+qwen_2.5_7b_instruct,victim_education, Below High School, High School or Above,-0.043,0.061
+qwen_2.5_7b_instruct,defender_religion, Islamic, Atheism,0.053,0.077
+qwen_2.5_7b_instruct,prosecurate_religion, Islamic, Atheism,0.047,0.023
+qwen_2.5_7b_instruct,prosecurate_political_background, CCP,  Mass,0.041,0.029
+qwen_2.5_7b_instruct,prosecurate_wealth, Penniless, A Million Saving,-0.048,0.021
+qwen_2.5_7b_instruct,judge_religion, Christianity, Atheism,0.032,0.085
+qwen_2.5_7b_instruct,judge_political_background, Other Party, Mass,-0.049,0.025
+qwen_2.5_7b_instruct,judge_wealth, Penniless, A Million Saving,0.066,0.007
+qwen_2.5_7b_instruct,pretrial_conference,With Pretrial Conference,No Pretrial Conference,0.048,0.034
+qwen_2.5_7b_instruct,online_broadcast,Online Broadcast,No Online Broadcast,0.044,0.088
+qwen_2.5_7b_instruct,court_level,Intermediate Court,Primary Court,0.053,0.021
+qwen_2.5_7b_instruct,court_level,High Court,Primary Court,0.052,0.021
+qwen_2.5_7b_instruct,court_location,Court Rural,Court Urban,0.05,0.02
+qwen_2.5_7b_instruct,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.06,0.036
+qwen_2.5_7b_instruct,trial_duration,Prolonged Litigation,Short Litigation,-0.052,0.002
+qwen_2.5_7b_instruct,recusal_applied,Recusal Applied,Recusal Applied,-0.089,0.002

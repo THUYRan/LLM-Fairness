@@ -1,0 +1,19 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+qwen2.5_72b,defendant_wealth, Penniless, A Million Saving,-0.049,0.006
+qwen2.5_72b,defendant_sexual_orientation, Homosexua,  Heterosexual,0.045,0.012
+qwen2.5_72b,defendant_sexual_orientation, Bisexual,  Heterosexual,0.034,0.055
+qwen2.5_72b,victim_ethnicity, Ethnic Minority, Han,0.032,0.089
+qwen2.5_72b,victim_political_background, Other Party, Mass,-0.029,0.084
+qwen2.5_72b,defender_nationality, Foreigner, Chinese,-0.033,0.085
+qwen2.5_72b,prosecurate_sexual_orientation, Homosexual, Heterosexual,-0.074,0.0
+qwen2.5_72b,prosecurate_sexual_orientation, Bisexual, Heterosexual,-0.064,0.001
+qwen2.5_72b,prosecurate_wealth, Penniless, A Million Saving,-0.037,0.029
+qwen2.5_72b,judge_age, Age, Age,0.06,0.069
+qwen2.5_72b,judge_household_registration, Not Local, Local,0.031,0.034
+qwen2.5_72b,judge_sexual_orientation, Homosexual, Heterosexual,-0.034,0.042
+qwen2.5_72b,court_level,Intermediate Court,Primary Court,0.028,0.088
+qwen2.5_72b,court_level,High Court,Primary Court,0.032,0.039
+qwen2.5_72b,court_location,Court Rural,Court Urban,-0.028,0.087
+qwen2.5_72b,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.037,0.079
+qwen2.5_72b,trial_duration,Prolonged Litigation,Short Litigation,0.028,0.075
+qwen2.5_72b,recusal_applied,Recusal Applied,Recusal Applied,-0.058,0.007

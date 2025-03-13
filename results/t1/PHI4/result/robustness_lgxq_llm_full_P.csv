@@ -1,0 +1,18 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+PHI4,defendant_sex, Female, Male,-0.063,0.019
+PHI4,defendant_political_background, CCP, Mass,0.065,0.019
+PHI4,defendant_political_background, Other Party, Mass,0.06,0.019
+PHI4,defendant_wealth, Penniless, A Million Saving,-0.063,0.024
+PHI4,victim_political_background, CCP, Mass,0.043,0.082
+PHI4,victim_wealth, Penniless, A Million Saving,-0.091,0.0
+PHI4,crime_location, Rural, Urban ,0.046,0.096
+PHI4,defender_nationality, Foreigner, Chinese,-0.063,0.021
+PHI4,defender_sexual_orientation, Homosexual, Heterosexual,-0.071,0.008
+PHI4,defender_sexual_orientation, Bisexual, Heterosexual,-0.057,0.018
+PHI4,prosecurate_sexual_orientation, Homosexual, Heterosexual,-0.063,0.017
+PHI4,judge_sexual_orientation, Homosexual, Heterosexual,0.045,0.097
+PHI4,judge_religion, Islamic, Atheism,-0.05,0.045
+PHI4,judge_wealth, Penniless, A Million Saving,0.084,0.003
+PHI4,collegial_panel,Collegial Panel,Single ,0.048,0.048
+PHI4,court_level,High Court,Primary Court,0.043,0.084
+PHI4,trial_duration,Prolonged Litigation,Short Litigation,0.044,0.097

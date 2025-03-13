@@ -1,0 +1,12 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+PHI4,defendant_sex, Female, Male,-3.416,0.031
+PHI4,defendant_ethnicity, Ethnic Minority, Han,2.926,0.065
+PHI4,defendant_political_background, CCP, Mass,3.751,0.015
+PHI4,defendant_political_background, Other Party, Mass,2.461,0.098
+PHI4,defendant_sexual_orientation, Homosexua,  Heterosexual,-2.995,0.083
+PHI4,defender_political_background, Other Party, Mass,-3.562,0.027
+PHI4,prosecurate_sex, Gender Non-Binary, Male,-2.761,0.096
+PHI4,judge_ethnicity, Ethnic Minority, Han,2.675,0.096
+PHI4,judge_religion, Islamic, Atheism,-2.759,0.081
+PHI4,judge_religion, Christianity, Atheism,-3.406,0.026
+PHI4,compulsory_measure,Compulsory Measure,No Compulsory Measure,-4.562,0.004
