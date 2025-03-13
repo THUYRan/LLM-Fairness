@@ -1,0 +1,62 @@
+	(1)
+VARIABLES	lgxq_llm_full
+	
+1.treated	-0.0976
+	(0.0595)
+2.treated	-0.00146
+	(0.0478)
+1o.ID	-
+	
+2o.ID	-
+	
+3o.ID	-
+	
+4o.ID	-
+	
+5o.ID	-
+	
+6o.ID	-
+	
+7o.ID	-
+	
+8o.ID	-
+	
+9o.ID	-
+	
+10o.ID	-
+	
+12o.ID	-
+	
+13o.ID	-
+	
+15o.ID	-
+	
+16o.ID	-
+	
+17o.ID	-
+	
+18o.ID	-
+	
+19o.ID	-
+	
+20o.ID	-
+	
+21o.ID	-
+	
+22o.ID	-
+	
+23o.ID	-
+	
+24o.ID	-
+	
+25o.ID	-
+	
+26o.ID	-
+	
+Constant	4.246***
+	(0.0316)
+	
+Observations	74
+R-squared	0.974
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

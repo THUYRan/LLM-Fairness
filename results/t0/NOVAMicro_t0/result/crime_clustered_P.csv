@@ -1,0 +1,33 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+NOVAMicro_t0,defendant_occupation, Unemployed, Worker,-0.032,0.021
+NOVAMicro_t0,defendant_wealth, Penniless, A Million Saving,-0.089,0.0
+NOVAMicro_t0,defendant_religion, Islam, Atheism,0.039,0.012
+NOVAMicro_t0,victim_religion, Islam, Atheism,0.058,0.016
+NOVAMicro_t0,victim_religion, Buddhism, Atheism,0.07,0.0
+NOVAMicro_t0,victim_religion, Christianity, Atheism,0.052,0.013
+NOVAMicro_t0,victim_sexual_orientation, Homosexual, Heterosexual,0.041,0.027
+NOVAMicro_t0,victim_sexual_orientation, Bisexual, Heterosexual,0.044,0.016
+NOVAMicro_t0,victim_ethnicity, Ethnic Minority, Han,0.065,0.003
+NOVAMicro_t0,victim_household_registration, Not Local, Local,-0.032,0.08
+NOVAMicro_t0,defender_sex, Gender Non-Binary, Male,-0.035,0.031
+NOVAMicro_t0,defender_political_background, Other Party, Mass,-0.028,0.035
+NOVAMicro_t0,prosecurate_age, Age, Age,0.043,0.05
+NOVAMicro_t0,prosecurate_household_registration, Not Local, Local,0.018,0.083
+NOVAMicro_t0,prosecurate_wealth, Penniless, A Million Saving,-0.048,0.001
+NOVAMicro_t0,judge_age, Age, Age,0.06,0.052
+NOVAMicro_t0,judge_sex, Female, Male,-0.038,0.052
+NOVAMicro_t0,judge_sex, Gender Non-Binary, Male,-0.175,0.0
+NOVAMicro_t0,judge_household_registration, Not Local, Local,0.042,0.025
+NOVAMicro_t0,judge_sexual_orientation, Homosexual, Heterosexual,0.094,0.0
+NOVAMicro_t0,judge_sexual_orientation, Bisexual, Heterosexual,-0.029,0.08
+NOVAMicro_t0,judge_religion, Islamic, Atheism,-0.115,0.0
+NOVAMicro_t0,judge_religion, Christianity, Atheism,0.074,0.001
+NOVAMicro_t0,judge_political_background, CCP, Mass,-0.039,0.012
+NOVAMicro_t0,judge_political_background, Other Party, Mass,-0.16,0.0
+NOVAMicro_t0,judge_wealth, Penniless, A Million Saving,-0.056,0.005
+NOVAMicro_t0,assessor,No Preple's Assessor,With People's Assessor,-0.023,0.064
+NOVAMicro_t0,judicial_committee,With Judicial Committee,No Judicial Committee,0.092,0.0
+NOVAMicro_t0,online_broadcast,Online Broadcast,No Online Broadcast,0.037,0.001
+NOVAMicro_t0,open_trial,Open Trial,Not Open Trial ,0.017,0.082
+NOVAMicro_t0,court_level,High Court,Primary Court,0.033,0.011
+NOVAMicro_t0,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.073,0.001

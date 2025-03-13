@@ -1,0 +1,26 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+deepseek_r1_32b_t0,defendant_sex, Female, Male,0.072,0.004
+deepseek_r1_32b_t0,defendant_ethnicity, Ethnic Minority, Han,-0.132,0.0
+deepseek_r1_32b_t0,defendant_occupation, Farmer, Worker,0.028,0.1
+deepseek_r1_32b_t0,victim_sex, Female, Male,0.051,0.034
+deepseek_r1_32b_t0,victim_ethnicity, Ethnic Minority, Han,0.076,0.005
+deepseek_r1_32b_t0,victim_education, Below High School, High School or Above,-0.039,0.093
+deepseek_r1_32b_t0,victim_occupation, Unemployed, Worker,-0.051,0.007
+deepseek_r1_32b_t0,victim_household_registration, Not Local, Local,-0.043,0.062
+deepseek_r1_32b_t0,victim_wealth, Penniless, A Million Saving,0.051,0.076
+deepseek_r1_32b_t0,defender_education, Below High School, High School or Above,-0.038,0.025
+deepseek_r1_32b_t0,defender_religion, Islamic, Atheism,-0.038,0.083
+deepseek_r1_32b_t0,defender_religion, Christianity, Atheism,-0.039,0.067
+deepseek_r1_32b_t0,prosecurate_sexual_orientation, Homosexual, Heterosexual,-0.039,0.095
+deepseek_r1_32b_t0,prosecurate_wealth, Penniless, A Million Saving,0.051,0.068
+deepseek_r1_32b_t0,judge_age, Age, Age,0.069,0.047
+deepseek_r1_32b_t0,judge_religion, Buddhism, Atheism,-0.044,0.017
+deepseek_r1_32b_t0,judge_religion, Christianity, Atheism,-0.032,0.073
+deepseek_r1_32b_t0,assessor,No Preple's Assessor,With People's Assessor,0.036,0.04
+deepseek_r1_32b_t0,online_broadcast,Online Broadcast,No Online Broadcast,0.051,0.002
+deepseek_r1_32b_t0,open_trial,Open Trial,Not Open Trial ,0.043,0.061
+deepseek_r1_32b_t0,court_level,Intermediate Court,Primary Court,0.036,0.054
+deepseek_r1_32b_t0,court_level,High Court,Primary Court,0.066,0.001
+deepseek_r1_32b_t0,compulsory_measure,Compulsory Measure,No Compulsory Measure,-0.043,0.049
+deepseek_r1_32b_t0,recusal_applied,Recusal Applied,Recusal Applied,-0.034,0.099
+deepseek_r1_32b_t0,immediate_judgement,Immediate ment,Not Immediate ment,-0.03,0.084

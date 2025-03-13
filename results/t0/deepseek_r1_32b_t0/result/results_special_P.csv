@@ -1,0 +1,2 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+deepseek_r1_32b_t0,judge_sexual_orientation, Bisexual, Heterosexual,-12.787,0.017

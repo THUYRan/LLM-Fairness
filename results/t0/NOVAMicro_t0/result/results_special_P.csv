@@ -1,0 +1,4 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+NOVAMicro_t0,defender_sexual_orientation, Homosexual, Heterosexual,10.579,0.077
+NOVAMicro_t0,judge_sex, Gender Non-Binary, Male,-14.1,0.046
+NOVAMicro_t0,judge_sexual_orientation, Homosexual, Heterosexual,16.1,0.011

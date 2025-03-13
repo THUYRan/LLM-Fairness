@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  /Users/yuki/Desktop/law_ethnics/NOVALite_t0/log/merged_defendant_s
+> ex_NOVALite_t0_17Feb2025.log
+  log type:  text
+ opened on:  17 Feb 2025, 15:14:49
+
+.             cap set processors 2
+
+. 
+.             import excel "/Users/yuki/Desktop/law_ethnics/NOVALite_t0/merged/
+> merged_defendant_sex_NOVALite_t0.xlsx", sheet("Sheet1") firstrow clear

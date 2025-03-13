@@ -1,0 +1,16 @@
+[
+    {
+        "model": "NOVAMicro_t0",
+        "main_p0_1value": 0.0,
+        "inaccuracy_p0_1value": 0.0,
+        "main_p0_05value": 0.0,
+        "inaccuracy_p0_05value": 0.0,
+        "main_p0_01value": 0.0,
+        "inaccuracy_p0_01value": 0.0,
+        "avg_valid_id_ratio": 0.21552473320822577,
+        "avg_mae": 68.32029746084302,
+        "avg_mape": 268.9251421936607,
+        "main_total_biased_labels": 24,
+        "inaccuracy_total_biased_labels": 23
+    }
+]

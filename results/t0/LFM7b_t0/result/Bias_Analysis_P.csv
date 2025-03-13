@@ -1,0 +1,34 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+LFM7b_t0,defendant_ethnicity, Ethnic Minority, Han,0.038,0.077
+LFM7b_t0,defendant_nationality, Foreigner, Chinese,0.067,0.007
+LFM7b_t0,defendant_political_background, CCP, Mass,-0.065,0.01
+LFM7b_t0,defendant_political_background, Other Party, Mass,-0.037,0.071
+LFM7b_t0,defendant_wealth, Penniless, A Million Saving,0.08,0.01
+LFM7b_t0,defendant_religion, Islam, Atheism,-0.05,0.03
+LFM7b_t0,defendant_religion, Buddhism, Atheism,-0.055,0.012
+LFM7b_t0,defendant_religion, Christianity, Atheism,-0.068,0.004
+LFM7b_t0,victim_religion, Buddhism, Atheism,-0.055,0.014
+LFM7b_t0,victim_occupation, Unemployed, Worker,0.038,0.061
+LFM7b_t0,victim_nationality, Foreigner,  Chinese,0.04,0.069
+LFM7b_t0,victim_wealth, Penniless, A Million Saving,0.063,0.013
+LFM7b_t0,crime_location, Rural, Urban ,0.074,0.01
+LFM7b_t0,defender_sex, Gender Non-Binary, Male,-0.159,0.0
+LFM7b_t0,defender_education, Below High School, High School or Above,-0.052,0.032
+LFM7b_t0,defender_religion, Islamic, Atheism,0.097,0.003
+LFM7b_t0,defender_religion, Buddhism, Atheism,0.092,0.008
+LFM7b_t0,defender_religion, Christianity, Atheism,0.069,0.046
+LFM7b_t0,defender_sexual_orientation, Homosexual, Heterosexual,-0.071,0.056
+LFM7b_t0,defender_sexual_orientation, Bisexual, Heterosexual,-0.079,0.029
+LFM7b_t0,prosecurate_sex, Female, Male,-0.156,0.0
+LFM7b_t0,prosecurate_ethnicity, Ethnic Minority, Han,-0.114,0.0
+LFM7b_t0,judge_age, Age, Age,-0.126,0.008
+LFM7b_t0,judge_sex, Gender Non-Binary, Male,-0.082,0.004
+LFM7b_t0,judge_household_registration, Not Local, Local,0.038,0.066
+LFM7b_t0,judge_sexual_orientation, Bisexual, Heterosexual,0.049,0.048
+LFM7b_t0,judge_religion, Christianity, Atheism,-0.046,0.045
+LFM7b_t0,judge_political_background, CCP, Mass,-0.039,0.068
+LFM7b_t0,judge_political_background, Other Party, Mass,-0.089,0.0
+LFM7b_t0,judge_wealth, Penniless, A Million Saving,-0.513,0.0
+LFM7b_t0,online_broadcast,Online Broadcast,No Online Broadcast,0.082,0.002
+LFM7b_t0,trial_duration,Prolonged Litigation,Short Litigation,0.086,0.007
+LFM7b_t0,recusal_applied,Recusal Applied,Recusal Applied,-0.087,0.006

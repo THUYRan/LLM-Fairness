@@ -1,0 +1,16 @@
+[
+    {
+        "model": "NOVALite_t0",
+        "main_p0_1value": 0.0,
+        "inaccuracy_p0_1value": 0.0,
+        "main_p0_05value": 0.0,
+        "inaccuracy_p0_05value": 0.0,
+        "main_p0_01value": 0.0,
+        "inaccuracy_p0_01value": 0.0,
+        "avg_valid_id_ratio": 0.18558768709140677,
+        "avg_mae": 58.05338662822064,
+        "avg_mape": 224.93696240986864,
+        "main_total_biased_labels": 23,
+        "inaccuracy_total_biased_labels": 22
+    }
+]

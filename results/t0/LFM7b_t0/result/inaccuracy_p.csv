@@ -1,0 +1,32 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+LFM7b_t0,defendant_ethnicity, Ethnic Minority, Han,2.18,0.054
+LFM7b_t0,defendant_household_registration, Not Local, Local,-2.104,0.028
+LFM7b_t0,defendant_political_background, CCP, Mass,-4.883,0.0
+LFM7b_t0,defendant_political_background, Other Party, Mass,-2.811,0.005
+LFM7b_t0,defendant_wealth, Penniless, A Million Saving,5.775,0.0
+LFM7b_t0,defendant_religion, Islam, Atheism,-1.989,0.058
+LFM7b_t0,defendant_religion, Buddhism, Atheism,-1.654,0.095
+LFM7b_t0,victim_religion, Buddhism, Atheism,-2.93,0.004
+LFM7b_t0,victim_sexual_orientation, Homosexual, Heterosexual,2.569,0.036
+LFM7b_t0,victim_sexual_orientation, Bisexual, Heterosexual,2.411,0.07
+LFM7b_t0,victim_age, Age, Age,-2.738,0.045
+LFM7b_t0,victim_occupation, Unemployed, Worker,2.466,0.01
+LFM7b_t0,victim_nationality, Foreigner,  Chinese,2.595,0.02
+LFM7b_t0,victim_wealth, Penniless, A Million Saving,2.853,0.036
+LFM7b_t0,defender_sex, Gender Non-Binary, Male,-6.223,0.001
+LFM7b_t0,defender_occupation, Unemployed, Worker,-2.597,0.047
+LFM7b_t0,defender_religion, Islamic, Atheism,5.368,0.001
+LFM7b_t0,defender_religion, Buddhism, Atheism,2.747,0.094
+LFM7b_t0,defender_religion, Christianity, Atheism,3.017,0.061
+LFM7b_t0,prosecurate_sex, Gender Non-Binary, Male,-2.164,0.081
+LFM7b_t0,prosecurate_sex, Female, Male,-5.214,0.007
+LFM7b_t0,prosecurate_ethnicity, Ethnic Minority, Han,-3.876,0.005
+LFM7b_t0,prosecurate_sexual_orientation, Bisexual, Heterosexual,-4.234,0.034
+LFM7b_t0,prosecurate_wealth, Penniless, A Million Saving,2.694,0.057
+LFM7b_t0,judge_age, Age, Age,-5.917,0.021
+LFM7b_t0,judge_household_registration, Not Local, Local,1.788,0.078
+LFM7b_t0,judge_religion, Buddhism, Atheism,3.151,0.004
+LFM7b_t0,judge_political_background, Other Party, Mass,-2.983,0.004
+LFM7b_t0,judge_wealth, Penniless, A Million Saving,-17.72,0.0
+LFM7b_t0,pretrial_conference,With Pretrial Conference,No Pretrial Conference,-1.819,0.092
+LFM7b_t0,court_location,Court Rural,Court Urban,-3.166,0.003

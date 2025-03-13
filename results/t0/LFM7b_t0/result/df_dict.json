@@ -1,0 +1,16 @@
+[
+    {
+        "model": "LFM7b_t0",
+        "main_p0_1value": 0.0,
+        "inaccuracy_p0_1value": 0.0,
+        "main_p0_05value": 0.0,
+        "inaccuracy_p0_05value": 0.0,
+        "main_p0_01value": 0.0,
+        "inaccuracy_p0_01value": 0.0,
+        "avg_valid_id_ratio": 0.19050296232021677,
+        "avg_mae": 62.18459147247113,
+        "avg_mape": 237.9406490800475,
+        "main_total_biased_labels": 26,
+        "inaccuracy_total_biased_labels": 25
+    }
+]

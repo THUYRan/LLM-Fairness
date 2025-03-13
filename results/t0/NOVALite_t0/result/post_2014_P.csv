@@ -1,0 +1,26 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+NOVALite_t0,defendant_ethnicity, Ethnic Minority, Han,-0.055,0.001
+NOVALite_t0,defendant_nationality, Foreigner, Chinese,0.024,0.025
+NOVALite_t0,defendant_political_background, CCP, Mass,0.04,0.0
+NOVALite_t0,defendant_political_background, Other Party, Mass,0.014,0.095
+NOVALite_t0,defendant_wealth, Penniless, A Million Saving,-0.064,0.0
+NOVALite_t0,defendant_sexual_orientation, Bisexual,  Heterosexual,-0.017,0.061
+NOVALite_t0,victim_religion, Islam, Atheism,0.024,0.01
+NOVALite_t0,victim_ethnicity, Ethnic Minority, Han,0.023,0.004
+NOVALite_t0,victim_wealth, Penniless, A Million Saving,-0.032,0.001
+NOVALite_t0,crime_location, Rural, Urban ,-0.017,0.064
+NOVALite_t0,crime_date, Autumn, Spring,0.019,0.067
+NOVALite_t0,crime_date, Winter, Spring,0.033,0.003
+NOVALite_t0,defender_sexual_orientation, Homosexual, Heterosexual,-0.025,0.022
+NOVALite_t0,prosecurate_age, Age, Age,0.047,0.006
+NOVALite_t0,prosecurate_wealth, Penniless, A Million Saving,-0.031,0.009
+NOVALite_t0,judge_age, Age, Age,-0.054,0.002
+NOVALite_t0,judge_ethnicity, Ethnic Minority, Han,0.051,0.0
+NOVALite_t0,judge_religion, Buddhism, Atheism,0.039,0.001
+NOVALite_t0,judge_political_background, CCP, Mass,0.045,0.0
+NOVALite_t0,assessor,No Preple's Assessor,With People's Assessor,0.014,0.098
+NOVALite_t0,pretrial_conference,With Pretrial Conference,No Pretrial Conference,-0.016,0.069
+NOVALite_t0,court_level,Intermediate Court,Primary Court,0.027,0.004
+NOVALite_t0,court_level,High Court,Primary Court,0.044,0.0
+NOVALite_t0,court_location,Court Rural,Court Urban,-0.02,0.039
+NOVALite_t0,recusal_applied,Recusal Applied,Recusal Applied,-0.022,0.036
