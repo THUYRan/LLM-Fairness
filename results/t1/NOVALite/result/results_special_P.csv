@@ -1,0 +1,3 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+NOVALite,defendant_nationality, Foreigner, Chinese,-13.121,0.074
+NOVALite,defendant_sexual_orientation, Homosexua,  Heterosexual,-13.741,0.04

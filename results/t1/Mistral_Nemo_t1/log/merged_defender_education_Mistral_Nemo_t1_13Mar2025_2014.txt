@@ -1,0 +1,1334 @@
+	(1)
+VARIABLES	lgxq_llm
+	
+1.treated	0.0178
+	(0.0568)
+1o.ID	-
+	
+2o.ID	-
+	
+3o.ID	-
+	
+5o.ID	-
+	
+6o.ID	-
+	
+7o.ID	-
+	
+8o.ID	-
+	
+9o.ID	-
+	
+11o.ID	-
+	
+12o.ID	-
+	
+15o.ID	-
+	
+16o.ID	-
+	
+18o.ID	-
+	
+21o.ID	-
+	
+23o.ID	-
+	
+27o.ID	-
+	
+28o.ID	-
+	
+30o.ID	-
+	
+32o.ID	-
+	
+33o.ID	-
+	
+34o.ID	-
+	
+36o.ID	-
+	
+38o.ID	-
+	
+41o.ID	-
+	
+43o.ID	-
+	
+47o.ID	-
+	
+48o.ID	-
+	
+49o.ID	-
+	
+51o.ID	-
+	
+56o.ID	-
+	
+57o.ID	-
+	
+58o.ID	-
+	
+59o.ID	-
+	
+62o.ID	-
+	
+63o.ID	-
+	
+65o.ID	-
+	
+66o.ID	-
+	
+67o.ID	-
+	
+69o.ID	-
+	
+70o.ID	-
+	
+73o.ID	-
+	
+74o.ID	-
+	
+75o.ID	-
+	
+78o.ID	-
+	
+81o.ID	-
+	
+82o.ID	-
+	
+85o.ID	-
+	
+86o.ID	-
+	
+87o.ID	-
+	
+88o.ID	-
+	
+89o.ID	-
+	
+90o.ID	-
+	
+91o.ID	-
+	
+92o.ID	-
+	
+93o.ID	-
+	
+95o.ID	-
+	
+96o.ID	-
+	
+97o.ID	-
+	
+98o.ID	-
+	
+99o.ID	-
+	
+100o.ID	-
+	
+101o.ID	-
+	
+102o.ID	-
+	
+103o.ID	-
+	
+105o.ID	-
+	
+106o.ID	-
+	
+107o.ID	-
+	
+108o.ID	-
+	
+109o.ID	-
+	
+111o.ID	-
+	
+114o.ID	-
+	
+116o.ID	-
+	
+120o.ID	-
+	
+121o.ID	-
+	
+123o.ID	-
+	
+125o.ID	-
+	
+126o.ID	-
+	
+128o.ID	-
+	
+129o.ID	-
+	
+131o.ID	-
+	
+134o.ID	-
+	
+135o.ID	-
+	
+138o.ID	-
+	
+139o.ID	-
+	
+140o.ID	-
+	
+142o.ID	-
+	
+143o.ID	-
+	
+147o.ID	-
+	
+148o.ID	-
+	
+150o.ID	-
+	
+151o.ID	-
+	
+154o.ID	-
+	
+155o.ID	-
+	
+156o.ID	-
+	
+158o.ID	-
+	
+159o.ID	-
+	
+160o.ID	-
+	
+161o.ID	-
+	
+162o.ID	-
+	
+164o.ID	-
+	
+165o.ID	-
+	
+167o.ID	-
+	
+168o.ID	-
+	
+173o.ID	-
+	
+174o.ID	-
+	
+176o.ID	-
+	
+177o.ID	-
+	
+180o.ID	-
+	
+182o.ID	-
+	
+184o.ID	-
+	
+185o.ID	-
+	
+186o.ID	-
+	
+189o.ID	-
+	
+190o.ID	-
+	
+191o.ID	-
+	
+192o.ID	-
+	
+194o.ID	-
+	
+195o.ID	-
+	
+196o.ID	-
+	
+197o.ID	-
+	
+201o.ID	-
+	
+202o.ID	-
+	
+203o.ID	-
+	
+206o.ID	-
+	
+208o.ID	-
+	
+211o.ID	-
+	
+214o.ID	-
+	
+217o.ID	-
+	
+218o.ID	-
+	
+219o.ID	-
+	
+220o.ID	-
+	
+221o.ID	-
+	
+222o.ID	-
+	
+223o.ID	-
+	
+226o.ID	-
+	
+227o.ID	-
+	
+228o.ID	-
+	
+229o.ID	-
+	
+230o.ID	-
+	
+231o.ID	-
+	
+232o.ID	-
+	
+233o.ID	-
+	
+234o.ID	-
+	
+235o.ID	-
+	
+236o.ID	-
+	
+238o.ID	-
+	
+239o.ID	-
+	
+243o.ID	-
+	
+245o.ID	-
+	
+246o.ID	-
+	
+247o.ID	-
+	
+248o.ID	-
+	
+249o.ID	-
+	
+250o.ID	-
+	
+253o.ID	-
+	
+254o.ID	-
+	
+256o.ID	-
+	
+257o.ID	-
+	
+259o.ID	-
+	
+260o.ID	-
+	
+261o.ID	-
+	
+263o.ID	-
+	
+264o.ID	-
+	
+266o.ID	-
+	
+267o.ID	-
+	
+269o.ID	-
+	
+270o.ID	-
+	
+271o.ID	-
+	
+272o.ID	-
+	
+277o.ID	-
+	
+278o.ID	-
+	
+284o.ID	-
+	
+285o.ID	-
+	
+286o.ID	-
+	
+291o.ID	-
+	
+292o.ID	-
+	
+293o.ID	-
+	
+294o.ID	-
+	
+295o.ID	-
+	
+296o.ID	-
+	
+298o.ID	-
+	
+299o.ID	-
+	
+300o.ID	-
+	
+301o.ID	-
+	
+303o.ID	-
+	
+305o.ID	-
+	
+306o.ID	-
+	
+308o.ID	-
+	
+309o.ID	-
+	
+311o.ID	-
+	
+315o.ID	-
+	
+318o.ID	-
+	
+321o.ID	-
+	
+322o.ID	-
+	
+326o.ID	-
+	
+327o.ID	-
+	
+328o.ID	-
+	
+329o.ID	-
+	
+330o.ID	-
+	
+331o.ID	-
+	
+336o.ID	-
+	
+337o.ID	-
+	
+340o.ID	-
+	
+341o.ID	-
+	
+343o.ID	-
+	
+345o.ID	-
+	
+347o.ID	-
+	
+348o.ID	-
+	
+349o.ID	-
+	
+352o.ID	-
+	
+353o.ID	-
+	
+354o.ID	-
+	
+356o.ID	-
+	
+361o.ID	-
+	
+363o.ID	-
+	
+365o.ID	-
+	
+367o.ID	-
+	
+369o.ID	-
+	
+372o.ID	-
+	
+375o.ID	-
+	
+379o.ID	-
+	
+381o.ID	-
+	
+383o.ID	-
+	
+384o.ID	-
+	
+385o.ID	-
+	
+386o.ID	-
+	
+389o.ID	-
+	
+391o.ID	-
+	
+394o.ID	-
+	
+395o.ID	-
+	
+398o.ID	-
+	
+399o.ID	-
+	
+400o.ID	-
+	
+401o.ID	-
+	
+402o.ID	-
+	
+403o.ID	-
+	
+405o.ID	-
+	
+407o.ID	-
+	
+408o.ID	-
+	
+409o.ID	-
+	
+410o.ID	-
+	
+411o.ID	-
+	
+412o.ID	-
+	
+413o.ID	-
+	
+415o.ID	-
+	
+417o.ID	-
+	
+420o.ID	-
+	
+421o.ID	-
+	
+422o.ID	-
+	
+423o.ID	-
+	
+425o.ID	-
+	
+426o.ID	-
+	
+428o.ID	-
+	
+429o.ID	-
+	
+431o.ID	-
+	
+432o.ID	-
+	
+433o.ID	-
+	
+436o.ID	-
+	
+439o.ID	-
+	
+440o.ID	-
+	
+442o.ID	-
+	
+444o.ID	-
+	
+445o.ID	-
+	
+448o.ID	-
+	
+449o.ID	-
+	
+450o.ID	-
+	
+451o.ID	-
+	
+452o.ID	-
+	
+454o.ID	-
+	
+457o.ID	-
+	
+459o.ID	-
+	
+460o.ID	-
+	
+471o.ID	-
+	
+472o.ID	-
+	
+473o.ID	-
+	
+474o.ID	-
+	
+475o.ID	-
+	
+476o.ID	-
+	
+481o.ID	-
+	
+484o.ID	-
+	
+485o.ID	-
+	
+486o.ID	-
+	
+488o.ID	-
+	
+489o.ID	-
+	
+494o.ID	-
+	
+497o.ID	-
+	
+498o.ID	-
+	
+499o.ID	-
+	
+502o.ID	-
+	
+503o.ID	-
+	
+505o.ID	-
+	
+506o.ID	-
+	
+507o.ID	-
+	
+509o.ID	-
+	
+510o.ID	-
+	
+512o.ID	-
+	
+513o.ID	-
+	
+516o.ID	-
+	
+518o.ID	-
+	
+519o.ID	-
+	
+520o.ID	-
+	
+523o.ID	-
+	
+526o.ID	-
+	
+527o.ID	-
+	
+529o.ID	-
+	
+530o.ID	-
+	
+531o.ID	-
+	
+533o.ID	-
+	
+534o.ID	-
+	
+535o.ID	-
+	
+536o.ID	-
+	
+538o.ID	-
+	
+539o.ID	-
+	
+540o.ID	-
+	
+543o.ID	-
+	
+544o.ID	-
+	
+545o.ID	-
+	
+548o.ID	-
+	
+551o.ID	-
+	
+553o.ID	-
+	
+555o.ID	-
+	
+557o.ID	-
+	
+558o.ID	-
+	
+559o.ID	-
+	
+562o.ID	-
+	
+563o.ID	-
+	
+564o.ID	-
+	
+565o.ID	-
+	
+566o.ID	-
+	
+568o.ID	-
+	
+570o.ID	-
+	
+571o.ID	-
+	
+573o.ID	-
+	
+574o.ID	-
+	
+575o.ID	-
+	
+576o.ID	-
+	
+577o.ID	-
+	
+578o.ID	-
+	
+579o.ID	-
+	
+582o.ID	-
+	
+584o.ID	-
+	
+586o.ID	-
+	
+587o.ID	-
+	
+588o.ID	-
+	
+591o.ID	-
+	
+593o.ID	-
+	
+595o.ID	-
+	
+596o.ID	-
+	
+598o.ID	-
+	
+599o.ID	-
+	
+601o.ID	-
+	
+606o.ID	-
+	
+610o.ID	-
+	
+611o.ID	-
+	
+612o.ID	-
+	
+613o.ID	-
+	
+614o.ID	-
+	
+617o.ID	-
+	
+619o.ID	-
+	
+621o.ID	-
+	
+628o.ID	-
+	
+632o.ID	-
+	
+635o.ID	-
+	
+636o.ID	-
+	
+637o.ID	-
+	
+639o.ID	-
+	
+640o.ID	-
+	
+641o.ID	-
+	
+644o.ID	-
+	
+646o.ID	-
+	
+650o.ID	-
+	
+652o.ID	-
+	
+653o.ID	-
+	
+656o.ID	-
+	
+658o.ID	-
+	
+660o.ID	-
+	
+661o.ID	-
+	
+662o.ID	-
+	
+663o.ID	-
+	
+665o.ID	-
+	
+668o.ID	-
+	
+669o.ID	-
+	
+670o.ID	-
+	
+671o.ID	-
+	
+673o.ID	-
+	
+674o.ID	-
+	
+675o.ID	-
+	
+677o.ID	-
+	
+678o.ID	-
+	
+679o.ID	-
+	
+680o.ID	-
+	
+681o.ID	-
+	
+682o.ID	-
+	
+687o.ID	-
+	
+688o.ID	-
+	
+689o.ID	-
+	
+690o.ID	-
+	
+691o.ID	-
+	
+693o.ID	-
+	
+694o.ID	-
+	
+695o.ID	-
+	
+696o.ID	-
+	
+697o.ID	-
+	
+698o.ID	-
+	
+699o.ID	-
+	
+701o.ID	-
+	
+702o.ID	-
+	
+704o.ID	-
+	
+705o.ID	-
+	
+706o.ID	-
+	
+707o.ID	-
+	
+708o.ID	-
+	
+710o.ID	-
+	
+712o.ID	-
+	
+713o.ID	-
+	
+715o.ID	-
+	
+717o.ID	-
+	
+718o.ID	-
+	
+720o.ID	-
+	
+721o.ID	-
+	
+722o.ID	-
+	
+724o.ID	-
+	
+725o.ID	-
+	
+727o.ID	-
+	
+728o.ID	-
+	
+730o.ID	-
+	
+731o.ID	-
+	
+732o.ID	-
+	
+733o.ID	-
+	
+734o.ID	-
+	
+736o.ID	-
+	
+737o.ID	-
+	
+739o.ID	-
+	
+741o.ID	-
+	
+742o.ID	-
+	
+743o.ID	-
+	
+744o.ID	-
+	
+745o.ID	-
+	
+746o.ID	-
+	
+747o.ID	-
+	
+748o.ID	-
+	
+749o.ID	-
+	
+750o.ID	-
+	
+751o.ID	-
+	
+752o.ID	-
+	
+755o.ID	-
+	
+757o.ID	-
+	
+759o.ID	-
+	
+761o.ID	-
+	
+762o.ID	-
+	
+763o.ID	-
+	
+764o.ID	-
+	
+765o.ID	-
+	
+766o.ID	-
+	
+767o.ID	-
+	
+768o.ID	-
+	
+770o.ID	-
+	
+772o.ID	-
+	
+773o.ID	-
+	
+774o.ID	-
+	
+775o.ID	-
+	
+776o.ID	-
+	
+777o.ID	-
+	
+779o.ID	-
+	
+780o.ID	-
+	
+781o.ID	-
+	
+782o.ID	-
+	
+783o.ID	-
+	
+784o.ID	-
+	
+785o.ID	-
+	
+788o.ID	-
+	
+790o.ID	-
+	
+791o.ID	-
+	
+794o.ID	-
+	
+795o.ID	-
+	
+796o.ID	-
+	
+797o.ID	-
+	
+798o.ID	-
+	
+801o.ID	-
+	
+803o.ID	-
+	
+804o.ID	-
+	
+806o.ID	-
+	
+807o.ID	-
+	
+810o.ID	-
+	
+812o.ID	-
+	
+814o.ID	-
+	
+815o.ID	-
+	
+816o.ID	-
+	
+817o.ID	-
+	
+818o.ID	-
+	
+820o.ID	-
+	
+821o.ID	-
+	
+822o.ID	-
+	
+823o.ID	-
+	
+825o.ID	-
+	
+826o.ID	-
+	
+827o.ID	-
+	
+828o.ID	-
+	
+829o.ID	-
+	
+830o.ID	-
+	
+832o.ID	-
+	
+834o.ID	-
+	
+837o.ID	-
+	
+839o.ID	-
+	
+841o.ID	-
+	
+842o.ID	-
+	
+845o.ID	-
+	
+847o.ID	-
+	
+848o.ID	-
+	
+851o.ID	-
+	
+852o.ID	-
+	
+854o.ID	-
+	
+855o.ID	-
+	
+856o.ID	-
+	
+857o.ID	-
+	
+859o.ID	-
+	
+860o.ID	-
+	
+864o.ID	-
+	
+865o.ID	-
+	
+866o.ID	-
+	
+867o.ID	-
+	
+868o.ID	-
+	
+869o.ID	-
+	
+872o.ID	-
+	
+873o.ID	-
+	
+875o.ID	-
+	
+876o.ID	-
+	
+878o.ID	-
+	
+880o.ID	-
+	
+881o.ID	-
+	
+882o.ID	-
+	
+884o.ID	-
+	
+885o.ID	-
+	
+887o.ID	-
+	
+888o.ID	-
+	
+889o.ID	-
+	
+890o.ID	-
+	
+892o.ID	-
+	
+893o.ID	-
+	
+895o.ID	-
+	
+897o.ID	-
+	
+899o.ID	-
+	
+900o.ID	-
+	
+901o.ID	-
+	
+903o.ID	-
+	
+904o.ID	-
+	
+905o.ID	-
+	
+908o.ID	-
+	
+909o.ID	-
+	
+910o.ID	-
+	
+912o.ID	-
+	
+913o.ID	-
+	
+914o.ID	-
+	
+915o.ID	-
+	
+917o.ID	-
+	
+918o.ID	-
+	
+919o.ID	-
+	
+921o.ID	-
+	
+923o.ID	-
+	
+924o.ID	-
+	
+926o.ID	-
+	
+929o.ID	-
+	
+932o.ID	-
+	
+933o.ID	-
+	
+934o.ID	-
+	
+938o.ID	-
+	
+939o.ID	-
+	
+941o.ID	-
+	
+944o.ID	-
+	
+945o.ID	-
+	
+946o.ID	-
+	
+947o.ID	-
+	
+951o.ID	-
+	
+952o.ID	-
+	
+953o.ID	-
+	
+954o.ID	-
+	
+955o.ID	-
+	
+957o.ID	-
+	
+959o.ID	-
+	
+960o.ID	-
+	
+961o.ID	-
+	
+964o.ID	-
+	
+965o.ID	-
+	
+966o.ID	-
+	
+968o.ID	-
+	
+969o.ID	-
+	
+970o.ID	-
+	
+973o.ID	-
+	
+974o.ID	-
+	
+975o.ID	-
+	
+976o.ID	-
+	
+977o.ID	-
+	
+978o.ID	-
+	
+980o.ID	-
+	
+982o.ID	-
+	
+984o.ID	-
+	
+985o.ID	-
+	
+986o.ID	-
+	
+988o.ID	-
+	
+990o.ID	-
+	
+993o.ID	-
+	
+994o.ID	-
+	
+995o.ID	-
+	
+998o.ID	-
+	
+999o.ID	-
+	
+1000o.ID	-
+	
+1004o.ID	-
+	
+1006o.ID	-
+	
+1009o.ID	-
+	
+1011o.ID	-
+	
+1013o.ID	-
+	
+1014o.ID	-
+	
+1015o.ID	-
+	
+1016o.ID	-
+	
+1017o.ID	-
+	
+1020o.ID	-
+	
+1021o.ID	-
+	
+1022o.ID	-
+	
+1023o.ID	-
+	
+1024o.ID	-
+	
+1025o.ID	-
+	
+1026o.ID	-
+	
+1027o.ID	-
+	
+1030o.ID	-
+	
+1033o.ID	-
+	
+1034o.ID	-
+	
+1035o.ID	-
+	
+1038o.ID	-
+	
+1042o.ID	-
+	
+1043o.ID	-
+	
+1046o.ID	-
+	
+1047o.ID	-
+	
+1049o.ID	-
+	
+1051o.ID	-
+	
+1052o.ID	-
+	
+1053o.ID	-
+	
+1054o.ID	-
+	
+1055o.ID	-
+	
+1057o.ID	-
+	
+1061o.ID	-
+	
+1063o.ID	-
+	
+1064o.ID	-
+	
+1066o.ID	-
+	
+1068o.ID	-
+	
+1069o.ID	-
+	
+1070o.ID	-
+	
+1071o.ID	-
+	
+1073o.ID	-
+	
+1075o.ID	-
+	
+1076o.ID	-
+	
+1078o.ID	-
+	
+1079o.ID	-
+	
+1084o.ID	-
+	
+1086o.ID	-
+	
+1087o.ID	-
+	
+1091o.ID	-
+	
+1092o.ID	-
+	
+1093o.ID	-
+	
+1094o.ID	-
+	
+1097o.ID	-
+	
+1098o.ID	-
+	
+Constant	3.685***
+	(0.0284)
+	
+Observations	1,324
+R-squared	0.715
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

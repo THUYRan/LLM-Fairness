@@ -1,0 +1,3 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+NOVAMico,victim_sexual_orientation, Bisexual, Heterosexual,-22.231,0.05
+NOVAMico,judge_sexual_orientation, Bisexual, Heterosexual,-13.233,0.093

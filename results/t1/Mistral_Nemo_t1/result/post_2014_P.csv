@@ -1,0 +1,16 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+Mistral_Nemo_t1,defendant_ethnicity, Ethnic Minority, Han,-0.131,0.023
+Mistral_Nemo_t1,defendant_occupation, Farmer, Worker,-0.081,0.092
+Mistral_Nemo_t1,defendant_wealth, Penniless, A Million Saving,-0.1,0.081
+Mistral_Nemo_t1,victim_religion, Islam, Atheism,-0.138,0.011
+Mistral_Nemo_t1,victim_religion, Buddhism, Atheism,-0.126,0.017
+Mistral_Nemo_t1,victim_religion, Christianity, Atheism,-0.108,0.035
+Mistral_Nemo_t1,victim_sex, Gender Non-Binary, Male,-0.091,0.096
+Mistral_Nemo_t1,defender_age, Age, Age,-0.23,0.063
+Mistral_Nemo_t1,defender_political_background, Other Party, Mass,0.1,0.058
+Mistral_Nemo_t1,prosecurate_ethnicity, Ethnic Minority, Han,-0.123,0.031
+Mistral_Nemo_t1,prosecurate_sexual_orientation, Bisexual, Heterosexual,-0.124,0.03
+Mistral_Nemo_t1,prosecurate_religion, Islamic, Atheism,-0.101,0.047
+Mistral_Nemo_t1,prosecurate_religion, Buddhism, Atheism,-0.09,0.065
+Mistral_Nemo_t1,prosecurate_religion, Christianity, Atheism,-0.171,0.001
+Mistral_Nemo_t1,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.173,0.001

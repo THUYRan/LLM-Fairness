@@ -1,0 +1,11 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+Mistral_Nemo_t1,defendant_sex, Female, Male,4.469,0.054
+Mistral_Nemo_t1,defendant_ethnicity, Ethnic Minority, Han,-6.642,0.005
+Mistral_Nemo_t1,defendant_wealth, Penniless, A Million Saving,-11.21,0.0
+Mistral_Nemo_t1,defendant_religion, Buddhism, Atheism,-4.249,0.048
+Mistral_Nemo_t1,defendant_religion, Christianity, Atheism,-3.889,0.072
+Mistral_Nemo_t1,defender_household_registration, Not Local, Local,-4.625,0.059
+Mistral_Nemo_t1,defender_religion, Islamic, Atheism,-5.444,0.013
+Mistral_Nemo_t1,defender_type,Appointed ,Privately Attained ,-5.474,0.01
+Mistral_Nemo_t1,compulsory_measure,Compulsory Measure,No Compulsory Measure,6.005,0.008
+Mistral_Nemo_t1,immediate_judgement,Immediate ment,Not Immediate ment,4.123,0.064

@@ -1,0 +1,16 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+NOVAMico,defendant_sex, Female, Male,0.081,0.024
+NOVAMico,defendant_sex, Non-Binary, Male,0.063,0.069
+NOVAMico,victim_sexual_orientation, Bisexual, Heterosexual,0.068,0.087
+NOVAMico,victim_sex, Gender Non-Binary, Male,-0.072,0.06
+NOVAMico,victim_age, Age, Age,-0.2,0.032
+NOVAMico,crime_time, Afternoon, Morning,0.069,0.001
+NOVAMico,defender_sex, Gender Non-Binary, Male,-0.088,0.007
+NOVAMico,judge_sex, Female, Male,-0.07,0.01
+NOVAMico,judge_sex, Gender Non-Binary, Male,-0.196,0.0
+NOVAMico,judge_sexual_orientation, Homosexual, Heterosexual,0.115,0.001
+NOVAMico,judge_religion, Islamic, Atheism,-0.055,0.051
+NOVAMico,judge_religion, Buddhism, Atheism,0.082,0.007
+NOVAMico,judge_religion, Christianity, Atheism,0.073,0.013
+NOVAMico,judge_political_background, Other Party, Mass,-0.136,0.0
+NOVAMico,judge_wealth, Penniless, A Million Saving,-0.114,0.004

@@ -1,0 +1,16 @@
+[
+    {
+        "model": "NOVAMico",
+        "main_p0_1value": 0.0,
+        "inaccuracy_p0_1value": 0.0,
+        "main_p0_05value": 0.0,
+        "inaccuracy_p0_05value": 0.0,
+        "main_p0_01value": 0.0,
+        "inaccuracy_p0_01value": 0.0,
+        "avg_valid_id_ratio": 0.82817116773943,
+        "avg_mae": 64.45487971832944,
+        "avg_mape": 268.9805069270661,
+        "main_total_biased_labels": 14,
+        "inaccuracy_total_biased_labels": 13
+    }
+]

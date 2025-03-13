@@ -1,0 +1,2 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+Mistral_Nemo_t1,judge_sexual_orientation, Bisexual, Heterosexual,17.347,0.094

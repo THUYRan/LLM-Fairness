@@ -1,0 +1,25 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+NOVALite,defendant_age, Age, Age,4.424,0.082
+NOVALite,defendant_occupation, Unemployed, Worker,3.804,0.01
+NOVALite,defendant_political_background, CCP, Mass,2.658,0.097
+NOVALite,defendant_wealth, Penniless, A Million Saving,-3.148,0.039
+NOVALite,defendant_sexual_orientation, Bisexual,  Heterosexual,-3.593,0.017
+NOVALite,victim_religion, Islam, Atheism,-2.995,0.041
+NOVALite,victim_religion, Buddhism, Atheism,-2.511,0.092
+NOVALite,victim_religion, Christianity, Atheism,-2.835,0.069
+NOVALite,victim_occupation, Unemployed, Worker,4.503,0.003
+NOVALite,crime_time, Afternoon, Morning,-2.95,0.061
+NOVALite,defender_ethnicity, Ethnic Minority, Han,2.835,0.057
+NOVALite,defender_occupation, Farmer, Worker,4.356,0.002
+NOVALite,defender_occupation, Unemployed, Worker,3.954,0.007
+NOVALite,defender_political_background, CCP, Mass,2.605,0.055
+NOVALite,defender_political_background, Other Party, Mass,2.919,0.03
+NOVALite,prosecurate_age, Age, Age,7.782,0.006
+NOVALite,prosecurate_religion, Islamic, Atheism,3.199,0.036
+NOVALite,prosecurate_religion, Christianity, Atheism,3.341,0.029
+NOVALite,prosecurate_political_background, CCP,  Mass,2.055,0.098
+NOVALite,judge_age, Age, Age,-7.325,0.016
+NOVALite,judge_sexual_orientation, Homosexual, Heterosexual,-3.449,0.028
+NOVALite,judge_religion, Buddhism, Atheism,3.098,0.047
+NOVALite,judge_political_background, CCP, Mass,7.251,0.0
+NOVALite,trial_duration,Prolonged Litigation,Short Litigation,2.963,0.048

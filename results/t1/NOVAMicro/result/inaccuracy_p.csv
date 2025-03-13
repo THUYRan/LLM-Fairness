@@ -1,0 +1,16 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+NOVAMico,defendant_sex, Female, Male,6.317,0.006
+NOVAMico,victim_sexual_orientation, Bisexual, Heterosexual,5.46,0.049
+NOVAMico,victim_age, Age, Age,-7.825,0.015
+NOVAMico,crime_location, Rural, Urban ,3.988,0.073
+NOVAMico,crime_date, Summer, Spring,-3.724,0.085
+NOVAMico,defender_sex, Gender Non-Binary, Male,-4.757,0.033
+NOVAMico,prosecurate_ethnicity, Ethnic Minority, Han,5.668,0.01
+NOVAMico,prosecurate_political_background, CCP,  Mass,3.92,0.058
+NOVAMico,judge_age, Age, Age,7.754,0.1
+NOVAMico,judge_sex, Female, Male,-7.288,0.003
+NOVAMico,judge_sex, Gender Non-Binary, Male,-12.338,0.0
+NOVAMico,judge_sexual_orientation, Homosexual, Heterosexual,8.603,0.0
+NOVAMico,judge_sexual_orientation, Bisexual, Heterosexual,3.984,0.09
+NOVAMico,judge_religion, Islamic, Atheism,-5.55,0.011
+NOVAMico,judge_political_background, Other Party, Mass,-8.816,0.0
