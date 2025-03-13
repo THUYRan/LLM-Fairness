@@ -1,0 +1,3 @@
+﻿Model Name,Label Category,Label Number,Biased Label Number
+qwen25_7b_t0,Substance label,25,8
+qwen25_7b_t0,Procedural label,40,20

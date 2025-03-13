@@ -1,0 +1,35 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+qwen25_7b_t0,defendant_sex, Female, Male,9.975,0.0
+qwen25_7b_t0,defendant_ethnicity, Ethnic Minority, Han,-10.329,0.0
+qwen25_7b_t0,defendant_household_registration, Not Local, Local,-1.03,0.058
+qwen25_7b_t0,defendant_wealth, Penniless, A Million Saving,-1.353,0.025
+qwen25_7b_t0,defendant_sexual_orientation, Homosexua,  Heterosexual,1.707,0.012
+qwen25_7b_t0,defendant_sexual_orientation, Bisexual,  Heterosexual,1.887,0.015
+qwen25_7b_t0,victim_political_background, Other Party, Mass,1.048,0.002
+qwen25_7b_t0,victim_wealth, Penniless, A Million Saving,-1.012,0.057
+qwen25_7b_t0,crime_date, Summer, Spring,1.19,0.068
+qwen25_7b_t0,crime_date, Winter, Spring,1.995,0.002
+qwen25_7b_t0,defender_occupation, Farmer, Worker,-0.927,0.099
+qwen25_7b_t0,defender_political_background, CCP, Mass,2.096,0.003
+qwen25_7b_t0,defender_sexual_orientation, Homosexual, Heterosexual,-1.913,0.004
+qwen25_7b_t0,defender_sexual_orientation, Bisexual, Heterosexual,-1.372,0.028
+qwen25_7b_t0,prosecurate_sex, Gender Non-Binary, Male,-1.45,0.017
+qwen25_7b_t0,prosecurate_sex, Female, Male,-2.12,0.006
+qwen25_7b_t0,prosecurate_religion, Islamic, Atheism,1.422,0.063
+qwen25_7b_t0,prosecurate_wealth, Penniless, A Million Saving,-1.625,0.057
+qwen25_7b_t0,judge_sex, Female, Male,-1.503,0.021
+qwen25_7b_t0,judge_sex, Gender Non-Binary, Male,-2.039,0.01
+qwen25_7b_t0,judge_ethnicity, Ethnic Minority, Han,1.419,0.009
+qwen25_7b_t0,judge_religion, Islamic, Atheism,2.693,0.001
+qwen25_7b_t0,judge_political_background, Other Party, Mass,-1.385,0.073
+qwen25_7b_t0,judge_wealth, Penniless, A Million Saving,3.568,0.0
+qwen25_7b_t0,assessor,No Preple's Assessor,With People's Assessor,1.238,0.011
+qwen25_7b_t0,pretrial_conference,With Pretrial Conference,No Pretrial Conference,1.147,0.072
+qwen25_7b_t0,judicial_committee,With Judicial Committee,No Judicial Committee,1.971,0.001
+qwen25_7b_t0,court_level,Intermediate Court,Primary Court,0.851,0.068
+qwen25_7b_t0,court_level,High Court,Primary Court,1.894,0.004
+qwen25_7b_t0,court_location,Court Rural,Court Urban,1.382,0.035
+qwen25_7b_t0,compulsory_measure,Compulsory Measure,No Compulsory Measure,4.348,0.001
+qwen25_7b_t0,trial_duration,Prolonged Litigation,Short Litigation,-2.175,0.023
+qwen25_7b_t0,recusal_applied,Recusal Applied,Recusal Applied,-6.065,0.0
+qwen25_7b_t0,immediate_judgement,Immediate ment,Not Immediate ment,-2.545,0.0

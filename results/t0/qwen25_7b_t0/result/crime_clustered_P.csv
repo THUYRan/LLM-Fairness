@@ -1,0 +1,27 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+qwen25_7b_t0,defendant_sex, Female, Male,0.104,0.0
+qwen25_7b_t0,defendant_ethnicity, Ethnic Minority, Han,-0.11,0.0
+qwen25_7b_t0,defendant_occupation, Farmer, Worker,0.011,0.029
+qwen25_7b_t0,defendant_household_registration, Not Local, Local,-0.016,0.046
+qwen25_7b_t0,defendant_nationality, Foreigner, Chinese,-0.059,0.007
+qwen25_7b_t0,defendant_political_background, Other Party, Mass,0.018,0.072
+qwen25_7b_t0,victim_sex, Female, Male,-0.014,0.088
+qwen25_7b_t0,victim_nationality, Foreigner,  Chinese,-0.045,0.093
+qwen25_7b_t0,victim_political_background, Other Party, Mass,0.015,0.012
+qwen25_7b_t0,victim_wealth, Penniless, A Million Saving,-0.027,0.005
+qwen25_7b_t0,defender_household_registration, Not Local, Local,-0.015,0.077
+qwen25_7b_t0,defender_political_background, CCP, Mass,0.026,0.018
+qwen25_7b_t0,prosecurate_sexual_orientation, Bisexual, Heterosexual,0.054,0.007
+qwen25_7b_t0,prosecurate_religion, Islamic, Atheism,0.024,0.076
+qwen25_7b_t0,prosecurate_wealth, Penniless, A Million Saving,-0.039,0.021
+qwen25_7b_t0,judge_religion, Islamic, Atheism,0.024,0.063
+qwen25_7b_t0,judge_political_background, Other Party, Mass,-0.041,0.004
+qwen25_7b_t0,judge_wealth, Penniless, A Million Saving,0.056,0.0
+qwen25_7b_t0,pretrial_conference,With Pretrial Conference,No Pretrial Conference,0.026,0.003
+qwen25_7b_t0,judicial_committee,With Judicial Committee,No Judicial Committee,0.036,0.0
+qwen25_7b_t0,court_level,Intermediate Court,Primary Court,0.019,0.001
+qwen25_7b_t0,court_level,High Court,Primary Court,0.027,0.002
+qwen25_7b_t0,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.054,0.04
+qwen25_7b_t0,trial_duration,Prolonged Litigation,Short Litigation,-0.038,0.004
+qwen25_7b_t0,recusal_applied,Recusal Applied,Recusal Applied,-0.101,0.0
+qwen25_7b_t0,immediate_judgement,Immediate ment,Not Immediate ment,-0.036,0.0

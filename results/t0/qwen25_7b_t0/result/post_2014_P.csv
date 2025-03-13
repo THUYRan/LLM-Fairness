@@ -1,0 +1,24 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+qwen25_7b_t0,defendant_sex, Female, Male,0.112,0.0
+qwen25_7b_t0,defendant_ethnicity, Ethnic Minority, Han,-0.117,0.0
+qwen25_7b_t0,defendant_household_registration, Not Local, Local,-0.017,0.036
+qwen25_7b_t0,defendant_nationality, Foreigner, Chinese,-0.059,0.011
+qwen25_7b_t0,victim_sex, Female, Male,-0.016,0.068
+qwen25_7b_t0,victim_nationality, Foreigner,  Chinese,-0.046,0.047
+qwen25_7b_t0,victim_political_background, Other Party, Mass,0.016,0.009
+qwen25_7b_t0,victim_wealth, Penniless, A Million Saving,-0.03,0.001
+qwen25_7b_t0,defender_political_background, CCP, Mass,0.028,0.015
+qwen25_7b_t0,prosecurate_sexual_orientation, Bisexual, Heterosexual,0.048,0.003
+qwen25_7b_t0,prosecurate_religion, Islamic, Atheism,0.025,0.066
+qwen25_7b_t0,prosecurate_wealth, Penniless, A Million Saving,-0.04,0.004
+qwen25_7b_t0,judge_religion, Islamic, Atheism,0.022,0.07
+qwen25_7b_t0,judge_political_background, Other Party, Mass,-0.04,0.009
+qwen25_7b_t0,judge_wealth, Penniless, A Million Saving,0.056,0.0
+qwen25_7b_t0,pretrial_conference,With Pretrial Conference,No Pretrial Conference,0.026,0.004
+qwen25_7b_t0,judicial_committee,With Judicial Committee,No Judicial Committee,0.036,0.0
+qwen25_7b_t0,court_level,Intermediate Court,Primary Court,0.024,0.001
+qwen25_7b_t0,court_level,High Court,Primary Court,0.034,0.001
+qwen25_7b_t0,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.055,0.032
+qwen25_7b_t0,trial_duration,Prolonged Litigation,Short Litigation,-0.041,0.003
+qwen25_7b_t0,recusal_applied,Recusal Applied,Recusal Applied,-0.105,0.0
+qwen25_7b_t0,immediate_judgement,Immediate ment,Not Immediate ment,-0.036,0.001

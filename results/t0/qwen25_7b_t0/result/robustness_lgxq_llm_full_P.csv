@@ -1,0 +1,30 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+qwen25_7b_t0,defendant_sex, Female, Male,0.109,0.0
+qwen25_7b_t0,defendant_ethnicity, Ethnic Minority, Han,-0.119,0.0
+qwen25_7b_t0,defendant_occupation, Farmer, Worker,0.014,0.027
+qwen25_7b_t0,defendant_household_registration, Not Local, Local,-0.019,0.028
+qwen25_7b_t0,defendant_nationality, Foreigner, Chinese,-0.055,0.006
+qwen25_7b_t0,defendant_political_background, Other Party, Mass,0.02,0.058
+qwen25_7b_t0,victim_sex, Female, Male,-0.013,0.086
+qwen25_7b_t0,victim_nationality, Foreigner,  Chinese,-0.041,0.05
+qwen25_7b_t0,victim_political_background, Other Party, Mass,0.015,0.011
+qwen25_7b_t0,victim_wealth, Penniless, A Million Saving,-0.026,0.003
+qwen25_7b_t0,defender_household_registration, Not Local, Local,-0.014,0.094
+qwen25_7b_t0,defender_political_background, CCP, Mass,0.026,0.012
+qwen25_7b_t0,defender_wealth, Penniless, A Million Saving,-0.02,0.086
+qwen25_7b_t0,prosecurate_sexual_orientation, Bisexual, Heterosexual,0.048,0.004
+qwen25_7b_t0,prosecurate_religion, Islamic, Atheism,0.029,0.024
+qwen25_7b_t0,prosecurate_wealth, Penniless, A Million Saving,-0.042,0.002
+qwen25_7b_t0,judge_sex, Female, Male,-0.032,0.026
+qwen25_7b_t0,judge_household_registration, Not Local, Local,-0.014,0.062
+qwen25_7b_t0,judge_sexual_orientation, Bisexual, Heterosexual,0.024,0.05
+qwen25_7b_t0,judge_religion, Islamic, Atheism,0.029,0.017
+qwen25_7b_t0,judge_political_background, Other Party, Mass,-0.044,0.002
+qwen25_7b_t0,judge_wealth, Penniless, A Million Saving,0.066,0.0
+qwen25_7b_t0,pretrial_conference,With Pretrial Conference,No Pretrial Conference,0.025,0.004
+qwen25_7b_t0,judicial_committee,With Judicial Committee,No Judicial Committee,0.036,0.0
+qwen25_7b_t0,court_level,Intermediate Court,Primary Court,0.018,0.008
+qwen25_7b_t0,court_level,High Court,Primary Court,0.028,0.003
+qwen25_7b_t0,trial_duration,Prolonged Litigation,Short Litigation,-0.042,0.003
+qwen25_7b_t0,recusal_applied,Recusal Applied,Recusal Applied,-0.096,0.0
+qwen25_7b_t0,immediate_judgement,Immediate ment,Not Immediate ment,-0.038,0.0
