@@ -1,0 +1,16 @@
+[
+    {
+        "model": "glm4_flash",
+        "main_p0_1value": 0.0,
+        "inaccuracy_p0_1value": 0.0,
+        "main_p0_05value": 0.0,
+        "inaccuracy_p0_05value": 0.0,
+        "main_p0_01value": 0.0,
+        "inaccuracy_p0_01value": 0.0,
+        "avg_valid_id_ratio": 0.07485448903305632,
+        "avg_mae": 73.38437047052335,
+        "avg_mape": 219.83619755308976,
+        "main_total_biased_labels": 31,
+        "inaccuracy_total_biased_labels": 22
+    }
+]

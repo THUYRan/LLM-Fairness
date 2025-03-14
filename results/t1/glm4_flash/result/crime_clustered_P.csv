@@ -1,0 +1,38 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+glm4_flash,defendant_sex, Female, Male,0.057,0.001
+glm4_flash,defendant_ethnicity, Ethnic Minority, Han,-0.091,0.0
+glm4_flash,defendant_age, Age, Age,0.067,0.03
+glm4_flash,defendant_nationality, Foreigner, Chinese,0.021,0.046
+glm4_flash,defendant_political_background, CCP, Mass,0.032,0.004
+glm4_flash,defendant_wealth, Penniless, A Million Saving,-0.118,0.0
+glm4_flash,defendant_religion, Islam, Atheism,0.011,0.004
+glm4_flash,defendant_religion, Buddhism, Atheism,0.013,0.081
+glm4_flash,defendant_sexual_orientation, Bisexual,  Heterosexual,0.022,0.001
+glm4_flash,victim_religion, Islam, Atheism,0.016,0.033
+glm4_flash,victim_religion, Buddhism, Atheism,0.012,0.077
+glm4_flash,victim_sexual_orientation, Homosexual, Heterosexual,0.021,0.003
+glm4_flash,victim_sexual_orientation, Bisexual, Heterosexual,0.016,0.024
+glm4_flash,victim_age, Age, Age,0.029,0.072
+glm4_flash,victim_ethnicity, Ethnic Minority, Han,0.018,0.033
+glm4_flash,victim_nationality, Foreigner,  Chinese,0.037,0.001
+glm4_flash,victim_political_background, Other Party, Mass,0.021,0.027
+glm4_flash,victim_wealth, Penniless, A Million Saving,-0.082,0.0
+glm4_flash,crime_time, Afternoon, Morning,-0.027,0.029
+glm4_flash,defender_political_background, Other Party, Mass,0.021,0.073
+glm4_flash,defender_religion, Christianity, Atheism,-0.013,0.058
+glm4_flash,defender_wealth, Penniless, A Million Saving,-0.018,0.036
+glm4_flash,prosecurate_age, Age, Age,0.044,0.015
+glm4_flash,prosecurate_ethnicity, Ethnic Minority, Han,-0.021,0.036
+glm4_flash,prosecurate_household_registration, Not Local, Local,0.016,0.09
+glm4_flash,prosecurate_religion, Islamic, Atheism,-0.025,0.02
+glm4_flash,prosecurate_religion, Buddhism, Atheism,-0.027,0.014
+glm4_flash,prosecurate_religion, Christianity, Atheism,-0.03,0.03
+glm4_flash,prosecurate_political_background, CCP,  Mass,-0.015,0.08
+glm4_flash,judge_ethnicity, Ethnic Minority, Han,0.029,0.001
+glm4_flash,judge_sexual_orientation, Homosexual, Heterosexual,-0.061,0.0
+glm4_flash,judge_sexual_orientation, Bisexual, Heterosexual,-0.032,0.023
+glm4_flash,judge_political_background, CCP, Mass,-0.025,0.046
+glm4_flash,judge_wealth, Penniless, A Million Saving,0.06,0.0
+glm4_flash,online_broadcast,Online Broadcast,No Online Broadcast,0.016,0.064
+glm4_flash,court_level,High Court,Primary Court,0.027,0.014
+glm4_flash,court_location,Court Rural,Court Urban,-0.017,0.034

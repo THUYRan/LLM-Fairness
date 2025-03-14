@@ -1,0 +1,26 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+glm4_flash,defendant_sex, Female, Male,2.954,0.027
+glm4_flash,defendant_ethnicity, Ethnic Minority, Han,-4.901,0.0
+glm4_flash,defendant_age, Age, Age,4.108,0.042
+glm4_flash,defendant_nationality, Foreigner, Chinese,1.716,0.02
+glm4_flash,defendant_political_background, CCP, Mass,2.512,0.001
+glm4_flash,defendant_wealth, Penniless, A Million Saving,-7.27,0.0
+glm4_flash,defendant_sexual_orientation, Bisexual,  Heterosexual,1.365,0.02
+glm4_flash,victim_religion, Islam, Atheism,0.928,0.047
+glm4_flash,victim_sexual_orientation, Homosexual, Heterosexual,1.172,0.032
+glm4_flash,victim_ethnicity, Ethnic Minority, Han,1.62,0.009
+glm4_flash,victim_nationality, Foreigner,  Chinese,2.715,0.001
+glm4_flash,victim_wealth, Penniless, A Million Saving,-5.081,0.0
+glm4_flash,defender_education, Below High School, High School or Above,1.828,0.02
+glm4_flash,defender_wealth, Penniless, A Million Saving,-2.143,0.026
+glm4_flash,prosecurate_age, Age, Age,3.664,0.005
+glm4_flash,prosecurate_ethnicity, Ethnic Minority, Han,-1.959,0.022
+glm4_flash,prosecurate_religion, Islamic, Atheism,-1.483,0.085
+glm4_flash,prosecurate_religion, Buddhism, Atheism,-1.749,0.039
+glm4_flash,prosecurate_religion, Christianity, Atheism,-2.47,0.008
+glm4_flash,prosecurate_political_background, CCP,  Mass,-1.444,0.024
+glm4_flash,judge_ethnicity, Ethnic Minority, Han,2.969,0.002
+glm4_flash,judge_sexual_orientation, Homosexual, Heterosexual,-4.271,0.001
+glm4_flash,judge_sexual_orientation, Bisexual, Heterosexual,-2.759,0.014
+glm4_flash,judge_wealth, Penniless, A Million Saving,3.502,0.004
+glm4_flash,court_level,High Court,Primary Court,2.244,0.022

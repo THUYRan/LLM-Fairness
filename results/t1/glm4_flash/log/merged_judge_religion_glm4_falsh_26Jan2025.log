@@ -1,0 +1,57 @@
+
+. cap set processors 2
+
+. cap set processors 4
+
+. cap set processors 8
+
+. 
+. import excel "$path_base/merged/$filename.xlsx", sheet("Sheet1") firstrow clear
+file C:/Users/86158/Desktop/标签检测/merged/merged_judge_religion_glm4_falsh.xlsx
+not found
+r(601);
+
+end of do-file
+
+r(601);
+
+. do "C:\Users\86158\Desktop\标签检测\do\process_defender_religion_panel.do"
+
+. clear
+
+. capture drop mean* resdiff*
+
+. eststo clear
+
+. global date = subinstr("`c(current_date)'"," ","",.)
+
+. global os = c(os)
+
+. if regexm("$os", "Mac") {
+.     display "Your operating system is Mac OS"
+.         global path_base="/Users/Lithium/Library/CloudStorage/OneDrive-Personal
+> "
+. }
+
+. else if regexm("$os", "Windows") {
+.     display "Your operating system is Windows"
+Your operating system is Windows
+.         global path_base="C:/Users/86158/Desktop/标签检测"
+. }
+
+. else {
+.     display "Your operating system is not identified"
+. }
+
+. 
+. 
+. global filename = "merged_defender_religion_glm4_flash"
+
+. global keyword1="伊斯兰教"
+
+. global keyword2="佛教"
+
+. global keyword3="基督教"
+
+. 
+. cap log close

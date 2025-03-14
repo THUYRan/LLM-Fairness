@@ -1,0 +1,3 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+glm4_flash,defendant_sexual_orientation, Bisexual,  Heterosexual,9.837,0.086
+glm4_flash,judge_sexual_orientation, Homosexual, Heterosexual,-23.878,0.007

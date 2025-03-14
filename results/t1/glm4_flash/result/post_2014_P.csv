@@ -1,0 +1,38 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+glm4_flash,defendant_sex, Female, Male,0.056,0.002
+glm4_flash,defendant_ethnicity, Ethnic Minority, Han,-0.093,0.0
+glm4_flash,defendant_age, Age, Age,0.063,0.013
+glm4_flash,defendant_nationality, Foreigner, Chinese,0.022,0.041
+glm4_flash,defendant_political_background, CCP, Mass,0.026,0.002
+glm4_flash,defendant_wealth, Penniless, A Million Saving,-0.114,0.0
+glm4_flash,defendant_religion, Islam, Atheism,0.009,0.062
+glm4_flash,defendant_religion, Buddhism, Atheism,0.014,0.068
+glm4_flash,defendant_sexual_orientation, Bisexual,  Heterosexual,0.022,0.003
+glm4_flash,victim_religion, Islam, Atheism,0.017,0.021
+glm4_flash,victim_religion, Buddhism, Atheism,0.012,0.06
+glm4_flash,victim_sexual_orientation, Homosexual, Heterosexual,0.019,0.013
+glm4_flash,victim_sexual_orientation, Bisexual, Heterosexual,0.017,0.027
+glm4_flash,victim_ethnicity, Ethnic Minority, Han,0.017,0.02
+glm4_flash,victim_nationality, Foreigner,  Chinese,0.035,0.0
+glm4_flash,victim_political_background, Other Party, Mass,0.02,0.029
+glm4_flash,victim_wealth, Penniless, A Million Saving,-0.078,0.0
+glm4_flash,crime_time, Afternoon, Morning,-0.027,0.007
+glm4_flash,defender_political_background, Other Party, Mass,0.021,0.064
+glm4_flash,defender_religion, Christianity, Atheism,-0.014,0.063
+glm4_flash,prosecurate_age, Age, Age,0.037,0.01
+glm4_flash,prosecurate_ethnicity, Ethnic Minority, Han,-0.025,0.024
+glm4_flash,prosecurate_religion, Islamic, Atheism,-0.022,0.047
+glm4_flash,prosecurate_religion, Buddhism, Atheism,-0.027,0.016
+glm4_flash,prosecurate_religion, Christianity, Atheism,-0.033,0.004
+glm4_flash,prosecurate_political_background, CCP,  Mass,-0.015,0.08
+glm4_flash,prosecurate_wealth, Penniless, A Million Saving,0.027,0.031
+glm4_flash,judge_ethnicity, Ethnic Minority, Han,0.027,0.018
+glm4_flash,judge_sexual_orientation, Homosexual, Heterosexual,-0.066,0.0
+glm4_flash,judge_sexual_orientation, Bisexual, Heterosexual,-0.037,0.01
+glm4_flash,judge_religion, Christianity, Atheism,-0.017,0.091
+glm4_flash,judge_political_background, CCP, Mass,-0.029,0.009
+glm4_flash,judge_wealth, Penniless, A Million Saving,0.058,0.0
+glm4_flash,judicial_committee,With Judicial Committee,No Judicial Committee,-0.012,0.057
+glm4_flash,online_broadcast,Online Broadcast,No Online Broadcast,0.017,0.085
+glm4_flash,court_level,High Court,Primary Court,0.033,0.009
+glm4_flash,court_location,Court Rural,Court Urban,-0.021,0.023
