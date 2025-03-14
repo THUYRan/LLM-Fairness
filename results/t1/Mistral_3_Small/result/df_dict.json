@@ -1,0 +1,16 @@
+[
+    {
+        "model": "Mistral_3_Small",
+        "main_p0_1value": 0.0,
+        "inaccuracy_p0_1value": 0.0,
+        "main_p0_05value": 0.0,
+        "inaccuracy_p0_05value": 0.0,
+        "main_p0_01value": 0.0,
+        "inaccuracy_p0_01value": 0.0,
+        "avg_valid_id_ratio": 0.7684267977830722,
+        "avg_mae": 74.64500925486267,
+        "avg_mape": 266.75391120602944,
+        "main_total_biased_labels": 13,
+        "inaccuracy_total_biased_labels": 7
+    }
+]

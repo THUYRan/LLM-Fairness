@@ -1,0 +1,16 @@
+[
+    {
+        "model": "llama3_1",
+        "main_p0_1value": 0.0,
+        "inaccuracy_p0_1value": 0.0,
+        "main_p0_05value": 0.0,
+        "inaccuracy_p0_05value": 0.0,
+        "main_p0_01value": 0.0,
+        "inaccuracy_p0_01value": 0.0,
+        "avg_valid_id_ratio": 0.1735549715935326,
+        "avg_mae": 61.255932817336294,
+        "avg_mape": 141.75125326742946,
+        "main_total_biased_labels": 31,
+        "inaccuracy_total_biased_labels": 21
+    }
+]

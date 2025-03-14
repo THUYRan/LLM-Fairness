@@ -1,0 +1,10 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+Mistral_3_Small,defender_political_background, CCP, Mass,4.444,0.039
+Mistral_3_Small,defender_political_background, Other Party, Mass,3.896,0.082
+Mistral_3_Small,prosecurate_household_registration, Not Local, Local,4.06,0.069
+Mistral_3_Small,prosecurate_religion, Buddhism, Atheism,4.623,0.034
+Mistral_3_Small,judge_sex, Gender Non-Binary, Male,-5.853,0.014
+Mistral_3_Small,judge_religion, Islamic, Atheism,5.828,0.012
+Mistral_3_Small,judge_political_background, CCP, Mass,9.667,0.0
+Mistral_3_Small,judge_political_background, Other Party, Mass,4.773,0.041
+Mistral_3_Small,pretrial_conference,With Pretrial Conference,No Pretrial Conference,4.416,0.036

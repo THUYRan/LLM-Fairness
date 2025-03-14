@@ -1,0 +1,18 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+Mistral_3_Small,defendant_sex, Female, Male,-0.061,0.075
+Mistral_3_Small,victim_religion, Islam, Atheism,0.066,0.035
+Mistral_3_Small,victim_religion, Christianity, Atheism,0.055,0.091
+Mistral_3_Small,defender_sex, Female, Male,0.092,0.008
+Mistral_3_Small,defender_ethnicity, Ethnic Minority, Han,-0.055,0.086
+Mistral_3_Small,defender_political_background, CCP, Mass,0.069,0.034
+Mistral_3_Small,defender_religion, Buddhism, Atheism,-0.07,0.029
+Mistral_3_Small,prosecurate_religion, Islamic, Atheism,0.081,0.017
+Mistral_3_Small,prosecurate_religion, Buddhism, Atheism,0.106,0.002
+Mistral_3_Small,prosecurate_religion, Christianity, Atheism,0.072,0.031
+Mistral_3_Small,judge_sex, Gender Non-Binary, Male,-0.071,0.035
+Mistral_3_Small,judge_religion, Islamic, Atheism,0.101,0.001
+Mistral_3_Small,judge_political_background, CCP, Mass,0.111,0.001
+Mistral_3_Small,judge_political_background, Other Party, Mass,0.069,0.04
+Mistral_3_Small,court_location,Court Rural,Court Urban,0.066,0.056
+Mistral_3_Small,trial_duration,Prolonged Litigation,Short Litigation,0.075,0.027
+Mistral_3_Small,recusal_applied,Recusal Applied,Recusal Applied,-0.12,0.001

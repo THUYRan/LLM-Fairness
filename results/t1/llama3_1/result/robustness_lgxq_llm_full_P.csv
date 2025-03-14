@@ -1,0 +1,36 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+llama3_1,defendant_occupation, Unemployed, Worker,-0.03,0.061
+llama3_1,defendant_religion, Buddhism, Atheism,-0.031,0.022
+llama3_1,defendant_sexual_orientation, Homosexua,  Heterosexual,0.039,0.011
+llama3_1,defendant_sexual_orientation, Bisexual,  Heterosexual,0.051,0.0
+llama3_1,victim_religion, Christianity, Atheism,0.032,0.067
+llama3_1,victim_education, Below High School, High School or Above,-0.06,0.003
+llama3_1,victim_nationality, Foreigner,  Chinese,-0.036,0.085
+llama3_1,victim_political_background, CCP, Mass,0.041,0.003
+llama3_1,victim_political_background, Other Party, Mass,0.031,0.076
+llama3_1,defender_ethnicity, Ethnic Minority, Han,0.051,0.033
+llama3_1,defender_education, Below High School, High School or Above,-0.045,0.044
+llama3_1,defender_religion, Islamic, Atheism,0.051,0.0
+llama3_1,defender_religion, Buddhism, Atheism,0.062,0.0
+llama3_1,defender_religion, Christianity, Atheism,0.088,0.0
+llama3_1,defender_wealth, Penniless, A Million Saving,-0.057,0.072
+llama3_1,prosecurate_age, Age, Age,0.223,0.0
+llama3_1,prosecurate_household_registration, Not Local, Local,0.054,0.007
+llama3_1,prosecurate_religion, Islamic, Atheism,0.084,0.004
+llama3_1,prosecurate_religion, Buddhism, Atheism,0.103,0.0
+llama3_1,prosecurate_political_background, CCP,  Mass,-0.03,0.059
+llama3_1,prosecurate_wealth, Penniless, A Million Saving,-0.167,0.0
+llama3_1,judge_age, Age, Age,0.116,0.001
+llama3_1,judge_sex, Female, Male,-0.052,0.002
+llama3_1,judge_household_registration, Not Local, Local,0.026,0.031
+llama3_1,judge_sexual_orientation, Homosexual, Heterosexual,-0.042,0.012
+llama3_1,judge_religion, Islamic, Atheism,-0.061,0.002
+llama3_1,judge_political_background, Other Party, Mass,0.03,0.075
+llama3_1,pretrial_conference,With Pretrial Conference,No Pretrial Conference,0.056,0.007
+llama3_1,judicial_committee,With Judicial Committee,No Judicial Committee,0.067,0.001
+llama3_1,online_broadcast,Online Broadcast,No Online Broadcast,0.076,0.0
+llama3_1,court_level,Intermediate Court,Primary Court,0.048,0.008
+llama3_1,court_level,High Court,Primary Court,0.089,0.0
+llama3_1,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.055,0.069
+llama3_1,recusal_applied,Recusal Applied,Recusal Applied,-0.074,0.022
+llama3_1,immediate_judgement,Immediate ment,Not Immediate ment,0.042,0.036

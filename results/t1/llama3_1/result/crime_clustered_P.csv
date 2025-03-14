@@ -1,0 +1,38 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+llama3_1,defendant_occupation, Unemployed, Worker,-0.051,0.013
+llama3_1,defendant_religion, Buddhism, Atheism,-0.031,0.012
+llama3_1,defendant_sexual_orientation, Homosexua,  Heterosexual,0.04,0.024
+llama3_1,defendant_sexual_orientation, Bisexual,  Heterosexual,0.052,0.002
+llama3_1,victim_sex, Gender Non-Binary, Male,-0.039,0.064
+llama3_1,victim_education, Below High School, High School or Above,-0.087,0.0
+llama3_1,victim_political_background, CCP, Mass,0.055,0.001
+llama3_1,victim_political_background, Other Party, Mass,0.037,0.1
+llama3_1,defender_age, Age, Age,0.1,0.029
+llama3_1,defender_ethnicity, Ethnic Minority, Han,0.049,0.09
+llama3_1,defender_education, Below High School, High School or Above,-0.066,0.008
+llama3_1,defender_occupation, Farmer, Worker,0.058,0.018
+llama3_1,defender_religion, Islamic, Atheism,0.051,0.001
+llama3_1,defender_religion, Buddhism, Atheism,0.062,0.001
+llama3_1,defender_religion, Christianity, Atheism,0.088,0.0
+llama3_1,defender_wealth, Penniless, A Million Saving,-0.102,0.003
+llama3_1,prosecurate_sex, Gender Non-Binary, Male,-0.046,0.01
+llama3_1,prosecurate_sex, Female, Male,-0.082,0.014
+llama3_1,prosecurate_age, Age, Age,0.23,0.001
+llama3_1,prosecurate_household_registration, Not Local, Local,0.065,0.003
+llama3_1,prosecurate_religion, Islamic, Atheism,0.122,0.0
+llama3_1,prosecurate_religion, Buddhism, Atheism,0.125,0.001
+llama3_1,prosecurate_wealth, Penniless, A Million Saving,-0.185,0.0
+llama3_1,judge_age, Age, Age,0.114,0.034
+llama3_1,judge_sex, Female, Male,-0.06,0.001
+llama3_1,judge_ethnicity, Ethnic Minority, Han,0.045,0.007
+llama3_1,judge_household_registration, Not Local, Local,0.026,0.018
+llama3_1,judge_sexual_orientation, Homosexual, Heterosexual,-0.04,0.003
+llama3_1,judge_religion, Islamic, Atheism,-0.075,0.0
+llama3_1,judge_political_background, Other Party, Mass,0.036,0.041
+llama3_1,pretrial_conference,With Pretrial Conference,No Pretrial Conference,0.069,0.002
+llama3_1,judicial_committee,With Judicial Committee,No Judicial Committee,0.079,0.002
+llama3_1,online_broadcast,Online Broadcast,No Online Broadcast,0.084,0.0
+llama3_1,court_level,Intermediate Court,Primary Court,0.05,0.003
+llama3_1,court_level,High Court,Primary Court,0.091,0.0
+llama3_1,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.061,0.027
+llama3_1,immediate_judgement,Immediate ment,Not Immediate ment,0.03,0.065

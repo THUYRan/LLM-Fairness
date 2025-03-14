@@ -1,0 +1,131 @@
+2025-03-13 19:26:10,465 - INFO - ====== 开始处理流程 ======
+2025-03-13 19:26:10,466 - INFO - 进度: 1/65 正在处理参数: defendant_sex
+2025-03-13 19:26:10,466 - INFO - 开始处理文件: merged_defendant_sex_Mistral_3_Small
+2025-03-13 19:27:40,056 - INFO - 进度: 2/65 正在处理参数: defendant_ethnicity
+2025-03-13 19:27:40,058 - INFO - 开始处理文件: merged_defendant_ethnicity_Mistral_3_Small
+2025-03-13 19:28:33,871 - INFO - 进度: 3/65 正在处理参数: defendant_education
+2025-03-13 19:28:33,872 - INFO - 开始处理文件: merged_defendant_education_Mistral_3_Small
+2025-03-13 19:29:31,622 - INFO - 进度: 4/65 正在处理参数: defendant_age
+2025-03-13 19:29:31,624 - INFO - 开始处理文件: merged_defendant_age_Mistral_3_Small
+2025-03-13 19:30:28,144 - INFO - 进度: 5/65 正在处理参数: defendant_occupation
+2025-03-13 19:30:28,145 - INFO - 开始处理文件: merged_defendant_occupation_Mistral_3_Small
+2025-03-13 19:32:04,437 - INFO - 进度: 6/65 正在处理参数: defendant_household_registration
+2025-03-13 19:32:04,438 - INFO - 开始处理文件: merged_defendant_household_registration_Mistral_3_Small
+2025-03-13 19:32:59,786 - INFO - 进度: 7/65 正在处理参数: defendant_nationality
+2025-03-13 19:32:59,787 - INFO - 开始处理文件: merged_defendant_nationality_Mistral_3_Small
+2025-03-13 19:34:01,101 - INFO - 进度: 8/65 正在处理参数: defendant_political_background
+2025-03-13 19:34:01,101 - INFO - 开始处理文件: merged_defendant_political_background_Mistral_3_Small
+2025-03-13 19:35:33,527 - INFO - 进度: 9/65 正在处理参数: defendant_wealth
+2025-03-13 19:35:33,528 - INFO - 开始处理文件: merged_defendant_wealth_Mistral_3_Small
+2025-03-13 19:36:32,247 - INFO - 进度: 10/65 正在处理参数: defendant_religion
+2025-03-13 19:36:32,249 - INFO - 开始处理文件: merged_defendant_religion_Mistral_3_Small
+2025-03-13 19:38:35,776 - INFO - 进度: 11/65 正在处理参数: defendant_sexual_orientation
+2025-03-13 19:38:35,778 - INFO - 开始处理文件: merged_defendant_sexual_orientation_Mistral_3_Small
+2025-03-13 19:40:04,940 - INFO - 进度: 12/65 正在处理参数: victim_religion
+2025-03-13 19:40:04,942 - INFO - 开始处理文件: merged_victim_religion_Mistral_3_Small
+2025-03-13 19:42:11,143 - INFO - 进度: 13/65 正在处理参数: victim_sexual_orientation
+2025-03-13 19:43:45,411 - INFO - 开始处理文件: merged_victim_sexual_orientation_Mistral_3_Small
+2025-03-13 19:44:48,196 - INFO - 进度: 14/65 正在处理参数: victim_sex
+2025-03-13 19:44:48,197 - INFO - 开始处理文件: merged_victim_sex_Mistral_3_Small
+2025-03-13 19:46:21,757 - INFO - 进度: 15/65 正在处理参数: victim_age
+2025-03-13 19:46:21,759 - INFO - 开始处理文件: merged_victim_age_Mistral_3_Small
+2025-03-13 19:57:14,418 - INFO - 进度: 16/65 正在处理参数: victim_ethnicity
+2025-03-13 19:57:14,419 - INFO - 开始处理文件: merged_victim_ethnicity_Mistral_3_Small
+2025-03-13 19:58:10,287 - INFO - 进度: 17/65 正在处理参数: victim_education
+2025-03-13 19:58:10,288 - INFO - 开始处理文件: merged_victim_education_Mistral_3_Small
+2025-03-13 20:01:43,666 - INFO - 进度: 18/65 正在处理参数: victim_occupation
+2025-03-13 20:01:43,668 - INFO - 开始处理文件: merged_victim_occupation_Mistral_3_Small
+2025-03-13 20:03:13,702 - INFO - 进度: 19/65 正在处理参数: victim_household_registration
+2025-03-13 20:03:13,704 - INFO - 开始处理文件: merged_victim_household_registration_Mistral_3_Small
+2025-03-13 20:04:08,158 - INFO - 进度: 20/65 正在处理参数: victim_nationality
+2025-03-13 20:04:08,159 - INFO - 开始处理文件: merged_victim_nationality_Mistral_3_Small
+2025-03-13 20:05:05,057 - INFO - 进度: 21/65 正在处理参数: victim_political_background
+2025-03-13 20:05:05,058 - INFO - 开始处理文件: merged_victim_political_background_Mistral_3_Small
+2025-03-13 20:06:37,844 - INFO - 进度: 22/65 正在处理参数: victim_wealth
+2025-03-13 20:06:37,845 - INFO - 开始处理文件: merged_victim_wealth_Mistral_3_Small
+2025-03-13 20:07:34,051 - INFO - 进度: 23/65 正在处理参数: crime_location
+2025-03-13 20:07:34,052 - INFO - 开始处理文件: merged_crime_location_Mistral_3_Small
+2025-03-13 20:08:29,622 - INFO - 进度: 24/65 正在处理参数: crime_date
+2025-03-13 20:08:29,623 - INFO - 开始处理文件: merged_crime_date_Mistral_3_Small
+2025-03-13 20:10:31,684 - INFO - 进度: 25/65 正在处理参数: crime_time
+2025-03-13 20:10:31,687 - INFO - 开始处理文件: merged_crime_time_Mistral_3_Small
+2025-03-13 20:11:28,406 - INFO - 进度: 26/65 正在处理参数: defender_sex
+2025-03-13 20:11:28,409 - INFO - 开始处理文件: merged_defender_sex_Mistral_3_Small
+2025-03-13 20:12:58,616 - INFO - 进度: 27/65 正在处理参数: defender_age
+2025-03-13 20:12:58,617 - INFO - 开始处理文件: merged_defender_age_Mistral_3_Small
+2025-03-13 20:13:57,244 - INFO - 进度: 28/65 正在处理参数: defender_ethnicity
+2025-03-13 20:13:57,246 - INFO - 开始处理文件: merged_defender_ethnicity_Mistral_3_Small
+2025-03-13 20:14:54,048 - INFO - 进度: 29/65 正在处理参数: defender_education
+2025-03-13 20:14:54,051 - INFO - 开始处理文件: merged_defender_education_Mistral_3_Small
+2025-03-13 20:16:03,486 - INFO - 进度: 30/65 正在处理参数: defender_occupation
+2025-03-13 20:16:03,488 - INFO - 开始处理文件: merged_defender_occupation_Mistral_3_Small
+2025-03-13 20:17:43,461 - INFO - 进度: 31/65 正在处理参数: defender_household_registration
+2025-03-13 20:17:43,462 - INFO - 开始处理文件: merged_defender_household_registration_Mistral_3_Small
+2025-03-13 20:18:12,997 - INFO - 进度: 32/65 正在处理参数: defender_nationality
+2025-03-13 20:18:12,998 - INFO - 开始处理文件: merged_defender_nationality_Mistral_3_Small
+2025-03-13 20:19:17,006 - INFO - 进度: 33/65 正在处理参数: defender_political_background
+2025-03-13 20:19:17,010 - INFO - 开始处理文件: merged_defender_political_background_Mistral_3_Small
+2025-03-13 20:20:52,755 - INFO - 进度: 34/65 正在处理参数: defender_religion
+2025-03-13 20:20:52,757 - INFO - 开始处理文件: merged_defender_religion_Mistral_3_Small
+2025-03-13 20:23:04,579 - INFO - 进度: 35/65 正在处理参数: defender_sexual_orientation
+2025-03-13 20:23:04,581 - INFO - 开始处理文件: merged_defender_sexual_orientation_Mistral_3_Small
+2025-03-13 20:24:34,994 - INFO - 进度: 36/65 正在处理参数: defender_wealth
+2025-03-13 20:24:34,995 - INFO - 开始处理文件: merged_defender_wealth_Mistral_3_Small
+2025-03-13 20:26:04,434 - INFO - 进度: 37/65 正在处理参数: prosecurate_sex
+2025-03-13 20:26:04,436 - INFO - 开始处理文件: merged_prosecurate_sex_Mistral_3_Small
+2025-03-13 20:27:38,761 - INFO - 进度: 38/65 正在处理参数: prosecurate_age
+2025-03-13 20:27:38,762 - INFO - 开始处理文件: merged_prosecurate_age_Mistral_3_Small
+2025-03-13 20:28:39,957 - INFO - 进度: 39/65 正在处理参数: prosecurate_ethnicity
+2025-03-13 20:28:39,958 - INFO - 开始处理文件: merged_prosecurate_ethnicity_Mistral_3_Small
+2025-03-13 20:29:41,746 - INFO - 进度: 40/65 正在处理参数: prosecurate_household_registration
+2025-03-13 20:29:41,747 - INFO - 开始处理文件: merged_prosecurate_household_registration_Mistral_3_Small
+2025-03-13 20:30:40,979 - INFO - 进度: 41/65 正在处理参数: prosecurate_sexual_orientation
+2025-03-13 20:30:40,980 - INFO - 开始处理文件: merged_prosecurate_sexual_orientation_Mistral_3_Small
+2025-03-13 20:32:09,363 - INFO - 进度: 42/65 正在处理参数: prosecurate_religion
+2025-03-13 20:32:09,365 - INFO - 开始处理文件: merged_prosecurate_religion_Mistral_3_Small
+2025-03-13 20:34:15,290 - INFO - 进度: 43/65 正在处理参数: prosecurate_political_background
+2025-03-13 20:34:15,292 - INFO - 开始处理文件: merged_prosecurate_political_background_Mistral_3_Small
+2025-03-13 20:35:41,965 - INFO - 进度: 44/65 正在处理参数: prosecurate_wealth
+2025-03-13 20:35:41,967 - INFO - 开始处理文件: merged_prosecurate_wealth_Mistral_3_Small
+2025-03-13 20:36:38,896 - INFO - 进度: 45/65 正在处理参数: judge_age
+2025-03-13 20:36:38,897 - INFO - 开始处理文件: merged_judge_age_Mistral_3_Small
+2025-03-13 20:37:35,639 - INFO - 进度: 46/65 正在处理参数: judge_sex
+2025-03-13 20:37:35,641 - INFO - 开始处理文件: merged_judge_sex_Mistral_3_Small
+2025-03-13 20:39:02,536 - INFO - 进度: 47/65 正在处理参数: judge_ethnicity
+2025-03-13 20:39:02,538 - INFO - 开始处理文件: merged_judge_ethnicity_Mistral_3_Small
+2025-03-13 20:39:58,003 - INFO - 进度: 48/65 正在处理参数: judge_household_registration
+2025-03-13 20:39:58,004 - INFO - 开始处理文件: merged_judge_household_registration_Mistral_3_Small
+2025-03-13 20:40:55,991 - INFO - 进度: 49/65 正在处理参数: judge_sexual_orientation
+2025-03-13 20:40:55,993 - INFO - 开始处理文件: merged_judge_sexual_orientation_Mistral_3_Small
+2025-03-13 20:42:26,664 - INFO - 进度: 50/65 正在处理参数: judge_religion
+2025-03-13 20:42:26,667 - INFO - 开始处理文件: merged_judge_religion_Mistral_3_Small
+2025-03-13 20:44:42,879 - INFO - 进度: 51/65 正在处理参数: judge_political_background
+2025-03-13 20:44:42,880 - INFO - 开始处理文件: merged_judge_political_background_Mistral_3_Small
+2025-03-13 20:46:29,054 - INFO - 进度: 52/65 正在处理参数: judge_wealth
+2025-03-13 20:46:29,055 - INFO - 开始处理文件: merged_judge_wealth_Mistral_3_Small
+2025-03-13 20:47:45,635 - INFO - 进度: 53/65 正在处理参数: collegial_panel
+2025-03-13 20:47:45,640 - INFO - 开始处理文件: merged_collegial_panel_Mistral_3_Small
+2025-03-13 20:48:42,605 - INFO - 进度: 54/65 正在处理参数: assessor
+2025-03-13 20:48:42,608 - INFO - 开始处理文件: merged_assessor_Mistral_3_Small
+2025-03-13 20:49:40,010 - INFO - 进度: 55/65 正在处理参数: defender_type
+2025-03-13 20:49:40,011 - INFO - 开始处理文件: merged_defender_type_Mistral_3_Small
+2025-03-13 20:50:39,040 - INFO - 进度: 56/65 正在处理参数: pretrial_conference
+2025-03-13 20:50:39,042 - INFO - 开始处理文件: merged_pretrial_conference_Mistral_3_Small
+2025-03-13 20:51:36,205 - INFO - 进度: 57/65 正在处理参数: judicial_committee
+2025-03-13 20:51:36,205 - INFO - 开始处理文件: merged_judicial_committee_Mistral_3_Small
+2025-03-13 20:52:33,096 - INFO - 进度: 58/65 正在处理参数: online_broadcast
+2025-03-13 20:52:33,098 - INFO - 开始处理文件: merged_online_broadcast_Mistral_3_Small
+2025-03-13 20:53:27,158 - INFO - 进度: 59/65 正在处理参数: open_trial
+2025-03-13 20:53:27,160 - INFO - 开始处理文件: merged_open_trial_Mistral_3_Small
+2025-03-13 20:54:22,707 - INFO - 进度: 60/65 正在处理参数: court_level
+2025-03-13 20:54:22,709 - INFO - 开始处理文件: merged_court_level_Mistral_3_Small
+2025-03-13 20:55:53,258 - INFO - 进度: 61/65 正在处理参数: court_location
+2025-03-13 20:55:53,260 - INFO - 开始处理文件: merged_court_location_Mistral_3_Small
+2025-03-13 20:56:49,983 - INFO - 进度: 62/65 正在处理参数: compulsory_measure
+2025-03-13 20:56:49,985 - INFO - 开始处理文件: merged_compulsory_measure_Mistral_3_Small
+2025-03-13 20:57:47,272 - INFO - 进度: 63/65 正在处理参数: trial_duration
+2025-03-13 20:57:47,274 - INFO - 开始处理文件: merged_trial_duration_Mistral_3_Small
+2025-03-13 20:58:42,620 - INFO - 进度: 64/65 正在处理参数: recusal_applied
+2025-03-13 20:58:42,621 - INFO - 开始处理文件: merged_recusal_applied_Mistral_3_Small
+2025-03-13 20:59:40,312 - INFO - 进度: 65/65 正在处理参数: immediate_judgement
+2025-03-13 20:59:40,314 - INFO - 开始处理文件: merged_immediate_judgement_Mistral_3_Small

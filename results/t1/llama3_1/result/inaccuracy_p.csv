@@ -1,0 +1,27 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+llama3_1,defendant_nationality, Foreigner, Chinese,1.68,0.094
+llama3_1,defendant_sexual_orientation, Homosexua,  Heterosexual,2.305,0.03
+llama3_1,defendant_sexual_orientation, Bisexual,  Heterosexual,3.133,0.001
+llama3_1,victim_sexual_orientation, Bisexual, Heterosexual,2.728,0.024
+llama3_1,victim_education, Below High School, High School or Above,-3.196,0.003
+llama3_1,victim_occupation, Farmer, Worker,1.774,0.071
+llama3_1,victim_political_background, CCP, Mass,2.256,0.011
+llama3_1,defender_sex, Gender Non-Binary, Male,-4.181,0.021
+llama3_1,defender_education, Below High School, High School or Above,-2.543,0.078
+llama3_1,defender_occupation, Farmer, Worker,4.387,0.003
+llama3_1,defender_nationality, Foreigner, Chinese,2.927,0.059
+llama3_1,defender_religion, Islamic, Atheism,2.909,0.002
+llama3_1,defender_religion, Buddhism, Atheism,2.752,0.002
+llama3_1,defender_religion, Christianity, Atheism,4.162,0.0
+llama3_1,defender_wealth, Penniless, A Million Saving,-7.235,0.0
+llama3_1,prosecurate_sex, Gender Non-Binary, Male,-1.868,0.073
+llama3_1,prosecurate_age, Age, Age,9.225,0.003
+llama3_1,prosecurate_household_registration, Not Local, Local,3.46,0.007
+llama3_1,prosecurate_religion, Islamic, Atheism,3.116,0.073
+llama3_1,prosecurate_religion, Buddhism, Atheism,3.275,0.052
+llama3_1,prosecurate_religion, Christianity, Atheism,3.653,0.018
+llama3_1,prosecurate_wealth, Penniless, A Million Saving,-4.117,0.045
+llama3_1,judge_sex, Female, Male,-2.063,0.031
+llama3_1,judge_religion, Islamic, Atheism,-2.104,0.07
+llama3_1,assessor,No Preple's Assessor,With People's Assessor,-1.909,0.086
+llama3_1,pretrial_conference,With Pretrial Conference,No Pretrial Conference,3.193,0.008

@@ -1,0 +1,2 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+Mistral_3_Small,judge_sexual_orientation, Bisexual, Heterosexual,-25.756,0.011
