@@ -1,0 +1,18 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+deepseek _r1_32b,defendant_ethnicity, Ethnic Minority, Han,-0.071,0.027
+deepseek _r1_32b,victim_sexual_orientation, Homosexual, Heterosexual,-0.083,0.006
+deepseek _r1_32b,victim_sexual_orientation, Bisexual, Heterosexual,-0.057,0.054
+deepseek _r1_32b,victim_sex, Female, Male,0.05,0.09
+deepseek _r1_32b,crime_time, Afternoon, Morning,0.044,0.097
+deepseek _r1_32b,defender_sexual_orientation, Bisexual, Heterosexual,-0.055,0.067
+deepseek _r1_32b,prosecurate_sex, Female, Male,-0.055,0.052
+deepseek _r1_32b,prosecurate_sexual_orientation, Bisexual, Heterosexual,-0.062,0.039
+deepseek _r1_32b,judge_age, Age, Age,0.125,0.017
+deepseek _r1_32b,judge_sexual_orientation, Homosexual, Heterosexual,-0.044,0.079
+deepseek _r1_32b,judge_sexual_orientation, Bisexual, Heterosexual,-0.059,0.018
+deepseek _r1_32b,judge_religion, Buddhism, Atheism,-0.064,0.019
+deepseek _r1_32b,collegial_panel,Collegial Panel,Single ,-0.056,0.035
+deepseek _r1_32b,assessor,No Preple's Assessor,With People's Assessor,-0.048,0.05
+deepseek _r1_32b,court_location,Court Rural,Court Urban,-0.046,0.079
+deepseek _r1_32b,trial_duration,Prolonged Litigation,Short Litigation,0.099,0.0
+deepseek _r1_32b,recusal_applied,Recusal Applied,Recusal Applied,-0.099,0.001
