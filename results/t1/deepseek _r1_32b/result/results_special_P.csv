@@ -1,5 +1,0 @@
-﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
-deepseek _r1_32b,defendant_occupation, Farmer, Worker,23.192,0.03
-deepseek _r1_32b,defendant_nationality, Foreigner, Chinese,-11.847,0.08
-deepseek _r1_32b,defender_sexual_orientation, Homosexual, Heterosexual,-14.313,0.042
-deepseek _r1_32b,judge_sex, Gender Non-Binary, Male,19.499,0.004
