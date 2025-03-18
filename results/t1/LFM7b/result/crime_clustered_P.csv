@@ -1,0 +1,20 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+LFM7b,defendant_ethnicity, Ethnic Minority, Han,0.145,0.0
+LFM7b,defendant_nationality, Foreigner, Chinese,0.094,0.018
+LFM7b,victim_household_registration, Not Local, Local,0.078,0.089
+LFM7b,victim_wealth, Penniless, A Million Saving,0.103,0.069
+LFM7b,defender_household_registration, Not Local, Local,-0.09,0.077
+LFM7b,defender_nationality, Foreigner, Chinese,0.129,0.017
+LFM7b,defender_sexual_orientation, Homosexual, Heterosexual,0.08,0.067
+LFM7b,defender_sexual_orientation, Bisexual, Heterosexual,0.089,0.041
+LFM7b,prosecurate_age, Age, Age,0.207,0.012
+LFM7b,prosecurate_household_registration, Not Local, Local,-0.105,0.083
+LFM7b,prosecurate_sexual_orientation, Homosexual, Heterosexual,0.173,0.043
+LFM7b,prosecurate_religion, Buddhism, Atheism,0.138,0.004
+LFM7b,prosecurate_wealth, Penniless, A Million Saving,0.131,0.01
+LFM7b,judge_age, Age, Age,-0.298,0.005
+LFM7b,judge_sex, Gender Non-Binary, Male,-0.172,0.001
+LFM7b,judge_household_registration, Not Local, Local,0.076,0.064
+LFM7b,judge_wealth, Penniless, A Million Saving,-0.313,0.0
+LFM7b,pretrial_conference,With Pretrial Conference,No Pretrial Conference,0.101,0.077
+LFM7b,compulsory_measure,Compulsory Measure,No Compulsory Measure,-0.134,0.008
