@@ -1,11 +1,11 @@
 [
     {
         "model": "qwen2.5_72b",
-        "main_p0_1value": 0.0,
-        "inaccuracy_p0_1value": 0.0,
-        "main_p0_05value": 0.0,
-        "inaccuracy_p0_05value": 0.0,
-        "main_p0_01value": 0.0,
+        "main_p0_1value": 0.028583242865007588,
+        "inaccuracy_p0_1value": 0.6306978713605049,
+        "main_p0_05value": 0.021927642604101818,
+        "inaccuracy_p0_05value": 0.20481136988819018,
+        "main_p0_01value": 0.0721671795158569,
         "inaccuracy_p0_01value": 1.0,
         "avg_valid_id_ratio": 0.5941716135658686,
         "avg_mae": 59.3979120115468,
