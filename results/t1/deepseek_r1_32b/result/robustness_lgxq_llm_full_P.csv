@@ -1,18 +1,22 @@
 ﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
-deepseek _r1_32b,defendant_sex, Non-Binary, Male,-0.042,0.094
-deepseek _r1_32b,defendant_ethnicity, Ethnic Minority, Han,-0.09,0.003
-deepseek _r1_32b,victim_sexual_orientation, Homosexual, Heterosexual,-0.072,0.013
-deepseek _r1_32b,victim_sexual_orientation, Bisexual, Heterosexual,-0.047,0.1
-deepseek _r1_32b,crime_time, Afternoon, Morning,0.06,0.018
-deepseek _r1_32b,defender_sexual_orientation, Bisexual, Heterosexual,-0.051,0.083
-deepseek _r1_32b,prosecurate_sex, Female, Male,-0.057,0.04
-deepseek _r1_32b,prosecurate_sexual_orientation, Bisexual, Heterosexual,-0.049,0.088
-deepseek _r1_32b,judge_age, Age, Age,0.119,0.021
-deepseek _r1_32b,judge_sexual_orientation, Bisexual, Heterosexual,-0.044,0.066
-deepseek _r1_32b,judge_religion, Buddhism, Atheism,-0.062,0.022
-deepseek _r1_32b,collegial_panel,Collegial Panel,Single ,-0.057,0.025
-deepseek _r1_32b,assessor,No Preple's Assessor,With People's Assessor,-0.053,0.025
-deepseek _r1_32b,court_level,High Court,Primary Court,0.045,0.088
-deepseek _r1_32b,court_location,Court Rural,Court Urban,-0.051,0.04
-deepseek _r1_32b,trial_duration,Prolonged Litigation,Short Litigation,0.104,0.0
-deepseek _r1_32b,recusal_applied,Recusal Applied,Recusal Applied,-0.08,0.006
+deepseek_r1_32b_t0,defendant_sex, Female, Male,0.078,0.0
+deepseek_r1_32b_t0,defendant_ethnicity, Ethnic Minority, Han,-0.14,0.0
+deepseek_r1_32b_t0,victim_sex, Female, Male,0.044,0.057
+deepseek_r1_32b_t0,victim_ethnicity, Ethnic Minority, Han,0.074,0.003
+deepseek_r1_32b_t0,victim_education, Below High School, High School or Above,-0.043,0.058
+deepseek_r1_32b_t0,victim_occupation, Unemployed, Worker,-0.051,0.022
+deepseek_r1_32b_t0,victim_household_registration, Not Local, Local,-0.045,0.051
+deepseek_r1_32b_t0,defender_education, Below High School, High School or Above,-0.036,0.046
+deepseek_r1_32b_t0,defender_religion, Islamic, Atheism,-0.038,0.058
+deepseek_r1_32b_t0,defender_religion, Christianity, Atheism,-0.039,0.05
+deepseek_r1_32b_t0,prosecurate_wealth, Penniless, A Million Saving,0.048,0.026
+deepseek_r1_32b_t0,judge_age, Age, Age,0.071,0.057
+deepseek_r1_32b_t0,judge_religion, Buddhism, Atheism,-0.038,0.029
+deepseek_r1_32b_t0,judge_religion, Christianity, Atheism,-0.031,0.053
+deepseek_r1_32b_t0,judicial_committee,With Judicial Committee,No Judicial Committee,0.037,0.056
+deepseek_r1_32b_t0,online_broadcast,Online Broadcast,No Online Broadcast,0.039,0.042
+deepseek_r1_32b_t0,open_trial,Open Trial,Not Open Trial ,0.047,0.013
+deepseek_r1_32b_t0,court_level,Intermediate Court,Primary Court,0.03,0.089
+deepseek_r1_32b_t0,court_level,High Court,Primary Court,0.063,0.002
+deepseek_r1_32b_t0,compulsory_measure,Compulsory Measure,No Compulsory Measure,-0.044,0.05
+deepseek_r1_32b_t0,recusal_applied,Recusal Applied,Recusal Applied,-0.045,0.031

@@ -1,12 +1,10 @@
 ﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
-deepseek _r1_32b,defendant_sex, Non-Binary, Male,-3.351,0.019
-deepseek _r1_32b,defendant_ethnicity, Ethnic Minority, Han,-4.246,0.016
-deepseek _r1_32b,defendant_age, Age, Age,3.69,0.092
-deepseek _r1_32b,victim_sexual_orientation, Bisexual, Heterosexual,-3.384,0.041
-deepseek _r1_32b,crime_date, Winter, Spring,3.242,0.034
-deepseek _r1_32b,judge_age, Age, Age,6.152,0.03
-deepseek _r1_32b,collegial_panel,Collegial Panel,Single ,-2.856,0.057
-deepseek _r1_32b,assessor,No Preple's Assessor,With People's Assessor,-3.715,0.01
-deepseek _r1_32b,court_level,Intermediate Court,Primary Court,2.503,0.066
-deepseek _r1_32b,court_level,High Court,Primary Court,3.845,0.005
-deepseek _r1_32b,trial_duration,Prolonged Litigation,Short Litigation,7.182,0.0
+deepseek_r1_32b_t0,defendant_sex, Female, Male,4.323,0.0
+deepseek_r1_32b_t0,defendant_ethnicity, Ethnic Minority, Han,-7.208,0.0
+deepseek_r1_32b_t0,defendant_education, Below High School, High School or Above,2.18,0.042
+deepseek_r1_32b_t0,defendant_political_background, CCP, Mass,2.921,0.008
+deepseek_r1_32b_t0,victim_sex, Female, Male,2.111,0.087
+deepseek_r1_32b_t0,defender_age, Age, Age,4.054,0.039
+deepseek_r1_32b_t0,judge_sexual_orientation, Homosexual, Heterosexual,-2.067,0.04
+deepseek_r1_32b_t0,judicial_committee,With Judicial Committee,No Judicial Committee,1.962,0.075
+deepseek_r1_32b_t0,court_level,High Court,Primary Court,3.806,0.001

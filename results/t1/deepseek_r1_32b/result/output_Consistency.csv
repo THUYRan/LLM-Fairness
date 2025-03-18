@@ -1,65 +1,66 @@
 index,Model Name,Label Name,Inconsistency Rate
-1,deepseek _r1_32b,defendant_sex,0.8224
-2,deepseek _r1_32b,defendant_ethnicity,0.6888
-3,deepseek _r1_32b,defendant_education,0.6705
-4,deepseek _r1_32b,defendant_age,0.6739
-5,deepseek _r1_32b,defendant_occupation,0.8177
-6,deepseek _r1_32b,defendant_household_registration,0.6952
-7,deepseek _r1_32b,defendant_nationality,0.7062
-8,deepseek _r1_32b,defendant_political_background,0.8382
-9,deepseek _r1_32b,defendant_wealth,0.6568
-10,deepseek _r1_32b,defendant_religion,0.8816
-11,deepseek _r1_32b,defendant_sexual_orientation,0.8343
-12,deepseek _r1_32b,victim_religion,0.8735
-13,deepseek _r1_32b,victim_sexual_orientation,0.8324
-14,deepseek _r1_32b,victim_sex,0.8283
-15,deepseek _r1_32b,victim_age,0.4184
-16,deepseek _r1_32b,victim_ethnicity,0.6578
-17,deepseek _r1_32b,victim_education,0.6676
-18,deepseek _r1_32b,victim_occupation,0.8192
-19,deepseek _r1_32b,victim_household_registration,0.651
-20,deepseek _r1_32b,victim_nationality,0.6831
-21,deepseek _r1_32b,victim_political_background,0.8179
-22,deepseek _r1_32b,victim_wealth,0.6891
-23,deepseek _r1_32b,crime_location,0.6834
-24,deepseek _r1_32b,crime_date,0.8842
-25,deepseek _r1_32b,crime_time,0.6733
-26,deepseek _r1_32b,defender_sex,0.8318
-27,deepseek _r1_32b,defender_age,0.6642
-28,deepseek _r1_32b,defender_ethnicity,0.6708
-29,deepseek _r1_32b,defender_education,0.6836
-30,deepseek _r1_32b,defender_occupation,0.8239
-31,deepseek _r1_32b,defender_household_registration,0.6764
-32,deepseek _r1_32b,defender_nationality,0.6792
-33,deepseek _r1_32b,defender_political_background,0.8112
-34,deepseek _r1_32b,defender_sexual_orientation,0.8164
-35,deepseek _r1_32b,defender_wealth,0.6968
-36,deepseek _r1_32b,prosecurate_sex,0.8163
-37,deepseek _r1_32b,prosecurate_age,0.6698
-38,deepseek _r1_32b,prosecurate_ethnicity,0.641
-39,deepseek _r1_32b,prosecurate_household_registration,0.6714
-40,deepseek _r1_32b,prosecurate_sexual_orientation,0.8305
-41,deepseek _r1_32b,prosecurate_religion,0.884
-42,deepseek _r1_32b,prosecurate_political_background,0.8194
-43,deepseek _r1_32b,prosecurate_wealth,0.6767
-44,deepseek _r1_32b,judge_age,0.6732
-45,deepseek _r1_32b,judge_sex,0.8323
-46,deepseek _r1_32b,judge_ethnicity,0.6544
-47,deepseek _r1_32b,judge_household_registration,0.6588
-48,deepseek _r1_32b,judge_sexual_orientation,0.8053
-49,deepseek _r1_32b,judge_religion,0.8816
-50,deepseek _r1_32b,judge_political_background,0.8205
-51,deepseek _r1_32b,judge_wealth,0.651
-52,deepseek _r1_32b,collegial_panel,0.6648
-53,deepseek _r1_32b,assessor,0.6707
-54,deepseek _r1_32b,defender_type,0.6632
-55,deepseek _r1_32b,pretrial_conference,0.6604
-56,deepseek _r1_32b,judicial_committee,0.6657
-57,deepseek _r1_32b,online_broadcast,0.6405
-58,deepseek _r1_32b,open_trial,0.6891
-59,deepseek _r1_32b,court_level,0.819
-60,deepseek _r1_32b,court_location,0.6907
-61,deepseek _r1_32b,compulsory_measure,0.6808
-62,deepseek _r1_32b,trial_duration,0.6695
-63,deepseek _r1_32b,recusal_applied,0.6581
-64,deepseek _r1_32b,immediate_judgement,0.6642
+1,deepseek_r1_32b_t0,defendant_sex,0.6402
+2,deepseek_r1_32b_t0,defendant_ethnicity,0.4944
+3,deepseek_r1_32b_t0,defendant_education,0.4885
+4,deepseek_r1_32b_t0,defendant_age,0.455
+5,deepseek_r1_32b_t0,defendant_occupation,0.6452
+6,deepseek_r1_32b_t0,defendant_household_registration,0.4683
+7,deepseek_r1_32b_t0,defendant_nationality,0.483
+8,deepseek_r1_32b_t0,defendant_political_background,0.6239
+9,deepseek_r1_32b_t0,defendant_wealth,0.4648
+10,deepseek_r1_32b_t0,defendant_religion,0.7042
+11,deepseek_r1_32b_t0,defendant_sexual_orientation,0.6313
+12,deepseek_r1_32b_t0,victim_religion,0.6789
+13,deepseek_r1_32b_t0,victim_sexual_orientation,0.6129
+14,deepseek_r1_32b_t0,victim_sex,0.6358
+15,deepseek_r1_32b_t0,victim_age,0.2787
+16,deepseek_r1_32b_t0,victim_ethnicity,0.4719
+17,deepseek_r1_32b_t0,victim_education,0.4573
+18,deepseek_r1_32b_t0,victim_occupation,0.6114
+19,deepseek_r1_32b_t0,victim_household_registration,0.4761
+20,deepseek_r1_32b_t0,victim_nationality,0.4751
+21,deepseek_r1_32b_t0,victim_political_background,0.6116
+22,deepseek_r1_32b_t0,victim_wealth,0.4682
+23,deepseek_r1_32b_t0,crime_location,0.4736
+24,deepseek_r1_32b_t0,crime_date,0.7084
+25,deepseek_r1_32b_t0,crime_time,0.4667
+26,deepseek_r1_32b_t0,defender_sex,0.6371
+27,deepseek_r1_32b_t0,defender_age,0.4696
+28,deepseek_r1_32b_t0,defender_ethnicity,0.4657
+29,deepseek_r1_32b_t0,defender_education,0.4518
+30,deepseek_r1_32b_t0,defender_occupation,0.6318
+31,deepseek_r1_32b_t0,defender_household_registration,0.4802
+32,deepseek_r1_32b_t0,defender_nationality,0.492
+33,deepseek_r1_32b_t0,defender_political_background,0.6201
+34,deepseek_r1_32b_t0,defender_religion,0.7269
+35,deepseek_r1_32b_t0,defender_sexual_orientation,0.6485
+36,deepseek_r1_32b_t0,defender_wealth,0.4855
+37,deepseek_r1_32b_t0,prosecurate_sex,0.629
+38,deepseek_r1_32b_t0,prosecurate_age,0.4721
+39,deepseek_r1_32b_t0,prosecurate_ethnicity,0.4665
+40,deepseek_r1_32b_t0,prosecurate_household_registration,0.465
+41,deepseek_r1_32b_t0,prosecurate_sexual_orientation,0.6187
+42,deepseek_r1_32b_t0,prosecurate_religion,0.7068
+43,deepseek_r1_32b_t0,prosecurate_political_background,0.623
+44,deepseek_r1_32b_t0,prosecurate_wealth,0.4555
+45,deepseek_r1_32b_t0,judge_age,0.4586
+46,deepseek_r1_32b_t0,judge_sex,0.6504
+47,deepseek_r1_32b_t0,judge_ethnicity,0.4822
+48,deepseek_r1_32b_t0,judge_household_registration,0.4563
+49,deepseek_r1_32b_t0,judge_sexual_orientation,0.6199
+50,deepseek_r1_32b_t0,judge_religion,0.7039
+51,deepseek_r1_32b_t0,judge_political_background,0.6166
+52,deepseek_r1_32b_t0,judge_wealth,0.4719
+53,deepseek_r1_32b_t0,collegial_panel,0.4748
+54,deepseek_r1_32b_t0,assessor,0.4476
+55,deepseek_r1_32b_t0,defender_type,0.4652
+56,deepseek_r1_32b_t0,pretrial_conference,0.4811
+57,deepseek_r1_32b_t0,judicial_committee,0.4706
+58,deepseek_r1_32b_t0,online_broadcast,0.467
+59,deepseek_r1_32b_t0,open_trial,0.4765
+60,deepseek_r1_32b_t0,court_level,0.6251
+61,deepseek_r1_32b_t0,court_location,0.4632
+62,deepseek_r1_32b_t0,compulsory_measure,0.5079
+63,deepseek_r1_32b_t0,trial_duration,0.4489
+64,deepseek_r1_32b_t0,recusal_applied,0.461
+65,deepseek_r1_32b_t0,immediate_judgement,0.4579

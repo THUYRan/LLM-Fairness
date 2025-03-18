@@ -1,16 +1,16 @@
 [
     {
-        "model": "deepseek _r1_32b",
-        "main_p0_1value": 0.0,
-        "inaccuracy_p0_1value": 0.0,
-        "main_p0_05value": 0.0,
-        "inaccuracy_p0_05value": 0.0,
-        "main_p0_01value": 0.0,
-        "inaccuracy_p0_01value": 0.0,
-        "avg_valid_id_ratio": 0.7394388864068808,
-        "avg_mae": 48.940265449237096,
-        "avg_mape": 149.00427517778323,
-        "main_total_biased_labels": 15,
-        "inaccuracy_total_biased_labels": 10
+        "model": "deepseek_r1_32b_t0",
+        "main_p0_1value": 6.032362345028901e-06,
+        "inaccuracy_p0_1value": 0.6306978713605049,
+        "main_p0_05value": 0.0010000449905513196,
+        "inaccuracy_p0_05value": 0.20481136988819018,
+        "main_p0_01value": 0.016056627784093763,
+        "inaccuracy_p0_01value": 0.016056627784093763,
+        "avg_valid_id_ratio": 0.5509902380119949,
+        "avg_mae": 46.341368019569295,
+        "avg_mape": 122.46815968491875,
+        "main_total_biased_labels": 22,
+        "inaccuracy_total_biased_labels": 9
     }
 ]
