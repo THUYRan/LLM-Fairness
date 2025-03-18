@@ -1,12 +1,12 @@
 [
     {
         "model": "NOVAMicro_t0",
-        "main_p0_1value": 0.0,
-        "inaccuracy_p0_1value": 0.0,
-        "main_p0_05value": 0.0,
-        "inaccuracy_p0_05value": 0.0,
-        "main_p0_01value": 0.0,
-        "inaccuracy_p0_01value": 0.0,
+        "main_p0_1value": 8.55561886073471e-09,
+        "inaccuracy_p0_1value": 6.032362345028901e-06,
+        "main_p0_05value": 2.8750727734298524e-10,
+        "inaccuracy_p0_05value": 2.2035174763157337e-05,
+        "main_p0_01value": 1.1106633253482886e-12,
+        "inaccuracy_p0_01value": 1.8637631546614965e-11,
         "avg_valid_id_ratio": 0.21552473320822577,
         "avg_mae": 68.32029746084302,
         "avg_mape": 268.9251421936607,
