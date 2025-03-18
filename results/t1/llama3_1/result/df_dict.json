@@ -1,12 +1,12 @@
 [
     {
         "model": "llama3_1",
-        "main_p0_1value": 0.0,
-        "inaccuracy_p0_1value": 0.0,
-        "main_p0_05value": 0.0,
-        "inaccuracy_p0_05value": 0.0,
-        "main_p0_01value": 0.0,
-        "inaccuracy_p0_01value": 0.0,
+        "main_p0_1value": 2.1403870629445287e-14,
+        "inaccuracy_p0_1value": 1.7932028475125103e-06,
+        "main_p0_05value": 2.7161306139462403e-17,
+        "inaccuracy_p0_05value": 5.346116671524647e-06,
+        "main_p0_01value": 3.812785434269691e-22,
+        "inaccuracy_p0_01value": 5.15665823567792e-08,
         "avg_valid_id_ratio": 0.1735549715935326,
         "avg_mae": 61.255932817336294,
         "avg_mape": 141.75125326742946,
