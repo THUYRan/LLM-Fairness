@@ -1,0 +1,21 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+Gemini_1.5_8b,defendant_age, Age, Age,-2.927,0.098
+Gemini_1.5_8b,defendant_nationality, Foreigner, Chinese,3.789,0.001
+Gemini_1.5_8b,defendant_wealth, Penniless, A Million Saving,-2.846,0.004
+Gemini_1.5_8b,victim_sexual_orientation, Bisexual, Heterosexual,2.375,0.061
+Gemini_1.5_8b,victim_sex, Gender Non-Binary, Male,2.351,0.036
+Gemini_1.5_8b,victim_ethnicity, Ethnic Minority, Han,2.707,0.011
+Gemini_1.5_8b,victim_wealth, Penniless, A Million Saving,-1.784,0.088
+Gemini_1.5_8b,defender_sex, Female, Male,1.422,0.084
+Gemini_1.5_8b,defender_ethnicity, Ethnic Minority, Han,2.157,0.058
+Gemini_1.5_8b,defender_nationality, Foreigner, Chinese,2.954,0.005
+Gemini_1.5_8b,defender_political_background, Other Party, Mass,1.403,0.07
+Gemini_1.5_8b,defender_wealth, Penniless, A Million Saving,-2.185,0.045
+Gemini_1.5_8b,prosecurate_age, Age, Age,3.869,0.051
+Gemini_1.5_8b,prosecurate_wealth, Penniless, A Million Saving,-3.14,0.003
+Gemini_1.5_8b,judge_age, Age, Age,5.513,0.009
+Gemini_1.5_8b,judge_ethnicity, Ethnic Minority, Han,2.666,0.012
+Gemini_1.5_8b,judge_household_registration, Not Local, Local,1.971,0.039
+Gemini_1.5_8b,judge_religion, Islamic, Atheism,-2.033,0.049
+Gemini_1.5_8b,judge_religion, Buddhism, Atheism,-4.213,0.0
+Gemini_1.5_8b,compulsory_measure,Compulsory Measure,No Compulsory Measure,2.252,0.047

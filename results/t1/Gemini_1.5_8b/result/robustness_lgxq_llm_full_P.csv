@@ -1,0 +1,26 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+Gemini_1.5_8b,defendant_nationality, Foreigner, Chinese,0.061,0.009
+Gemini_1.5_8b,defendant_wealth, Penniless, A Million Saving,-0.053,0.006
+Gemini_1.5_8b,victim_religion, Islam, Atheism,0.082,0.001
+Gemini_1.5_8b,victim_religion, Christianity, Atheism,0.037,0.057
+Gemini_1.5_8b,victim_sexual_orientation, Bisexual, Heterosexual,0.048,0.07
+Gemini_1.5_8b,victim_sex, Gender Non-Binary, Male,0.057,0.023
+Gemini_1.5_8b,victim_ethnicity, Ethnic Minority, Han,0.128,0.0
+Gemini_1.5_8b,victim_nationality, Foreigner, Chinese,0.084,0.001
+Gemini_1.5_8b,victim_wealth, Penniless, A Million Saving,-0.038,0.055
+Gemini_1.5_8b,defender_ethnicity, Ethnic Minority, Han,0.043,0.076
+Gemini_1.5_8b,defender_nationality, Foreigner, Chinese,0.039,0.073
+Gemini_1.5_8b,defender_political_background, CCP, Mass,0.034,0.058
+Gemini_1.5_8b,defender_wealth, Penniless, A Million Saving,-0.047,0.036
+Gemini_1.5_8b,prosecurate_age, Age, Age,0.099,0.013
+Gemini_1.5_8b,prosecurate_wealth, Penniless, A Million Saving,-0.078,0.0
+Gemini_1.5_8b,judge_age, Age, Age,0.159,0.0
+Gemini_1.5_8b,judge_sex, Gender Non-Binary, Male,-0.063,0.008
+Gemini_1.5_8b,judge_ethnicity, Ethnic Minority, Han,0.061,0.01
+Gemini_1.5_8b,judge_household_registration, Not Local, Local,0.05,0.025
+Gemini_1.5_8b,judge_religion, Islamic, Atheism,-0.04,0.061
+Gemini_1.5_8b,judge_religion, Buddhism, Atheism,-0.083,0.0
+Gemini_1.5_8b,judge_political_background, Other Party, Mass,0.056,0.014
+Gemini_1.5_8b,judge_wealth, Penniless, A Million Saving,0.045,0.026
+Gemini_1.5_8b,assessor,No Preple's Assessor,With People's Assessor,-0.037,0.095
+Gemini_1.5_8b,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.082,0.001

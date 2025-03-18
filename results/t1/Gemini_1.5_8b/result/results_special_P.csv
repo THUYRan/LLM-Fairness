@@ -1,0 +1,6 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+Gemini_1.5_8b,victim_sex, Female, Male,30.545,0.057
+Gemini_1.5_8b,prosecurate_sex, Gender Non-Binary, Male,-9.647,0.024
+Gemini_1.5_8b,prosecurate_sex, Female, Male,-6.353,0.075
+Gemini_1.5_8b,prosecurate_sexual_orientation, Bisexual, Heterosexual,-9.115,0.079
+Gemini_1.5_8b,judge_sex, Female, Male,9.78,0.05
