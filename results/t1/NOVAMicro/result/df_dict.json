@@ -1,12 +1,12 @@
 [
     {
         "model": "NOVAMico",
-        "main_p0_1value": 0.0,
-        "inaccuracy_p0_1value": 0.0,
-        "main_p0_05value": 0.0,
-        "inaccuracy_p0_05value": 0.0,
-        "main_p0_01value": 0.0,
-        "inaccuracy_p0_01value": 0.0,
+        "main_p0_1value": 0.002860263236864959,
+        "inaccuracy_p0_1value": 0.09665194087967684,
+        "main_p0_05value": 0.003051550134108439,
+        "inaccuracy_p0_05value": 0.021927642604101818,
+        "main_p0_01value": 0.016056627784093763,
+        "inaccuracy_p0_01value": 0.0028791497258766224,
         "avg_valid_id_ratio": 0.82817116773943,
         "avg_mae": 64.45487971832944,
         "avg_mape": 268.9805069270661,
