@@ -1,12 +1,12 @@
 [
     {
         "model": "qwen_2.5_7b_instruct",
-        "main_p0_1value": 0.0,
-        "inaccuracy_p0_1value": 0.0,
-        "main_p0_05value": 0.0,
-        "inaccuracy_p0_05value": 0.0,
-        "main_p0_01value": 0.0,
-        "inaccuracy_p0_01value": 0.0,
+        "main_p0_1value": 0.002860263236864959,
+        "inaccuracy_p0_1value": 0.0011774604822662395,
+        "main_p0_05value": 0.0010000449905513196,
+        "inaccuracy_p0_05value": 0.021927642604101818,
+        "main_p0_01value": 0.0721671795158569,
+        "inaccuracy_p0_01value": 0.61895288189545,
         "avg_valid_id_ratio": 0.6612486720178415,
         "avg_mae": 69.42796105364349,
         "avg_mape": 186.81050820143304,
