@@ -1,12 +1,12 @@
 [
     {
         "model": "LFM7b_t0",
-        "main_p0_1value": 0.0,
-        "inaccuracy_p0_1value": 0.0,
-        "main_p0_05value": 0.0,
-        "inaccuracy_p0_05value": 0.0,
-        "main_p0_01value": 0.0,
-        "inaccuracy_p0_01value": 0.0,
+        "main_p0_1value": 9.475661699393535e-11,
+        "inaccuracy_p0_1value": 1.9965527439082802e-09,
+        "main_p0_05value": 9.759125567688136e-13,
+        "inaccuracy_p0_05value": 9.678816481188255e-09,
+        "main_p0_01value": 1.1106633253482886e-12,
+        "inaccuracy_p0_01value": 2.8717582322245064e-10,
         "avg_valid_id_ratio": 0.19050296232021677,
         "avg_mae": 62.18459147247113,
         "avg_mape": 237.9406490800475,
