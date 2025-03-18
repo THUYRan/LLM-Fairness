@@ -1,0 +1,16 @@
+[
+    {
+        "model": "LFM40b_t0",
+        "main_p0_1value": 0.25047827928076805,
+        "inaccuracy_p0_1value": 0.05430505501801618,
+        "main_p0_05value": 0.2048113698881901,
+        "inaccuracy_p0_05value": 0.10788594037596554,
+        "main_p0_01value": 0.24945264615770446,
+        "inaccuracy_p0_01value": 0.61895288189545,
+        "avg_valid_id_ratio": 0.58639487589341,
+        "avg_mae": 111.08836349225672,
+        "avg_mape": 555.1506133756164,
+        "main_total_biased_labels": 12,
+        "inaccuracy_total_biased_labels": 15
+    }
+]
