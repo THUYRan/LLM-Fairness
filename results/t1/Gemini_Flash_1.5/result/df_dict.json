@@ -1,0 +1,16 @@
+[
+    {
+        "model": "Gemini_Flash_1.5",
+        "main_p0_1value": 6.0323623450289034e-06,
+        "inaccuracy_p0_1value": 1.7932028475125099e-06,
+        "main_p0_05value": 2.8750727734298514e-10,
+        "inaccuracy_p0_05value": 2.577865380338922e-07,
+        "main_p0_01value": 3.1111252199480584e-15,
+        "inaccuracy_p0_01value": 2.871758232224516e-10,
+        "avg_valid_id_ratio": 0.2774239677881829,
+        "avg_mae": 56.12789283273793,
+        "avg_mape": 165.74761364778752,
+        "main_total_biased_labels": 23,
+        "inaccuracy_total_biased_labels": 25
+    }
+]

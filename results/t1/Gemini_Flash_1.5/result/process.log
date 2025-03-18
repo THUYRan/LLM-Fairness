@@ -1,0 +1,132 @@
+2025-03-13 16:58:55,065 - INFO - ====== 开始处理流程 ======
+2025-03-13 16:58:55,068 - INFO - 进度: 1/65 正在处理参数: defendant_sex
+2025-03-13 16:58:55,069 - INFO - 开始处理文件: merged_defendant_sex_Gemini_Flash_1.5
+2025-03-13 16:59:51,278 - INFO - 进度: 2/65 正在处理参数: defendant_ethnicity
+2025-03-13 16:59:51,279 - INFO - 开始处理文件: merged_defendant_ethnicity_Gemini_Flash_1.5
+2025-03-13 17:00:36,979 - INFO - 进度: 3/65 正在处理参数: defendant_education
+2025-03-13 17:00:36,980 - INFO - 开始处理文件: merged_defendant_education_Gemini_Flash_1.5
+2025-03-13 17:01:23,584 - INFO - 进度: 4/65 正在处理参数: defendant_age
+2025-03-13 17:01:23,584 - INFO - 开始处理文件: merged_defendant_age_Gemini_Flash_1.5
+2025-03-13 17:02:10,687 - INFO - 进度: 5/65 正在处理参数: defendant_occupation
+2025-03-13 17:02:10,687 - INFO - 开始处理文件: merged_defendant_occupation_Gemini_Flash_1.5
+2025-03-13 17:03:15,493 - INFO - 进度: 6/65 正在处理参数: defendant_household_registration
+2025-03-13 17:03:15,493 - INFO - 开始处理文件: merged_defendant_household_registration_Gemini_Flash_1.5
+2025-03-13 17:03:59,165 - INFO - 进度: 7/65 正在处理参数: defendant_nationality
+2025-03-13 17:03:59,166 - INFO - 开始处理文件: merged_defendant_nationality_Gemini_Flash_1.5
+2025-03-13 17:04:58,312 - INFO - 进度: 8/65 正在处理参数: defendant_political_background
+2025-03-13 17:04:58,313 - INFO - 开始处理文件: merged_defendant_political_background_Gemini_Flash_1.5
+2025-03-13 17:06:06,128 - INFO - 进度: 9/65 正在处理参数: defendant_wealth
+2025-03-13 17:06:06,128 - INFO - 开始处理文件: merged_defendant_wealth_Gemini_Flash_1.5
+2025-03-13 17:06:58,144 - INFO - 进度: 10/65 正在处理参数: defendant_religion
+2025-03-13 17:06:58,144 - INFO - 开始处理文件: merged_defendant_religion_Gemini_Flash_1.5
+2025-03-13 17:08:19,343 - INFO - 进度: 11/65 正在处理参数: defendant_sexual_orientation
+2025-03-13 17:08:19,344 - INFO - 开始处理文件: merged_defendant_sexual_orientation_Gemini_Flash_1.5
+2025-03-13 17:09:28,571 - INFO - 进度: 12/65 正在处理参数: victim_religion
+2025-03-13 17:09:28,571 - INFO - 开始处理文件: merged_victim_religion_Gemini_Flash_1.5
+2025-03-13 17:10:50,153 - INFO - 进度: 13/65 正在处理参数: victim_sexual_orientation
+2025-03-13 17:12:55,470 - INFO - 开始处理文件: merged_victim_sexual_orientation_Gemini_Flash_1.5
+2025-03-13 17:14:57,724 - INFO - 进度: 14/65 正在处理参数: victim_sex
+2025-03-13 17:14:57,725 - INFO - 开始处理文件: merged_victim_sex_Gemini_Flash_1.5
+2025-03-13 17:16:02,845 - INFO - 进度: 15/65 正在处理参数: victim_age
+2025-03-13 17:16:02,846 - INFO - 开始处理文件: merged_victim_age_Gemini_Flash_1.5
+2025-03-13 17:16:38,693 - INFO - 进度: 16/65 正在处理参数: victim_ethnicity
+2025-03-13 17:16:38,694 - INFO - 开始处理文件: merged_victim_ethnicity_Gemini_Flash_1.5
+2025-03-13 17:17:26,842 - INFO - 进度: 17/65 正在处理参数: victim_education
+2025-03-13 17:17:26,843 - INFO - 开始处理文件: merged_victim_education_Gemini_Flash_1.5
+2025-03-13 17:18:16,110 - INFO - 进度: 18/65 正在处理参数: victim_occupation
+2025-03-13 17:18:16,110 - INFO - 开始处理文件: merged_victim_occupation_Gemini_Flash_1.5
+2025-03-13 17:19:17,135 - INFO - 进度: 19/65 正在处理参数: victim_household_registration
+2025-03-13 17:19:17,136 - INFO - 开始处理文件: merged_victim_household_registration_Gemini_Flash_1.5
+2025-03-13 17:20:05,331 - INFO - 进度: 20/65 正在处理参数: victim_nationality
+2025-03-13 17:20:05,332 - INFO - 开始处理文件: merged_victim_nationality_Gemini_Flash_1.5
+2025-03-13 17:20:58,410 - INFO - 进度: 21/65 正在处理参数: victim_political_background
+2025-03-13 17:20:58,412 - INFO - 开始处理文件: merged_victim_political_background_Gemini_Flash_1.5
+2025-03-13 17:22:01,860 - INFO - 进度: 22/65 正在处理参数: victim_wealth
+2025-03-13 17:22:01,861 - INFO - 开始处理文件: merged_victim_wealth_Gemini_Flash_1.5
+2025-03-13 17:22:53,535 - INFO - 进度: 23/65 正在处理参数: crime_location
+2025-03-13 17:22:53,535 - INFO - 开始处理文件: merged_crime_location_Gemini_Flash_1.5
+2025-03-13 17:23:45,733 - INFO - 进度: 24/65 正在处理参数: crime_date
+2025-03-13 17:23:45,735 - INFO - 开始处理文件: merged_crime_date_Gemini_Flash_1.5
+2025-03-13 17:25:03,788 - INFO - 进度: 25/65 正在处理参数: crime_time
+2025-03-13 17:25:03,789 - INFO - 开始处理文件: merged_crime_time_Gemini_Flash_1.5
+2025-03-13 17:25:53,155 - INFO - 进度: 26/65 正在处理参数: defender_sex
+2025-03-13 17:25:53,155 - INFO - 开始处理文件: merged_defender_sex_Gemini_Flash_1.5
+2025-03-13 17:26:53,099 - INFO - 进度: 27/65 正在处理参数: defender_age
+2025-03-13 17:26:53,100 - INFO - 开始处理文件: merged_defender_age_Gemini_Flash_1.5
+2025-03-13 17:27:45,120 - INFO - 进度: 28/65 正在处理参数: defender_ethnicity
+2025-03-13 17:27:45,120 - INFO - 开始处理文件: merged_defender_ethnicity_Gemini_Flash_1.5
+2025-03-13 17:28:42,636 - INFO - 进度: 29/65 正在处理参数: defender_education
+2025-03-13 17:28:42,636 - INFO - 开始处理文件: merged_defender_education_Gemini_Flash_1.5
+2025-03-13 17:29:36,092 - INFO - 进度: 30/65 正在处理参数: defender_occupation
+2025-03-13 17:29:36,092 - INFO - 开始处理文件: merged_defender_occupation_Gemini_Flash_1.5
+2025-03-13 17:30:48,321 - INFO - 进度: 31/65 正在处理参数: defender_household_registration
+2025-03-13 17:30:48,321 - INFO - 开始处理文件: merged_defender_household_registration_Gemini_Flash_1.5
+2025-03-13 17:31:37,486 - INFO - 进度: 32/65 正在处理参数: defender_nationality
+2025-03-13 17:31:37,486 - INFO - 开始处理文件: merged_defender_nationality_Gemini_Flash_1.5
+2025-03-13 17:32:28,476 - INFO - 进度: 33/65 正在处理参数: defender_political_background
+2025-03-13 17:32:28,477 - INFO - 开始处理文件: merged_defender_political_background_Gemini_Flash_1.5
+2025-03-13 17:33:37,161 - INFO - 进度: 34/65 正在处理参数: defender_religion
+2025-03-13 17:33:37,162 - INFO - 开始处理文件: merged_defender_religion_Gemini_Flash_1.5
+2025-03-13 17:34:52,881 - INFO - 进度: 35/65 正在处理参数: defender_sexual_orientation
+2025-03-13 17:34:52,882 - INFO - 开始处理文件: merged_defender_sexual_orientation_Gemini_Flash_1.5
+2025-03-13 17:36:02,735 - INFO - 进度: 36/65 正在处理参数: defender_wealth
+2025-03-13 17:36:02,737 - INFO - 开始处理文件: merged_defender_wealth_Gemini_Flash_1.5
+2025-03-13 17:36:49,582 - INFO - 进度: 37/65 正在处理参数: prosecurate_sex
+2025-03-13 17:36:49,583 - INFO - 开始处理文件: merged_prosecurate_sex_Gemini_Flash_1.5
+2025-03-13 17:38:04,970 - INFO - 进度: 38/65 正在处理参数: prosecurate_age
+2025-03-13 17:38:04,971 - INFO - 开始处理文件: merged_prosecurate_age_Gemini_Flash_1.5
+2025-03-13 17:39:23,482 - INFO - 进度: 39/65 正在处理参数: prosecurate_ethnicity
+2025-03-13 17:39:23,482 - INFO - 开始处理文件: merged_prosecurate_ethnicity_Gemini_Flash_1.5
+2025-03-13 17:40:45,680 - INFO - 进度: 40/65 正在处理参数: prosecurate_household_registration
+2025-03-13 17:40:45,680 - INFO - 开始处理文件: merged_prosecurate_household_registration_Gemini_Flash_1.5
+2025-03-13 17:42:07,751 - INFO - 进度: 41/65 正在处理参数: prosecurate_sexual_orientation
+2025-03-13 17:42:07,752 - INFO - 开始处理文件: merged_prosecurate_sexual_orientation_Gemini_Flash_1.5
+2025-03-13 17:43:10,934 - INFO - 进度: 42/65 正在处理参数: prosecurate_religion
+2025-03-13 17:43:10,937 - INFO - 开始处理文件: merged_prosecurate_religion_Gemini_Flash_1.5
+2025-03-13 17:45:31,070 - INFO - 进度: 43/65 正在处理参数: prosecurate_political_background
+2025-03-13 17:45:31,072 - INFO - 开始处理文件: merged_prosecurate_political_background_Gemini_Flash_1.5
+2025-03-13 17:47:21,846 - INFO - 进度: 44/65 正在处理参数: prosecurate_wealth
+2025-03-13 17:47:21,848 - INFO - 开始处理文件: merged_prosecurate_wealth_Gemini_Flash_1.5
+2025-03-13 17:48:17,175 - INFO - 进度: 45/65 正在处理参数: judge_age
+2025-03-13 17:48:17,176 - INFO - 开始处理文件: merged_judge_age_Gemini_Flash_1.5
+2025-03-13 17:49:10,423 - INFO - 进度: 46/65 正在处理参数: judge_sex
+2025-03-13 17:49:10,424 - INFO - 开始处理文件: merged_judge_sex_Gemini_Flash_1.5
+2025-03-13 17:51:03,461 - INFO - 进度: 47/65 正在处理参数: judge_ethnicity
+2025-03-13 17:51:03,462 - INFO - 开始处理文件: merged_judge_ethnicity_Gemini_Flash_1.5
+2025-03-13 17:52:01,465 - INFO - 进度: 48/65 正在处理参数: judge_household_registration
+2025-03-13 17:52:01,466 - INFO - 开始处理文件: merged_judge_household_registration_Gemini_Flash_1.5
+2025-03-13 17:53:02,267 - INFO - 进度: 49/65 正在处理参数: judge_sexual_orientation
+2025-03-13 17:53:02,268 - INFO - 开始处理文件: merged_judge_sexual_orientation_Gemini_Flash_1.5
+2025-03-13 17:54:55,762 - INFO - 进度: 50/65 正在处理参数: judge_religion
+2025-03-13 17:54:55,764 - INFO - 开始处理文件: merged_judge_religion_Gemini_Flash_1.5
+2025-03-13 17:57:34,996 - INFO - 进度: 51/65 正在处理参数: judge_political_background
+2025-03-13 17:57:34,997 - INFO - 开始处理文件: merged_judge_political_background_Gemini_Flash_1.5
+2025-03-13 17:59:43,364 - INFO - 进度: 52/65 正在处理参数: judge_wealth
+2025-03-13 17:59:43,365 - INFO - 开始处理文件: merged_judge_wealth_Gemini_Flash_1.5
+2025-03-13 18:01:18,124 - INFO - 进度: 53/65 正在处理参数: collegial_panel
+2025-03-13 18:01:18,125 - INFO - 开始处理文件: merged_collegial_panel_Gemini_Flash_1.5
+2025-03-13 18:02:15,694 - INFO - 进度: 54/65 正在处理参数: assessor
+2025-03-13 18:02:15,696 - INFO - 开始处理文件: merged_assessor_Gemini_Flash_1.5
+2025-03-13 18:03:15,319 - INFO - 进度: 55/65 正在处理参数: defender_type
+2025-03-13 18:03:15,321 - INFO - 开始处理文件: merged_defender_type_Gemini_Flash_1.5
+2025-03-13 18:04:13,381 - INFO - 进度: 56/65 正在处理参数: pretrial_conference
+2025-03-13 18:04:13,382 - INFO - 开始处理文件: merged_pretrial_conference_Gemini_Flash_1.5
+2025-03-13 18:05:46,821 - INFO - 进度: 57/65 正在处理参数: judicial_committee
+2025-03-13 18:05:46,822 - INFO - 开始处理文件: merged_judicial_committee_Gemini_Flash_1.5
+2025-03-13 18:07:18,122 - INFO - 进度: 58/65 正在处理参数: online_broadcast
+2025-03-13 18:07:18,124 - INFO - 开始处理文件: merged_online_broadcast_Gemini_Flash_1.5
+2025-03-13 18:08:45,557 - INFO - 进度: 59/65 正在处理参数: open_trial
+2025-03-13 18:08:45,557 - INFO - 开始处理文件: merged_open_trial_Gemini_Flash_1.5
+2025-03-13 18:10:01,035 - INFO - 进度: 60/65 正在处理参数: court_level
+2025-03-13 18:10:01,036 - INFO - 开始处理文件: merged_court_level_Gemini_Flash_1.5
+2025-03-13 18:11:00,850 - INFO - 进度: 61/65 正在处理参数: court_location
+2025-03-13 18:11:00,851 - INFO - 开始处理文件: merged_court_location_Gemini_Flash_1.5
+2025-03-13 18:11:47,284 - INFO - 进度: 62/65 正在处理参数: compulsory_measure
+2025-03-13 18:11:47,284 - INFO - 开始处理文件: merged_compulsory_measure_Gemini_Flash_1.5
+2025-03-13 18:12:30,482 - INFO - 进度: 63/65 正在处理参数: trial_duration
+2025-03-13 18:12:30,482 - INFO - 开始处理文件: merged_trial_duration_Gemini_Flash_1.5
+2025-03-13 18:13:13,299 - INFO - 进度: 64/65 正在处理参数: recusal_applied
+2025-03-13 18:13:13,300 - INFO - 开始处理文件: merged_recusal_applied_Gemini_Flash_1.5
+2025-03-13 18:13:55,499 - INFO - 进度: 65/65 正在处理参数: immediate_judgement
+2025-03-13 18:13:55,500 - INFO - 开始处理文件: merged_immediate_judgement_Gemini_Flash_1.5
+2025-03-18 11:05:58,252 - INFO - ====== 开始处理流程 ======

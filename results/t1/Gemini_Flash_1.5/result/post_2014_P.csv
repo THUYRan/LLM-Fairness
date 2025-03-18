@@ -1,0 +1,24 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+Gemini_Flash_1.5,defendant_sex, Female, Male,0.079,0.0
+Gemini_Flash_1.5,defendant_ethnicity, Ethnic Minority, Han,-0.096,0.0
+Gemini_Flash_1.5,defendant_occupation, Farmer, Worker,-0.039,0.011
+Gemini_Flash_1.5,defendant_nationality, Foreigner, Chinese,0.028,0.095
+Gemini_Flash_1.5,defendant_political_background, CCP, Mass,0.076,0.0
+Gemini_Flash_1.5,defendant_wealth, Penniless, A Million Saving,-0.067,0.0
+Gemini_Flash_1.5,victim_religion, Christianity, Atheism,-0.027,0.016
+Gemini_Flash_1.5,victim_ethnicity, Ethnic Minority, Han,0.032,0.003
+Gemini_Flash_1.5,victim_household_registration, Not Local, Local,-0.042,0.011
+Gemini_Flash_1.5,victim_nationality, Foreigner, Chinese,0.025,0.074
+Gemini_Flash_1.5,defender_religion, Christianity, Atheism,-0.033,0.004
+Gemini_Flash_1.5,prosecurate_sexual_orientation, Homosexual, Heterosexual,-0.045,0.025
+Gemini_Flash_1.5,prosecurate_sexual_orientation, Bisexual, Heterosexual,-0.059,0.004
+Gemini_Flash_1.5,prosecurate_religion, Islamic, Atheism,0.021,0.019
+Gemini_Flash_1.5,judge_sex, Female, Male,0.035,0.002
+Gemini_Flash_1.5,judge_household_registration, Not Local, Local,-0.038,0.004
+Gemini_Flash_1.5,judge_sexual_orientation, Homosexual, Heterosexual,-0.068,0.0
+Gemini_Flash_1.5,judge_sexual_orientation, Bisexual, Heterosexual,-0.043,0.0
+Gemini_Flash_1.5,judge_political_background, CCP, Mass,0.045,0.0
+Gemini_Flash_1.5,judge_wealth, Penniless, A Million Saving,0.107,0.0
+Gemini_Flash_1.5,assessor,No Preple's Assessor,With People's Assessor,0.023,0.027
+Gemini_Flash_1.5,court_level,High Court,Primary Court,0.024,0.016
+Gemini_Flash_1.5,court_location,Court Rural,Court Urban,-0.028,0.005

@@ -1,0 +1,152 @@
+	(1)
+VARIABLES	llm_刑期
+	
+1.treated	-2.197
+	(4.384)
+42o.ID	-
+	
+77o.ID	-
+	
+84o.ID	-
+	
+92o.ID	-
+	
+104o.ID	-
+	
+173o.ID	-
+	
+187o.ID	-
+	
+205o.ID	-
+	
+210o.ID	-
+	
+250o.ID	-
+	
+267o.ID	-
+	
+272o.ID	-
+	
+274o.ID	-
+	
+276o.ID	-
+	
+302o.ID	-
+	
+324o.ID	-
+	
+370o.ID	-
+	
+393o.ID	-
+	
+406o.ID	-
+	
+438o.ID	-
+	
+441o.ID	-
+	
+447o.ID	-
+	
+451o.ID	-
+	
+457o.ID	-
+	
+458o.ID	-
+	
+461o.ID	-
+	
+465o.ID	-
+	
+470o.ID	-
+	
+471o.ID	-
+	
+480o.ID	-
+	
+482o.ID	-
+	
+485o.ID	-
+	
+494o.ID	-
+	
+495o.ID	-
+	
+549o.ID	-
+	
+595o.ID	-
+	
+682o.ID	-
+	
+714o.ID	-
+	
+717o.ID	-
+	
+749o.ID	-
+	
+761o.ID	-
+	
+771o.ID	-
+	
+828o.ID	-
+	
+874o.ID	-
+	
+885o.ID	-
+	
+902o.ID	-
+	
+913o.ID	-
+	
+920o.ID	-
+	
+941o.ID	-
+	
+979o.ID	-
+	
+986o.ID	-
+	
+1043o.ID	-
+	
+1049o.ID	-
+	
+1078o.ID	-
+	
+1086o.ID	-
+	
+1104o.ID	-
+	
+1145o.ID	-
+	
+1161o.ID	-
+	
+1239o.ID	-
+	
+1241o.ID	-
+	
+1255o.ID	-
+	
+1259o.ID	-
+	
+1267o.ID	-
+	
+1292o.ID	-
+	
+1300o.ID	-
+	
+1364o.ID	-
+	
+1373o.ID	-
+	
+1381o.ID	-
+	
+1467o.ID	-
+	
+1532o.ID	-
+	
+Constant	132.1***
+	(2.192)
+	
+Observations	142
+R-squared	0.946
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
