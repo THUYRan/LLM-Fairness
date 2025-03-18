@@ -1,0 +1,18 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+deepseek_v3,defendant_sex, Non-Binary, Male,-0.055,0.01
+deepseek_v3,defendant_political_background, CCP, Mass,0.045,0.014
+deepseek_v3,defendant_political_background, Other Party, Mass,0.034,0.036
+deepseek_v3,victim_religion, Islam, Atheism,-0.031,0.07
+deepseek_v3,defender_ethnicity, Ethnic Minority, Han,-0.035,0.065
+deepseek_v3,defender_occupation, Farmer, Worker,0.036,0.048
+deepseek_v3,defender_occupation, Unemployed, Worker,0.043,0.03
+deepseek_v3,defender_political_background, CCP, Mass,-0.057,0.002
+deepseek_v3,defender_sexual_orientation, Homosexual, Heterosexual,0.035,0.072
+deepseek_v3,prosecurate_age, Age, Age,0.063,0.071
+deepseek_v3,judge_age, Age, Age,0.064,0.085
+deepseek_v3,judge_religion, Buddhism, Atheism,-0.035,0.042
+deepseek_v3,judge_political_background, CCP, Mass,0.036,0.057
+deepseek_v3,judicial_committee,With Judicial Committee,No Judicial Committee,0.029,0.094
+deepseek_v3,court_level,Intermediate Court,Primary Court,0.063,0.0
+deepseek_v3,court_level,High Court,Primary Court,0.088,0.0
+deepseek_v3,trial_duration,Prolonged Litigation,Short Litigation,0.03,0.077

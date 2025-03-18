@@ -1,0 +1,16 @@
+[
+    {
+        "model": "deepseek _r1_32b",
+        "main_p0_1value": 0.0,
+        "inaccuracy_p0_1value": 0.0,
+        "main_p0_05value": 0.0,
+        "inaccuracy_p0_05value": 0.0,
+        "main_p0_01value": 0.0,
+        "inaccuracy_p0_01value": 0.0,
+        "avg_valid_id_ratio": 0.7394388864068808,
+        "avg_mae": 48.940265449237096,
+        "avg_mape": 149.00427517778323,
+        "main_total_biased_labels": 15,
+        "inaccuracy_total_biased_labels": 10
+    }
+]

@@ -1,0 +1,17 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+deepseek_v3,defendant_ethnicity, Ethnic Minority, Han,-5.601,0.0
+deepseek_v3,defendant_political_background, CCP, Mass,2.469,0.072
+deepseek_v3,defender_ethnicity, Ethnic Minority, Han,-3.122,0.028
+deepseek_v3,defender_occupation, Farmer, Worker,3.81,0.008
+deepseek_v3,defender_occupation, Unemployed, Worker,2.862,0.047
+deepseek_v3,defender_political_background, CCP, Mass,-3.721,0.01
+deepseek_v3,prosecurate_age, Age, Age,7.691,0.007
+deepseek_v3,prosecurate_wealth, Penniless, A Million Saving,-2.93,0.054
+deepseek_v3,judge_age, Age, Age,5.412,0.053
+deepseek_v3,judge_sexual_orientation, Homosexual, Heterosexual,2.929,0.045
+deepseek_v3,judge_political_background, CCP, Mass,3.338,0.012
+deepseek_v3,pretrial_conference,With Pretrial Conference,No Pretrial Conference,-3.15,0.023
+deepseek_v3,court_level,Intermediate Court,Primary Court,2.509,0.06
+deepseek_v3,court_level,High Court,Primary Court,5.327,0.0
+deepseek_v3,trial_duration,Prolonged Litigation,Short Litigation,2.606,0.066
+deepseek_v3,immediate_judgement,Immediate ment,Not Immediate ment,-2.6,0.082

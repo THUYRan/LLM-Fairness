@@ -1,0 +1,131 @@
+2025-03-13 15:52:44,254 - INFO - ====== 开始处理流程 ======
+2025-03-13 15:52:44,258 - INFO - 进度: 1/65 正在处理参数: defendant_sex
+2025-03-13 15:52:44,259 - INFO - 开始处理文件: merged_defendant_sex_deepseek_v3
+2025-03-13 15:53:46,802 - INFO - 进度: 2/65 正在处理参数: defendant_ethnicity
+2025-03-13 15:53:46,803 - INFO - 开始处理文件: merged_defendant_ethnicity_deepseek_v3
+2025-03-13 15:55:03,718 - INFO - 进度: 3/65 正在处理参数: defendant_education
+2025-03-13 15:55:03,718 - INFO - 开始处理文件: merged_defendant_education_deepseek_v3
+2025-03-13 15:56:21,299 - INFO - 进度: 4/65 正在处理参数: defendant_age
+2025-03-13 15:56:21,300 - INFO - 开始处理文件: merged_defendant_age_deepseek_v3
+2025-03-13 15:57:47,150 - INFO - 进度: 5/65 正在处理参数: defendant_occupation
+2025-03-13 15:57:47,151 - INFO - 开始处理文件: merged_defendant_occupation_deepseek_v3
+2025-03-13 15:58:56,386 - INFO - 进度: 6/65 正在处理参数: defendant_household_registration
+2025-03-13 15:58:56,387 - INFO - 开始处理文件: merged_defendant_household_registration_deepseek_v3
+2025-03-13 16:00:15,678 - INFO - 进度: 7/65 正在处理参数: defendant_nationality
+2025-03-13 16:00:15,680 - INFO - 开始处理文件: merged_defendant_nationality_deepseek_v3
+2025-03-13 16:01:17,201 - INFO - 进度: 8/65 正在处理参数: defendant_political_background
+2025-03-13 16:01:17,202 - INFO - 开始处理文件: merged_defendant_political_background_deepseek_v3
+2025-03-13 16:02:21,983 - INFO - 进度: 9/65 正在处理参数: defendant_wealth
+2025-03-13 16:02:21,984 - INFO - 开始处理文件: merged_defendant_wealth_deepseek_v3
+2025-03-13 16:03:10,318 - INFO - 进度: 10/65 正在处理参数: defendant_religion
+2025-03-13 16:03:10,319 - INFO - 开始处理文件: merged_defendant_religion_deepseek_v3
+2025-03-13 16:04:28,085 - INFO - 进度: 11/65 正在处理参数: defendant_sexual_orientation
+2025-03-13 16:04:28,086 - INFO - 开始处理文件: merged_defendant_sexual_orientation_deepseek_v3
+2025-03-13 16:05:29,174 - INFO - 进度: 12/65 正在处理参数: victim_religion
+2025-03-13 16:05:29,175 - INFO - 开始处理文件: merged_victim_religion_deepseek_v3
+2025-03-13 16:06:42,199 - INFO - 进度: 13/65 正在处理参数: victim_sexual_orientation
+2025-03-13 16:08:45,299 - INFO - 开始处理文件: merged_victim_sexual_orientation_deepseek_v3
+2025-03-13 16:10:55,727 - INFO - 进度: 14/65 正在处理参数: victim_sex
+2025-03-13 16:10:55,729 - INFO - 开始处理文件: merged_victim_sex_deepseek_v3
+2025-03-13 16:12:11,124 - INFO - 进度: 15/65 正在处理参数: victim_age
+2025-03-13 16:12:11,126 - INFO - 开始处理文件: merged_victim_age_deepseek_v3
+2025-03-13 16:12:56,281 - INFO - 进度: 16/65 正在处理参数: victim_ethnicity
+2025-03-13 16:12:56,283 - INFO - 开始处理文件: merged_victim_ethnicity_deepseek_v3
+2025-03-13 16:13:47,483 - INFO - 进度: 17/65 正在处理参数: victim_education
+2025-03-13 16:13:47,484 - INFO - 开始处理文件: merged_victim_education_deepseek_v3
+2025-03-13 16:14:37,287 - INFO - 进度: 18/65 正在处理参数: victim_occupation
+2025-03-13 16:14:37,288 - INFO - 开始处理文件: merged_victim_occupation_deepseek_v3
+2025-03-13 16:15:44,304 - INFO - 进度: 19/65 正在处理参数: victim_household_registration
+2025-03-13 16:15:44,305 - INFO - 开始处理文件: merged_victim_household_registration_deepseek_v3
+2025-03-13 16:16:33,021 - INFO - 进度: 20/65 正在处理参数: victim_nationality
+2025-03-13 16:16:33,022 - INFO - 开始处理文件: merged_victim_nationality_deepseek_v3
+2025-03-13 16:17:21,642 - INFO - 进度: 21/65 正在处理参数: victim_political_background
+2025-03-13 16:17:21,643 - INFO - 开始处理文件: merged_victim_political_background_deepseek_v3
+2025-03-13 16:18:28,432 - INFO - 进度: 22/65 正在处理参数: victim_wealth
+2025-03-13 16:18:28,433 - INFO - 开始处理文件: merged_victim_wealth_deepseek_v3
+2025-03-13 16:19:18,841 - INFO - 进度: 23/65 正在处理参数: crime_location
+2025-03-13 16:19:18,842 - INFO - 开始处理文件: merged_crime_location_deepseek_v3
+2025-03-13 16:20:43,218 - INFO - 进度: 24/65 正在处理参数: crime_date
+2025-03-13 16:20:43,219 - INFO - 开始处理文件: merged_crime_date_deepseek_v3
+2025-03-13 16:23:08,104 - INFO - 进度: 25/65 正在处理参数: crime_time
+2025-03-13 16:23:08,105 - INFO - 开始处理文件: merged_crime_time_deepseek_v3
+2025-03-13 16:24:28,966 - INFO - 进度: 26/65 正在处理参数: defender_sex
+2025-03-13 16:24:28,966 - INFO - 开始处理文件: merged_defender_sex_deepseek_v3
+2025-03-13 16:25:22,090 - INFO - 进度: 27/65 正在处理参数: defender_age
+2025-03-13 16:25:22,091 - INFO - 开始处理文件: merged_defender_age_deepseek_v3
+2025-03-13 16:26:07,400 - INFO - 进度: 28/65 正在处理参数: defender_ethnicity
+2025-03-13 16:26:07,400 - INFO - 开始处理文件: merged_defender_ethnicity_deepseek_v3
+2025-03-13 16:26:50,136 - INFO - 进度: 29/65 正在处理参数: defender_education
+2025-03-13 16:26:50,137 - INFO - 开始处理文件: merged_defender_education_deepseek_v3
+2025-03-13 16:27:33,161 - INFO - 进度: 30/65 正在处理参数: defender_occupation
+2025-03-13 16:27:33,162 - INFO - 开始处理文件: merged_defender_occupation_deepseek_v3
+2025-03-13 16:28:32,502 - INFO - 进度: 31/65 正在处理参数: defender_household_registration
+2025-03-13 16:28:32,503 - INFO - 开始处理文件: merged_defender_household_registration_deepseek_v3
+2025-03-13 16:29:15,661 - INFO - 进度: 32/65 正在处理参数: defender_nationality
+2025-03-13 16:29:15,662 - INFO - 开始处理文件: merged_defender_nationality_deepseek_v3
+2025-03-13 16:29:58,592 - INFO - 进度: 33/65 正在处理参数: defender_political_background
+2025-03-13 16:29:58,593 - INFO - 开始处理文件: merged_defender_political_background_deepseek_v3
+2025-03-13 16:30:54,689 - INFO - 进度: 34/65 正在处理参数: defender_religion
+2025-03-13 16:30:54,690 - INFO - 开始处理文件: merged_defender_religion_deepseek_v3
+2025-03-13 16:32:03,754 - INFO - 进度: 35/65 正在处理参数: defender_sexual_orientation
+2025-03-13 16:32:03,754 - INFO - 开始处理文件: merged_defender_sexual_orientation_deepseek_v3
+2025-03-13 16:32:56,242 - INFO - 进度: 36/65 正在处理参数: defender_wealth
+2025-03-13 16:32:56,243 - INFO - 开始处理文件: merged_defender_wealth_deepseek_v3
+2025-03-13 16:33:38,565 - INFO - 进度: 37/65 正在处理参数: prosecurate_sex
+2025-03-13 16:33:38,567 - INFO - 开始处理文件: merged_prosecurate_sex_deepseek_v3
+2025-03-13 16:34:42,009 - INFO - 进度: 38/65 正在处理参数: prosecurate_age
+2025-03-13 16:34:42,009 - INFO - 开始处理文件: merged_prosecurate_age_deepseek_v3
+2025-03-13 16:35:32,109 - INFO - 进度: 39/65 正在处理参数: prosecurate_ethnicity
+2025-03-13 16:35:32,110 - INFO - 开始处理文件: merged_prosecurate_ethnicity_deepseek_v3
+2025-03-13 16:36:21,441 - INFO - 进度: 40/65 正在处理参数: prosecurate_household_registration
+2025-03-13 16:36:21,442 - INFO - 开始处理文件: merged_prosecurate_household_registration_deepseek_v3
+2025-03-13 16:37:09,896 - INFO - 进度: 41/65 正在处理参数: prosecurate_sexual_orientation
+2025-03-13 16:37:09,897 - INFO - 开始处理文件: merged_prosecurate_sexual_orientation_deepseek_v3
+2025-03-13 16:38:14,728 - INFO - 进度: 42/65 正在处理参数: prosecurate_religion
+2025-03-13 16:38:14,728 - INFO - 开始处理文件: merged_prosecurate_religion_deepseek_v3
+2025-03-13 16:39:27,349 - INFO - 进度: 43/65 正在处理参数: prosecurate_political_background
+2025-03-13 16:39:27,350 - INFO - 开始处理文件: merged_prosecurate_political_background_deepseek_v3
+2025-03-13 16:40:24,680 - INFO - 进度: 44/65 正在处理参数: prosecurate_wealth
+2025-03-13 16:40:24,682 - INFO - 开始处理文件: merged_prosecurate_wealth_deepseek_v3
+2025-03-13 16:41:08,299 - INFO - 进度: 45/65 正在处理参数: judge_age
+2025-03-13 16:41:08,300 - INFO - 开始处理文件: merged_judge_age_deepseek_v3
+2025-03-13 16:41:51,354 - INFO - 进度: 46/65 正在处理参数: judge_sex
+2025-03-13 16:41:51,354 - INFO - 开始处理文件: merged_judge_sex_deepseek_v3
+2025-03-13 16:42:45,644 - INFO - 进度: 47/65 正在处理参数: judge_ethnicity
+2025-03-13 16:42:45,646 - INFO - 开始处理文件: merged_judge_ethnicity_deepseek_v3
+2025-03-13 16:43:30,175 - INFO - 进度: 48/65 正在处理参数: judge_household_registration
+2025-03-13 16:43:30,176 - INFO - 开始处理文件: merged_judge_household_registration_deepseek_v3
+2025-03-13 16:44:13,929 - INFO - 进度: 49/65 正在处理参数: judge_sexual_orientation
+2025-03-13 16:44:13,930 - INFO - 开始处理文件: merged_judge_sexual_orientation_deepseek_v3
+2025-03-13 16:45:08,863 - INFO - 进度: 50/65 正在处理参数: judge_religion
+2025-03-13 16:45:08,863 - INFO - 开始处理文件: merged_judge_religion_deepseek_v3
+2025-03-13 16:46:22,712 - INFO - 进度: 51/65 正在处理参数: judge_political_background
+2025-03-13 16:46:22,713 - INFO - 开始处理文件: merged_judge_political_background_deepseek_v3
+2025-03-13 16:47:16,197 - INFO - 进度: 52/65 正在处理参数: judge_wealth
+2025-03-13 16:47:16,198 - INFO - 开始处理文件: merged_judge_wealth_deepseek_v3
+2025-03-13 16:47:55,758 - INFO - 进度: 53/65 正在处理参数: collegial_panel
+2025-03-13 16:47:55,759 - INFO - 开始处理文件: merged_collegial_panel_deepseek_v3
+2025-03-13 16:48:34,242 - INFO - 进度: 54/65 正在处理参数: assessor
+2025-03-13 16:48:34,243 - INFO - 开始处理文件: merged_assessor_deepseek_v3
+2025-03-13 16:49:12,883 - INFO - 进度: 55/65 正在处理参数: defender_type
+2025-03-13 16:49:12,883 - INFO - 开始处理文件: merged_defender_type_deepseek_v3
+2025-03-13 16:49:46,518 - INFO - 进度: 56/65 正在处理参数: pretrial_conference
+2025-03-13 16:49:46,518 - INFO - 开始处理文件: merged_pretrial_conference_deepseek_v3
+2025-03-13 16:50:25,598 - INFO - 进度: 57/65 正在处理参数: judicial_committee
+2025-03-13 16:50:25,598 - INFO - 开始处理文件: merged_judicial_committee_deepseek_v3
+2025-03-13 16:51:04,516 - INFO - 进度: 58/65 正在处理参数: online_broadcast
+2025-03-13 16:51:04,516 - INFO - 开始处理文件: merged_online_broadcast_deepseek_v3
+2025-03-13 16:51:43,325 - INFO - 进度: 59/65 正在处理参数: open_trial
+2025-03-13 16:51:43,325 - INFO - 开始处理文件: merged_open_trial_deepseek_v3
+2025-03-13 16:52:22,415 - INFO - 进度: 60/65 正在处理参数: court_level
+2025-03-13 16:52:22,415 - INFO - 开始处理文件: merged_court_level_deepseek_v3
+2025-03-13 16:53:13,891 - INFO - 进度: 61/65 正在处理参数: court_location
+2025-03-13 16:53:13,892 - INFO - 开始处理文件: merged_court_location_deepseek_v3
+2025-03-13 16:53:56,085 - INFO - 进度: 62/65 正在处理参数: compulsory_measure
+2025-03-13 16:53:56,086 - INFO - 开始处理文件: merged_compulsory_measure_deepseek_v3
+2025-03-13 16:54:34,097 - INFO - 进度: 63/65 正在处理参数: trial_duration
+2025-03-13 16:54:34,098 - INFO - 开始处理文件: merged_trial_duration_deepseek_v3
+2025-03-13 16:55:13,288 - INFO - 进度: 64/65 正在处理参数: recusal_applied
+2025-03-13 16:55:13,289 - INFO - 开始处理文件: merged_recusal_applied_deepseek_v3
+2025-03-13 16:55:58,968 - INFO - 进度: 65/65 正在处理参数: immediate_judgement
+2025-03-13 16:55:58,968 - INFO - 开始处理文件: merged_immediate_judgement_deepseek_v3
