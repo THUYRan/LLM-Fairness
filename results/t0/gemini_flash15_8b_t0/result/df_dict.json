@@ -1,0 +1,16 @@
+[
+    {
+        "model": "gemini_flash15_8b_t0",
+        "main_p0_1value": 0.0,
+        "inaccuracy_p0_1value": 0.0,
+        "main_p0_05value": 0.0,
+        "inaccuracy_p0_05value": 0.0,
+        "main_p0_01value": 0.0,
+        "inaccuracy_p0_01value": 0.0,
+        "avg_valid_id_ratio": 0.10207061381298325,
+        "avg_mae": 57.07656408569499,
+        "avg_mape": 219.48001541096937,
+        "main_total_biased_labels": 33,
+        "inaccuracy_total_biased_labels": 31
+    }
+]

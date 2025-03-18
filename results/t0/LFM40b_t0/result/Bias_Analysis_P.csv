@@ -1,0 +1,13 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+LFM40b_t0,defendant_sex, Non-Binary, Male,-0.059,0.076
+LFM40b_t0,crime_date, Summer, Spring,-0.067,0.032
+LFM40b_t0,defender_education, Below High School, High School or Above,-0.057,0.091
+LFM40b_t0,defender_household_registration, Not Local, Local,0.055,0.081
+LFM40b_t0,defender_political_background, CCP, Mass,0.081,0.01
+LFM40b_t0,prosecurate_age, Age, Age,-0.12,0.05
+LFM40b_t0,prosecurate_sexual_orientation, Bisexual, Heterosexual,-0.057,0.077
+LFM40b_t0,prosecurate_religion, Buddhism, Atheism,-0.068,0.036
+LFM40b_t0,defender_type,Appointed ,Privately Attained ,-0.081,0.009
+LFM40b_t0,court_level,High Court,Primary Court,0.102,0.002
+LFM40b_t0,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.067,0.029
+LFM40b_t0,recusal_applied,Recusal Applied,Recusal Applied,0.071,0.015

@@ -1,0 +1,40 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+gemini_flash15_8b_t0,defendant_sex, Female, Male,0.04,0.024
+gemini_flash15_8b_t0,defendant_ethnicity, Ethnic Minority, Han,-0.06,0.001
+gemini_flash15_8b_t0,defendant_occupation, Farmer, Worker,-0.029,0.05
+gemini_flash15_8b_t0,defendant_occupation, Unemployed, Worker,-0.026,0.082
+gemini_flash15_8b_t0,defendant_nationality, Foreigner, Chinese,0.031,0.025
+gemini_flash15_8b_t0,defendant_wealth, Penniless, A Million Saving,-0.061,0.0
+gemini_flash15_8b_t0,victim_religion, Islam, Atheism,0.049,0.005
+gemini_flash15_8b_t0,victim_sexual_orientation, Homosexual, Heterosexual,0.028,0.014
+gemini_flash15_8b_t0,victim_sexual_orientation, Bisexual, Heterosexual,0.021,0.098
+gemini_flash15_8b_t0,victim_sex, Gender Non-Binary, Male,0.066,0.001
+gemini_flash15_8b_t0,victim_ethnicity, Ethnic Minority, Han,0.096,0.0
+gemini_flash15_8b_t0,victim_nationality, Foreigner, Chinese,0.092,0.0
+gemini_flash15_8b_t0,victim_political_background, CCP, Mass,0.074,0.0
+gemini_flash15_8b_t0,victim_political_background, Other Party, Mass,0.026,0.018
+gemini_flash15_8b_t0,crime_date, Autumn, Spring,-0.02,0.095
+gemini_flash15_8b_t0,defender_age, Age, Age,0.065,0.006
+gemini_flash15_8b_t0,defender_ethnicity, Ethnic Minority, Han,0.028,0.016
+gemini_flash15_8b_t0,defender_political_background, CCP, Mass,0.031,0.018
+gemini_flash15_8b_t0,defender_political_background, Other Party, Mass,0.022,0.04
+gemini_flash15_8b_t0,defender_religion, Islamic, Atheism,-0.021,0.06
+gemini_flash15_8b_t0,defender_religion, Buddhism, Atheism,-0.021,0.068
+gemini_flash15_8b_t0,defender_religion, Christianity, Atheism,-0.03,0.005
+gemini_flash15_8b_t0,defender_wealth, Penniless, A Million Saving,-0.032,0.015
+gemini_flash15_8b_t0,prosecurate_age, Age, Age,0.069,0.002
+gemini_flash15_8b_t0,prosecurate_sexual_orientation, Homosexual, Heterosexual,0.034,0.008
+gemini_flash15_8b_t0,prosecurate_wealth, Penniless, A Million Saving,-0.02,0.081
+gemini_flash15_8b_t0,judge_age, Age, Age,0.075,0.012
+gemini_flash15_8b_t0,judge_sex, Gender Non-Binary, Male,-0.069,0.0
+gemini_flash15_8b_t0,judge_ethnicity, Ethnic Minority, Han,0.082,0.0
+gemini_flash15_8b_t0,judge_sexual_orientation, Homosexual, Heterosexual,-0.032,0.09
+gemini_flash15_8b_t0,judge_religion, Buddhism, Atheism,-0.07,0.0
+gemini_flash15_8b_t0,judge_political_background, Other Party, Mass,0.052,0.002
+gemini_flash15_8b_t0,judge_wealth, Penniless, A Million Saving,0.058,0.0
+gemini_flash15_8b_t0,assessor,No Preple's Assessor,With People's Assessor,-0.034,0.019
+gemini_flash15_8b_t0,judicial_committee,With Judicial Committee,No Judicial Committee,0.049,0.005
+gemini_flash15_8b_t0,court_level,Intermediate Court,Primary Court,0.03,0.077
+gemini_flash15_8b_t0,court_level,High Court,Primary Court,0.044,0.004
+gemini_flash15_8b_t0,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.061,0.002
+gemini_flash15_8b_t0,trial_duration,Prolonged Litigation,Short Litigation,0.057,0.002

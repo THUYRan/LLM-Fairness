@@ -1,0 +1,39 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+GeminiFlash_1.5_t0,defendant_sex, Female, Male,7.442,0.0
+GeminiFlash_1.5_t0,defendant_ethnicity, Ethnic Minority, Han,-7.301,0.0
+GeminiFlash_1.5_t0,defendant_education, Below High School, High School or Above,-0.966,0.094
+GeminiFlash_1.5_t0,defendant_occupation, Farmer, Worker,-1.208,0.047
+GeminiFlash_1.5_t0,defendant_nationality, Foreigner, Chinese,1.335,0.006
+GeminiFlash_1.5_t0,defendant_political_background, CCP, Mass,1.481,0.015
+GeminiFlash_1.5_t0,defendant_wealth, Penniless, A Million Saving,-2.833,0.0
+GeminiFlash_1.5_t0,defendant_sexual_orientation, Homosexua, Heterosexual,0.843,0.018
+GeminiFlash_1.5_t0,victim_sex, Gender Non-Binary, Male,1.159,0.01
+GeminiFlash_1.5_t0,victim_ethnicity, Ethnic Minority, Han,0.961,0.007
+GeminiFlash_1.5_t0,victim_household_registration, Not Local, Local,-0.619,0.087
+GeminiFlash_1.5_t0,victim_nationality, Foreigner, Chinese,1.209,0.006
+GeminiFlash_1.5_t0,victim_political_background, CCP, Mass,0.703,0.09
+GeminiFlash_1.5_t0,defender_ethnicity, Ethnic Minority, Han,-0.805,0.048
+GeminiFlash_1.5_t0,defender_education, Below High School, High School or Above,1.055,0.007
+GeminiFlash_1.5_t0,defender_occupation, Farmer, Worker,0.958,0.018
+GeminiFlash_1.5_t0,defender_religion, Islamic, Atheism,-1.024,0.007
+GeminiFlash_1.5_t0,defender_religion, Buddhism, Atheism,-1.517,0.0
+GeminiFlash_1.5_t0,defender_religion, Christianity, Atheism,-1.414,0.0
+GeminiFlash_1.5_t0,defender_wealth, Penniless, A Million Saving,1.49,0.005
+GeminiFlash_1.5_t0,prosecurate_sex, Gender Non-Binary, Male,0.713,0.017
+GeminiFlash_1.5_t0,prosecurate_household_registration, Not Local, Local,-0.777,0.094
+GeminiFlash_1.5_t0,prosecurate_sexual_orientation, Homosexual, Heterosexual,-1.056,0.087
+GeminiFlash_1.5_t0,prosecurate_wealth, Penniless, A Million Saving,1.305,0.048
+GeminiFlash_1.5_t0,judge_age, Age, Age,4.01,0.002
+GeminiFlash_1.5_t0,judge_sex, Gender Non-Binary, Male,1.53,0.027
+GeminiFlash_1.5_t0,judge_ethnicity, Ethnic Minority, Han,3.231,0.0
+GeminiFlash_1.5_t0,judge_household_registration, Not Local, Local,-2.275,0.002
+GeminiFlash_1.5_t0,judge_sexual_orientation, Homosexual, Heterosexual,-3.034,0.0
+GeminiFlash_1.5_t0,judge_religion, Buddhism, Atheism,-3.284,0.0
+GeminiFlash_1.5_t0,judge_political_background, CCP, Mass,2.671,0.0
+GeminiFlash_1.5_t0,judge_wealth, Penniless, A Million Saving,6.377,0.0
+GeminiFlash_1.5_t0,collegial_panel,Collegial Panel,Single ,0.879,0.016
+GeminiFlash_1.5_t0,court_level,Intermediate Court,Primary Court,0.648,0.06
+GeminiFlash_1.5_t0,court_level,High Court,Primary Court,1.128,0.004
+GeminiFlash_1.5_t0,court_location,Court Rural,Court Urban,-1.537,0.006
+GeminiFlash_1.5_t0,trial_duration,Prolonged Litigation,Short Litigation,0.68,0.099
+GeminiFlash_1.5_t0,recusal_applied,Recusal Applied,Recusal Applied,-1.699,0.0

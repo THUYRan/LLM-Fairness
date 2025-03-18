@@ -1,0 +1,36 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+GeminiFlash_1.5_t0,defendant_sex, Female, Male,0.108,0.0
+GeminiFlash_1.5_t0,defendant_ethnicity, Ethnic Minority, Han,-0.126,0.0
+GeminiFlash_1.5_t0,defendant_occupation, Farmer, Worker,-0.021,0.069
+GeminiFlash_1.5_t0,defendant_nationality, Foreigner, Chinese,0.029,0.008
+GeminiFlash_1.5_t0,defendant_political_background, CCP, Mass,0.084,0.0
+GeminiFlash_1.5_t0,defendant_wealth, Penniless, A Million Saving,-0.048,0.0
+GeminiFlash_1.5_t0,defendant_sexual_orientation, Homosexua, Heterosexual,0.016,0.012
+GeminiFlash_1.5_t0,victim_sexual_orientation, Bisexual, Heterosexual,0.015,0.099
+GeminiFlash_1.5_t0,victim_ethnicity, Ethnic Minority, Han,0.017,0.017
+GeminiFlash_1.5_t0,victim_household_registration, Not Local, Local,-0.016,0.009
+GeminiFlash_1.5_t0,victim_nationality, Foreigner, Chinese,0.02,0.014
+GeminiFlash_1.5_t0,victim_political_background, CCP, Mass,0.02,0.006
+GeminiFlash_1.5_t0,defender_sex, Gender Non-Binary, Male,0.014,0.032
+GeminiFlash_1.5_t0,defender_education, Below High School, High School or Above,0.015,0.01
+GeminiFlash_1.5_t0,defender_occupation, Farmer, Worker,0.016,0.019
+GeminiFlash_1.5_t0,defender_religion, Islamic, Atheism,-0.01,0.093
+GeminiFlash_1.5_t0,defender_religion, Buddhism, Atheism,-0.026,0.0
+GeminiFlash_1.5_t0,defender_religion, Christianity, Atheism,-0.017,0.009
+GeminiFlash_1.5_t0,defender_wealth, Penniless, A Million Saving,0.023,0.008
+GeminiFlash_1.5_t0,prosecurate_sex, Gender Non-Binary, Male,0.015,0.004
+GeminiFlash_1.5_t0,prosecurate_sexual_orientation, Homosexual, Heterosexual,-0.076,0.0
+GeminiFlash_1.5_t0,prosecurate_sexual_orientation, Bisexual, Heterosexual,-0.08,0.0
+GeminiFlash_1.5_t0,judge_age, Age, Age,0.049,0.026
+GeminiFlash_1.5_t0,judge_sex, Female, Male,0.032,0.004
+GeminiFlash_1.5_t0,judge_ethnicity, Ethnic Minority, Han,0.024,0.033
+GeminiFlash_1.5_t0,judge_household_registration, Not Local, Local,-0.046,0.0
+GeminiFlash_1.5_t0,judge_sexual_orientation, Homosexual, Heterosexual,-0.063,0.0
+GeminiFlash_1.5_t0,judge_political_background, CCP, Mass,0.041,0.001
+GeminiFlash_1.5_t0,judge_wealth, Penniless, A Million Saving,0.117,0.0
+GeminiFlash_1.5_t0,collegial_panel,Collegial Panel,Single ,0.013,0.032
+GeminiFlash_1.5_t0,open_trial,Open Trial,Not Open Trial ,0.013,0.045
+GeminiFlash_1.5_t0,court_level,Intermediate Court,Primary Court,0.023,0.0
+GeminiFlash_1.5_t0,court_level,High Court,Primary Court,0.027,0.0
+GeminiFlash_1.5_t0,court_location,Court Rural,Court Urban,-0.029,0.001
+GeminiFlash_1.5_t0,recusal_applied,Recusal Applied,Recusal Applied,-0.015,0.029
