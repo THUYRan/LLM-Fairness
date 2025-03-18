@@ -1,0 +1,131 @@
+2025-03-13 18:19:09,283 - INFO - ====== 开始处理流程 ======
+2025-03-13 18:19:09,289 - INFO - 进度: 1/65 正在处理参数: defendant_sex
+2025-03-13 18:19:09,289 - INFO - 开始处理文件: merged_defendant_sex_LFM40b_t0
+2025-03-13 18:20:04,307 - INFO - 进度: 2/65 正在处理参数: defendant_ethnicity
+2025-03-13 18:20:04,309 - INFO - 开始处理文件: merged_defendant_ethnicity_LFM40b_t0
+2025-03-13 18:20:39,271 - INFO - 进度: 3/65 正在处理参数: defendant_education
+2025-03-13 18:20:39,272 - INFO - 开始处理文件: merged_defendant_education_LFM40b_t0
+2025-03-13 18:21:19,486 - INFO - 进度: 4/65 正在处理参数: defendant_age
+2025-03-13 18:21:19,487 - INFO - 开始处理文件: merged_defendant_age_LFM40b_t0
+2025-03-13 18:21:54,391 - INFO - 进度: 5/65 正在处理参数: defendant_occupation
+2025-03-13 18:21:54,394 - INFO - 开始处理文件: merged_defendant_occupation_LFM40b_t0
+2025-03-13 18:23:00,886 - INFO - 进度: 6/65 正在处理参数: defendant_household_registration
+2025-03-13 18:23:00,887 - INFO - 开始处理文件: merged_defendant_household_registration_LFM40b_t0
+2025-03-13 18:23:38,935 - INFO - 进度: 7/65 正在处理参数: defendant_nationality
+2025-03-13 18:23:38,936 - INFO - 开始处理文件: merged_defendant_nationality_LFM40b_t0
+2025-03-13 18:24:21,124 - INFO - 进度: 8/65 正在处理参数: defendant_political_background
+2025-03-13 18:24:21,125 - INFO - 开始处理文件: merged_defendant_political_background_LFM40b_t0
+2025-03-13 18:25:22,510 - INFO - 进度: 9/65 正在处理参数: defendant_wealth
+2025-03-13 18:25:22,510 - INFO - 开始处理文件: merged_defendant_wealth_LFM40b_t0
+2025-03-13 18:25:58,715 - INFO - 进度: 10/65 正在处理参数: defendant_religion
+2025-03-13 18:25:58,716 - INFO - 开始处理文件: merged_defendant_religion_LFM40b_t0
+2025-03-13 18:27:19,079 - INFO - 进度: 11/65 正在处理参数: defendant_sexual_orientation
+2025-03-13 18:27:19,079 - INFO - 开始处理文件: merged_defendant_sexual_orientation_LFM40b_t0
+2025-03-13 18:28:12,705 - INFO - 进度: 12/65 正在处理参数: victim_religion
+2025-03-13 18:28:12,705 - INFO - 开始处理文件: merged_victim_religion_LFM40b_t0
+2025-03-13 18:29:26,915 - INFO - 进度: 13/65 正在处理参数: victim_sexual_orientation
+2025-03-13 18:31:16,036 - INFO - 开始处理文件: merged_victim_sexual_orientation_LFM40b_t0
+2025-03-13 18:33:02,162 - INFO - 进度: 14/65 正在处理参数: victim_sex
+2025-03-13 18:33:02,162 - INFO - 开始处理文件: merged_victim_sex_LFM40b_t0
+2025-03-13 18:33:51,824 - INFO - 进度: 15/65 正在处理参数: victim_age
+2025-03-13 18:33:51,840 - INFO - 开始处理文件: merged_victim_age_LFM40b_t0
+2025-03-13 18:34:23,562 - INFO - 进度: 16/65 正在处理参数: victim_ethnicity
+2025-03-13 18:34:23,562 - INFO - 开始处理文件: merged_victim_ethnicity_LFM40b_t0
+2025-03-13 18:34:58,746 - INFO - 进度: 17/65 正在处理参数: victim_education
+2025-03-13 18:34:58,746 - INFO - 开始处理文件: merged_victim_education_LFM40b_t0
+2025-03-13 18:35:33,608 - INFO - 进度: 18/65 正在处理参数: victim_occupation
+2025-03-13 18:35:33,608 - INFO - 开始处理文件: merged_victim_occupation_LFM40b_t0
+2025-03-13 18:36:28,743 - INFO - 进度: 19/65 正在处理参数: victim_household_registration
+2025-03-13 18:36:28,743 - INFO - 开始处理文件: merged_victim_household_registration_LFM40b_t0
+2025-03-13 18:37:03,016 - INFO - 进度: 20/65 正在处理参数: victim_nationality
+2025-03-13 18:37:03,017 - INFO - 开始处理文件: merged_victim_nationality_LFM40b_t0
+2025-03-13 18:37:40,899 - INFO - 进度: 21/65 正在处理参数: victim_political_background
+2025-03-13 18:37:40,903 - INFO - 开始处理文件: merged_victim_political_background_LFM40b_t0
+2025-03-13 18:38:34,562 - INFO - 进度: 22/65 正在处理参数: victim_wealth
+2025-03-13 18:38:34,562 - INFO - 开始处理文件: merged_victim_wealth_LFM40b_t0
+2025-03-13 18:39:08,914 - INFO - 进度: 23/65 正在处理参数: crime_location
+2025-03-13 18:39:08,914 - INFO - 开始处理文件: merged_crime_location_LFM40b_t0
+2025-03-13 18:39:43,274 - INFO - 进度: 24/65 正在处理参数: crime_date
+2025-03-13 18:39:43,274 - INFO - 开始处理文件: merged_crime_date_LFM40b_t0
+2025-03-13 18:40:54,202 - INFO - 进度: 25/65 正在处理参数: crime_time
+2025-03-13 18:40:54,202 - INFO - 开始处理文件: merged_crime_time_LFM40b_t0
+2025-03-13 18:41:28,884 - INFO - 进度: 26/65 正在处理参数: defender_sex
+2025-03-13 18:41:28,884 - INFO - 开始处理文件: merged_defender_sex_LFM40b_t0
+2025-03-13 18:42:23,229 - INFO - 进度: 27/65 正在处理参数: defender_age
+2025-03-13 18:42:23,240 - INFO - 开始处理文件: merged_defender_age_LFM40b_t0
+2025-03-13 18:42:59,781 - INFO - 进度: 28/65 正在处理参数: defender_ethnicity
+2025-03-13 18:42:59,781 - INFO - 开始处理文件: merged_defender_ethnicity_LFM40b_t0
+2025-03-13 18:43:37,227 - INFO - 进度: 29/65 正在处理参数: defender_education
+2025-03-13 18:43:37,227 - INFO - 开始处理文件: merged_defender_education_LFM40b_t0
+2025-03-13 18:44:13,473 - INFO - 进度: 30/65 正在处理参数: defender_occupation
+2025-03-13 18:44:13,473 - INFO - 开始处理文件: merged_defender_occupation_LFM40b_t0
+2025-03-13 18:45:08,667 - INFO - 进度: 31/65 正在处理参数: defender_household_registration
+2025-03-13 18:45:08,667 - INFO - 开始处理文件: merged_defender_household_registration_LFM40b_t0
+2025-03-13 18:45:44,942 - INFO - 进度: 32/65 正在处理参数: defender_nationality
+2025-03-13 18:45:44,942 - INFO - 开始处理文件: merged_defender_nationality_LFM40b_t0
+2025-03-13 18:46:19,120 - INFO - 进度: 33/65 正在处理参数: defender_political_background
+2025-03-13 18:46:19,120 - INFO - 开始处理文件: merged_defender_political_background_LFM40b_t0
+2025-03-13 18:47:14,492 - INFO - 进度: 34/65 正在处理参数: defender_religion
+2025-03-13 18:47:14,492 - INFO - 开始处理文件: merged_defender_religion_LFM40b_t0
+2025-03-13 18:48:24,973 - INFO - 进度: 35/65 正在处理参数: defender_sexual_orientation
+2025-03-13 18:48:24,973 - INFO - 开始处理文件: merged_defender_sexual_orientation_LFM40b_t0
+2025-03-13 18:49:19,003 - INFO - 进度: 36/65 正在处理参数: defender_wealth
+2025-03-13 18:49:19,010 - INFO - 开始处理文件: merged_defender_wealth_LFM40b_t0
+2025-03-13 18:49:56,091 - INFO - 进度: 37/65 正在处理参数: prosecurate_sex
+2025-03-13 18:49:56,091 - INFO - 开始处理文件: merged_prosecurate_sex_LFM40b_t0
+2025-03-13 18:50:47,374 - INFO - 进度: 38/65 正在处理参数: prosecurate_age
+2025-03-13 18:50:47,374 - INFO - 开始处理文件: merged_prosecurate_age_LFM40b_t0
+2025-03-13 18:51:26,300 - INFO - 进度: 39/65 正在处理参数: prosecurate_ethnicity
+2025-03-13 18:51:26,300 - INFO - 开始处理文件: merged_prosecurate_ethnicity_LFM40b_t0
+2025-03-13 18:51:59,949 - INFO - 进度: 40/65 正在处理参数: prosecurate_household_registration
+2025-03-13 18:51:59,949 - INFO - 开始处理文件: merged_prosecurate_household_registration_LFM40b_t0
+2025-03-13 18:52:37,609 - INFO - 进度: 41/65 正在处理参数: prosecurate_sexual_orientation
+2025-03-13 18:52:37,609 - INFO - 开始处理文件: merged_prosecurate_sexual_orientation_LFM40b_t0
+2025-03-13 18:53:28,554 - INFO - 进度: 42/65 正在处理参数: prosecurate_religion
+2025-03-13 18:53:28,554 - INFO - 开始处理文件: merged_prosecurate_religion_LFM40b_t0
+2025-03-13 18:54:34,874 - INFO - 进度: 43/65 正在处理参数: prosecurate_political_background
+2025-03-13 18:54:34,874 - INFO - 开始处理文件: merged_prosecurate_political_background_LFM40b_t0
+2025-03-13 18:55:32,143 - INFO - 进度: 44/65 正在处理参数: prosecurate_wealth
+2025-03-13 18:55:32,143 - INFO - 开始处理文件: merged_prosecurate_wealth_LFM40b_t0
+2025-03-13 18:56:08,421 - INFO - 进度: 45/65 正在处理参数: judge_age
+2025-03-13 18:56:08,421 - INFO - 开始处理文件: merged_judge_age_LFM40b_t0
+2025-03-13 18:56:42,458 - INFO - 进度: 46/65 正在处理参数: judge_sex
+2025-03-13 18:56:42,458 - INFO - 开始处理文件: merged_judge_sex_LFM40b_t0
+2025-03-13 18:57:32,196 - INFO - 进度: 47/65 正在处理参数: judge_ethnicity
+2025-03-13 18:57:32,196 - INFO - 开始处理文件: merged_judge_ethnicity_LFM40b_t0
+2025-03-13 18:58:07,539 - INFO - 进度: 48/65 正在处理参数: judge_household_registration
+2025-03-13 18:58:07,544 - INFO - 开始处理文件: merged_judge_household_registration_LFM40b_t0
+2025-03-13 18:58:41,483 - INFO - 进度: 49/65 正在处理参数: judge_sexual_orientation
+2025-03-13 18:58:41,483 - INFO - 开始处理文件: merged_judge_sexual_orientation_LFM40b_t0
+2025-03-13 18:59:36,146 - INFO - 进度: 50/65 正在处理参数: judge_religion
+2025-03-13 18:59:36,146 - INFO - 开始处理文件: merged_judge_religion_LFM40b_t0
+2025-03-13 19:00:46,856 - INFO - 进度: 51/65 正在处理参数: judge_political_background
+2025-03-13 19:00:46,861 - INFO - 开始处理文件: merged_judge_political_background_LFM40b_t0
+2025-03-13 19:01:42,769 - INFO - 进度: 52/65 正在处理参数: judge_wealth
+2025-03-13 19:01:42,769 - INFO - 开始处理文件: merged_judge_wealth_LFM40b_t0
+2025-03-13 19:02:16,636 - INFO - 进度: 53/65 正在处理参数: collegial_panel
+2025-03-13 19:02:16,636 - INFO - 开始处理文件: merged_collegial_panel_LFM40b_t0
+2025-03-13 19:02:52,764 - INFO - 进度: 54/65 正在处理参数: assessor
+2025-03-13 19:02:52,764 - INFO - 开始处理文件: merged_assessor_LFM40b_t0
+2025-03-13 19:03:27,004 - INFO - 进度: 55/65 正在处理参数: defender_type
+2025-03-13 19:03:27,007 - INFO - 开始处理文件: merged_defender_type_LFM40b_t0
+2025-03-13 19:04:02,215 - INFO - 进度: 56/65 正在处理参数: pretrial_conference
+2025-03-13 19:04:02,215 - INFO - 开始处理文件: merged_pretrial_conference_LFM40b_t0
+2025-03-13 19:04:37,678 - INFO - 进度: 57/65 正在处理参数: judicial_committee
+2025-03-13 19:04:37,678 - INFO - 开始处理文件: merged_judicial_committee_LFM40b_t0
+2025-03-13 19:05:12,692 - INFO - 进度: 58/65 正在处理参数: online_broadcast
+2025-03-13 19:05:12,692 - INFO - 开始处理文件: merged_online_broadcast_LFM40b_t0
+2025-03-13 19:05:46,996 - INFO - 进度: 59/65 正在处理参数: open_trial
+2025-03-13 19:05:47,000 - INFO - 开始处理文件: merged_open_trial_LFM40b_t0
+2025-03-13 19:06:23,666 - INFO - 进度: 60/65 正在处理参数: court_level
+2025-03-13 19:06:23,666 - INFO - 开始处理文件: merged_court_level_LFM40b_t0
+2025-03-13 19:07:16,106 - INFO - 进度: 61/65 正在处理参数: court_location
+2025-03-13 19:07:16,108 - INFO - 开始处理文件: merged_court_location_LFM40b_t0
+2025-03-13 19:07:52,026 - INFO - 进度: 62/65 正在处理参数: compulsory_measure
+2025-03-13 19:07:52,026 - INFO - 开始处理文件: merged_compulsory_measure_LFM40b_t0
+2025-03-13 19:08:27,421 - INFO - 进度: 63/65 正在处理参数: trial_duration
+2025-03-13 19:08:27,421 - INFO - 开始处理文件: merged_trial_duration_LFM40b_t0
+2025-03-13 19:09:02,517 - INFO - 进度: 64/65 正在处理参数: recusal_applied
+2025-03-13 19:09:02,517 - INFO - 开始处理文件: merged_recusal_applied_LFM40b_t0
+2025-03-13 19:09:35,692 - INFO - 进度: 65/65 正在处理参数: immediate_judgement
+2025-03-13 19:09:35,692 - INFO - 开始处理文件: merged_immediate_judgement_LFM40b_t0

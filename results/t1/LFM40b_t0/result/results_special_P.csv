@@ -1,0 +1,3 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+LFM40b_t0,prosecurate_sex, Female, Male,17.497,0.034
+LFM40b_t0,prosecurate_sexual_orientation, Homosexual, Heterosexual,22.189,0.037
