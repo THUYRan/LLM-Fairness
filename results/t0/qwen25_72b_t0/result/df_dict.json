@@ -1,0 +1,16 @@
+[
+    {
+        "model": "qwen25_72b_t0",
+        "main_p0_1value": 1.2513718038554978e-13,
+        "inaccuracy_p0_1value": 7.00857049531921e-13,
+        "main_p0_05value": 2.888325716861781e-18,
+        "inaccuracy_p0_05value": 1.32152289382988e-13,
+        "main_p0_01value": 6.10685473070727e-14,
+        "inaccuracy_p0_01value": 2.871758232224516e-10,
+        "avg_valid_id_ratio": 0.1394877379038243,
+        "avg_mae": 61.766801155401154,
+        "avg_mape": 169.08439343678265,
+        "main_total_biased_labels": 30,
+        "inaccuracy_total_biased_labels": 29
+    }
+]
