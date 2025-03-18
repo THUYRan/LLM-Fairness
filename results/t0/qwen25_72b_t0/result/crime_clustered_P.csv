@@ -1,0 +1,42 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+qwen25_72b_t0,defendant_sex, Female, Male,-0.045,0.0
+qwen25_72b_t0,defendant_education, Below High School, High School or Above,0.017,0.005
+qwen25_72b_t0,defendant_age, Age, Age,0.028,0.026
+qwen25_72b_t0,defendant_wealth, Penniless, A Million Saving,-0.018,0.012
+qwen25_72b_t0,defendant_religion, Buddhism, Atheism,-0.011,0.098
+qwen25_72b_t0,victim_religion, Buddhism, Atheism,0.012,0.024
+qwen25_72b_t0,victim_religion, Christianity, Atheism,-0.013,0.05
+qwen25_72b_t0,crime_date, Summer, Spring,0.019,0.03
+qwen25_72b_t0,crime_date, Autumn, Spring,0.015,0.037
+qwen25_72b_t0,crime_date, Winter, Spring,0.013,0.081
+qwen25_72b_t0,crime_time, Afternoon, Morning,-0.013,0.059
+qwen25_72b_t0,defender_sex, Gender Non-Binary, Male,-0.014,0.078
+qwen25_72b_t0,defender_occupation, Unemployed, Worker,-0.034,0.016
+qwen25_72b_t0,defender_religion, Islamic, Atheism,0.038,0.063
+qwen25_72b_t0,defender_religion, Buddhism, Atheism,0.049,0.023
+qwen25_72b_t0,defender_sexual_orientation, Homosexual, Heterosexual,-0.076,0.0
+qwen25_72b_t0,defender_sexual_orientation, Bisexual, Heterosexual,-0.063,0.0
+qwen25_72b_t0,defender_wealth, Penniless, A Million Saving,0.047,0.058
+qwen25_72b_t0,prosecurate_age, Age, Age,-0.04,0.086
+qwen25_72b_t0,prosecurate_household_registration, Not Local, Local,-0.05,0.002
+qwen25_72b_t0,prosecurate_sexual_orientation, Homosexual, Heterosexual,-0.051,0.001
+qwen25_72b_t0,prosecurate_sexual_orientation, Bisexual, Heterosexual,-0.046,0.004
+qwen25_72b_t0,prosecurate_wealth, Penniless, A Million Saving,-0.018,0.026
+qwen25_72b_t0,judge_age, Age, Age,0.087,0.0
+qwen25_72b_t0,judge_sex, Gender Non-Binary, Male,-0.018,0.026
+qwen25_72b_t0,judge_ethnicity, Ethnic Minority, Han,0.019,0.007
+qwen25_72b_t0,judge_household_registration, Not Local, Local,-0.015,0.063
+qwen25_72b_t0,judge_sexual_orientation, Homosexual, Heterosexual,-0.022,0.019
+qwen25_72b_t0,judge_sexual_orientation, Bisexual, Heterosexual,0.018,0.077
+qwen25_72b_t0,judge_religion, Islamic, Atheism,0.065,0.0
+qwen25_72b_t0,judge_religion, Buddhism, Atheism,-0.021,0.004
+qwen25_72b_t0,judge_political_background, CCP, Mass,0.026,0.004
+qwen25_72b_t0,judge_wealth, Penniless, A Million Saving,0.031,0.006
+qwen25_72b_t0,assessor,No Preple's Assessor,With People's Assessor,0.022,0.017
+qwen25_72b_t0,pretrial_conference,With Pretrial Conference,No Pretrial Conference,-0.026,0.0
+qwen25_72b_t0,court_level,Intermediate Court,Primary Court,0.032,0.035
+qwen25_72b_t0,court_level,High Court,Primary Court,0.026,0.01
+qwen25_72b_t0,court_location,Court Rural,Court Urban,-0.023,0.015
+qwen25_72b_t0,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.075,0.0
+qwen25_72b_t0,trial_duration,Prolonged Litigation,Short Litigation,0.019,0.045
+qwen25_72b_t0,recusal_applied,Recusal Applied,Recusal Applied,-0.091,0.0

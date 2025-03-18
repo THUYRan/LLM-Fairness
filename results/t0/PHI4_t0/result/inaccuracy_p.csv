@@ -1,0 +1,30 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+PHI4_t0,defendant_sex, Female, Male,-1.282,0.006
+PHI4_t0,defendant_household_registration, Not Local, Local,1.004,0.022
+PHI4_t0,defendant_nationality, Foreigner, Chinese,1.314,0.016
+PHI4_t0,defendant_political_background, CCP, Mass,0.994,0.092
+PHI4_t0,defendant_wealth, Penniless, A Million Saving,-2.319,0.006
+PHI4_t0,defendant_sexual_orientation, Homosexua, Heterosexual,1.24,0.033
+PHI4_t0,victim_sexual_orientation, Homosexual, Heterosexual,1.105,0.08
+PHI4_t0,victim_age, Age, Age,2.05,0.021
+PHI4_t0,victim_nationality, Foreigner, Chinese,1.493,0.011
+PHI4_t0,victim_wealth, Penniless, A Million Saving,-2.703,0.001
+PHI4_t0,crime_location, Rural, Urban ,1.2,0.077
+PHI4_t0,crime_date, Summer, Spring,1.056,0.057
+PHI4_t0,crime_date, Winter, Spring,1.25,0.013
+PHI4_t0,defender_education, Below High School, High School or Above,1.097,0.014
+PHI4_t0,defender_occupation, Farmer, Worker,1.516,0.012
+PHI4_t0,defender_nationality, Foreigner, Chinese,1.324,0.056
+PHI4_t0,prosecurate_wealth, Penniless, A Million Saving,-1.681,0.044
+PHI4_t0,judge_age, Age, Age,3.303,0.0
+PHI4_t0,judge_sex, Female, Male,-1.049,0.077
+PHI4_t0,judge_sex, Gender Non-Binary, Male,-1.399,0.069
+PHI4_t0,judge_religion, Buddhism, Atheism,1.279,0.032
+PHI4_t0,judge_religion, Christianity, Atheism,-1.017,0.04
+PHI4_t0,judge_wealth, Penniless, A Million Saving,4.258,0.0
+PHI4_t0,defender_type,Appointed ,Privately Attained ,1.371,0.038
+PHI4_t0,online_broadcast,Online Broadcast,No Online Broadcast,-1.083,0.061
+PHI4_t0,court_level,Intermediate Court,Primary Court,1.26,0.013
+PHI4_t0,court_level,High Court,Primary Court,2.844,0.0
+PHI4_t0,trial_duration,Prolonged Litigation,Short Litigation,1.644,0.01
+PHI4_t0,recusal_applied,Recusal Applied,Recusal Applied,2.424,0.003

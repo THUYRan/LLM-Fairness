@@ -1,0 +1,131 @@
+2025-03-13 21:16:36,819 - INFO - ====== 开始处理流程 ======
+2025-03-13 21:16:36,842 - INFO - 进度: 1/65 正在处理参数: defendant_sex
+2025-03-13 21:16:36,844 - INFO - 开始处理文件: merged_defendant_sex_qwen25_72b_t0
+2025-03-13 21:17:54,543 - INFO - 进度: 2/65 正在处理参数: defendant_ethnicity
+2025-03-13 21:17:54,545 - INFO - 开始处理文件: merged_defendant_ethnicity_qwen25_72b_t0
+2025-03-13 21:18:42,824 - INFO - 进度: 3/65 正在处理参数: defendant_education
+2025-03-13 21:18:42,826 - INFO - 开始处理文件: merged_defendant_education_qwen25_72b_t0
+2025-03-13 21:19:43,673 - INFO - 进度: 4/65 正在处理参数: defendant_age
+2025-03-13 21:19:43,674 - INFO - 开始处理文件: merged_defendant_age_qwen25_72b_t0
+2025-03-13 21:20:43,509 - INFO - 进度: 5/65 正在处理参数: defendant_occupation
+2025-03-13 21:20:43,510 - INFO - 开始处理文件: merged_defendant_occupation_qwen25_72b_t0
+2025-03-13 21:22:02,680 - INFO - 进度: 6/65 正在处理参数: defendant_household_registration
+2025-03-13 21:22:02,681 - INFO - 开始处理文件: merged_defendant_household_registration_qwen25_72b_t0
+2025-03-13 21:23:08,328 - INFO - 进度: 7/65 正在处理参数: defendant_nationality
+2025-03-13 21:23:08,329 - INFO - 开始处理文件: merged_defendant_nationality_qwen25_72b_t0
+2025-03-13 21:24:06,660 - INFO - 进度: 8/65 正在处理参数: defendant_political_background
+2025-03-13 21:24:06,661 - INFO - 开始处理文件: merged_defendant_political_background_qwen25_72b_t0
+2025-03-13 21:25:17,853 - INFO - 进度: 9/65 正在处理参数: defendant_wealth
+2025-03-13 21:25:17,855 - INFO - 开始处理文件: merged_defendant_wealth_qwen25_72b_t0
+2025-03-13 21:26:08,263 - INFO - 进度: 10/65 正在处理参数: defendant_religion
+2025-03-13 21:26:08,264 - INFO - 开始处理文件: merged_defendant_religion_qwen25_72b_t0
+2025-03-13 21:27:30,624 - INFO - 进度: 11/65 正在处理参数: defendant_sexual_orientation
+2025-03-13 21:27:30,625 - INFO - 开始处理文件: merged_defendant_sexual_orientation_qwen25_72b_t0
+2025-03-13 21:28:30,735 - INFO - 进度: 12/65 正在处理参数: victim_religion
+2025-03-13 21:28:30,736 - INFO - 开始处理文件: merged_victim_religion_qwen25_72b_t0
+2025-03-13 21:29:42,276 - INFO - 进度: 13/65 正在处理参数: victim_sexual_orientation
+2025-03-13 21:31:36,004 - INFO - 开始处理文件: merged_victim_sexual_orientation_qwen25_72b_t0
+2025-03-13 21:33:40,619 - INFO - 进度: 14/65 正在处理参数: victim_sex
+2025-03-13 21:33:40,620 - INFO - 开始处理文件: merged_victim_sex_qwen25_72b_t0
+2025-03-13 21:34:50,940 - INFO - 进度: 15/65 正在处理参数: victim_age
+2025-03-13 21:34:50,941 - INFO - 开始处理文件: merged_victim_age_qwen25_72b_t0
+2025-03-13 21:35:32,896 - INFO - 进度: 16/65 正在处理参数: victim_ethnicity
+2025-03-13 21:35:32,898 - INFO - 开始处理文件: merged_victim_ethnicity_qwen25_72b_t0
+2025-03-13 21:36:25,571 - INFO - 进度: 17/65 正在处理参数: victim_education
+2025-03-13 21:36:25,572 - INFO - 开始处理文件: merged_victim_education_qwen25_72b_t0
+2025-03-13 21:37:24,519 - INFO - 进度: 18/65 正在处理参数: victim_occupation
+2025-03-13 21:37:24,520 - INFO - 开始处理文件: merged_victim_occupation_qwen25_72b_t0
+2025-03-13 21:38:39,260 - INFO - 进度: 19/65 正在处理参数: victim_household_registration
+2025-03-13 21:38:39,262 - INFO - 开始处理文件: merged_victim_household_registration_qwen25_72b_t0
+2025-03-13 21:39:32,629 - INFO - 进度: 20/65 正在处理参数: victim_nationality
+2025-03-13 21:39:32,630 - INFO - 开始处理文件: merged_victim_nationality_qwen25_72b_t0
+2025-03-13 21:40:33,398 - INFO - 进度: 21/65 正在处理参数: victim_political_background
+2025-03-13 21:40:33,399 - INFO - 开始处理文件: merged_victim_political_background_qwen25_72b_t0
+2025-03-13 21:41:40,752 - INFO - 进度: 22/65 正在处理参数: victim_wealth
+2025-03-13 21:41:40,753 - INFO - 开始处理文件: merged_victim_wealth_qwen25_72b_t0
+2025-03-13 21:42:38,094 - INFO - 进度: 23/65 正在处理参数: crime_location
+2025-03-13 21:42:38,095 - INFO - 开始处理文件: merged_crime_location_qwen25_72b_t0
+2025-03-13 21:43:42,923 - INFO - 进度: 24/65 正在处理参数: crime_date
+2025-03-13 21:43:42,924 - INFO - 开始处理文件: merged_crime_date_qwen25_72b_t0
+2025-03-13 21:45:11,480 - INFO - 进度: 25/65 正在处理参数: crime_time
+2025-03-13 21:45:11,480 - INFO - 开始处理文件: merged_crime_time_qwen25_72b_t0
+2025-03-13 21:46:07,754 - INFO - 进度: 26/65 正在处理参数: defender_sex
+2025-03-13 21:46:07,756 - INFO - 开始处理文件: merged_defender_sex_qwen25_72b_t0
+2025-03-13 21:47:18,582 - INFO - 进度: 27/65 正在处理参数: defender_age
+2025-03-13 21:47:18,582 - INFO - 开始处理文件: merged_defender_age_qwen25_72b_t0
+2025-03-13 21:48:15,809 - INFO - 进度: 28/65 正在处理参数: defender_ethnicity
+2025-03-13 21:48:15,810 - INFO - 开始处理文件: merged_defender_ethnicity_qwen25_72b_t0
+2025-03-13 21:49:13,348 - INFO - 进度: 29/65 正在处理参数: defender_education
+2025-03-13 21:49:13,349 - INFO - 开始处理文件: merged_defender_education_qwen25_72b_t0
+2025-03-13 21:50:12,521 - INFO - 进度: 30/65 正在处理参数: defender_occupation
+2025-03-13 21:50:12,523 - INFO - 开始处理文件: merged_defender_occupation_qwen25_72b_t0
+2025-03-13 21:51:28,457 - INFO - 进度: 31/65 正在处理参数: defender_household_registration
+2025-03-13 21:51:28,458 - INFO - 开始处理文件: merged_defender_household_registration_qwen25_72b_t0
+2025-03-13 21:52:26,300 - INFO - 进度: 32/65 正在处理参数: defender_nationality
+2025-03-13 21:52:26,300 - INFO - 开始处理文件: merged_defender_nationality_qwen25_72b_t0
+2025-03-13 21:53:26,015 - INFO - 进度: 33/65 正在处理参数: defender_political_background
+2025-03-13 21:53:26,016 - INFO - 开始处理文件: merged_defender_political_background_qwen25_72b_t0
+2025-03-13 21:54:36,523 - INFO - 进度: 34/65 正在处理参数: defender_religion
+2025-03-13 21:54:36,524 - INFO - 开始处理文件: merged_defender_religion_qwen25_72b_t0
+2025-03-13 21:56:04,986 - INFO - 进度: 35/65 正在处理参数: defender_sexual_orientation
+2025-03-13 21:56:04,987 - INFO - 开始处理文件: merged_defender_sexual_orientation_qwen25_72b_t0
+2025-03-13 21:57:10,651 - INFO - 进度: 36/65 正在处理参数: defender_wealth
+2025-03-13 21:57:10,651 - INFO - 开始处理文件: merged_defender_wealth_qwen25_72b_t0
+2025-03-13 21:58:05,571 - INFO - 进度: 37/65 正在处理参数: prosecurate_sex
+2025-03-13 21:58:05,572 - INFO - 开始处理文件: merged_prosecurate_sex_qwen25_72b_t0
+2025-03-13 21:59:13,634 - INFO - 进度: 38/65 正在处理参数: prosecurate_age
+2025-03-13 21:59:13,637 - INFO - 开始处理文件: merged_prosecurate_age_qwen25_72b_t0
+2025-03-13 22:00:14,840 - INFO - 进度: 39/65 正在处理参数: prosecurate_ethnicity
+2025-03-13 22:00:14,841 - INFO - 开始处理文件: merged_prosecurate_ethnicity_qwen25_72b_t0
+2025-03-13 22:01:12,404 - INFO - 进度: 40/65 正在处理参数: prosecurate_household_registration
+2025-03-13 22:01:12,405 - INFO - 开始处理文件: merged_prosecurate_household_registration_qwen25_72b_t0
+2025-03-13 22:02:09,207 - INFO - 进度: 41/65 正在处理参数: prosecurate_sexual_orientation
+2025-03-13 22:02:09,208 - INFO - 开始处理文件: merged_prosecurate_sexual_orientation_qwen25_72b_t0
+2025-03-13 22:03:19,847 - INFO - 进度: 42/65 正在处理参数: prosecurate_religion
+2025-03-13 22:03:19,849 - INFO - 开始处理文件: merged_prosecurate_religion_qwen25_72b_t0
+2025-03-13 22:05:01,563 - INFO - 进度: 43/65 正在处理参数: prosecurate_political_background
+2025-03-13 22:05:01,564 - INFO - 开始处理文件: merged_prosecurate_political_background_qwen25_72b_t0
+2025-03-13 22:06:16,943 - INFO - 进度: 44/65 正在处理参数: prosecurate_wealth
+2025-03-13 22:06:16,944 - INFO - 开始处理文件: merged_prosecurate_wealth_qwen25_72b_t0
+2025-03-13 22:07:10,097 - INFO - 进度: 45/65 正在处理参数: judge_age
+2025-03-13 22:07:10,098 - INFO - 开始处理文件: merged_judge_age_qwen25_72b_t0
+2025-03-13 22:08:04,233 - INFO - 进度: 46/65 正在处理参数: judge_sex
+2025-03-13 22:08:04,236 - INFO - 开始处理文件: merged_judge_sex_qwen25_72b_t0
+2025-03-13 22:09:20,535 - INFO - 进度: 47/65 正在处理参数: judge_ethnicity
+2025-03-13 22:09:20,536 - INFO - 开始处理文件: merged_judge_ethnicity_qwen25_72b_t0
+2025-03-13 22:10:18,023 - INFO - 进度: 48/65 正在处理参数: judge_household_registration
+2025-03-13 22:10:18,023 - INFO - 开始处理文件: merged_judge_household_registration_qwen25_72b_t0
+2025-03-13 22:11:12,582 - INFO - 进度: 49/65 正在处理参数: judge_sexual_orientation
+2025-03-13 22:11:12,583 - INFO - 开始处理文件: merged_judge_sexual_orientation_qwen25_72b_t0
+2025-03-13 22:12:24,997 - INFO - 进度: 50/65 正在处理参数: judge_religion
+2025-03-13 22:12:24,997 - INFO - 开始处理文件: merged_judge_religion_qwen25_72b_t0
+2025-03-13 22:14:03,936 - INFO - 进度: 51/65 正在处理参数: judge_political_background
+2025-03-13 22:14:03,937 - INFO - 开始处理文件: merged_judge_political_background_qwen25_72b_t0
+2025-03-13 22:15:18,757 - INFO - 进度: 52/65 正在处理参数: judge_wealth
+2025-03-13 22:15:18,757 - INFO - 开始处理文件: merged_judge_wealth_qwen25_72b_t0
+2025-03-13 22:16:19,161 - INFO - 进度: 53/65 正在处理参数: collegial_panel
+2025-03-13 22:16:19,163 - INFO - 开始处理文件: merged_collegial_panel_qwen25_72b_t0
+2025-03-13 22:17:16,742 - INFO - 进度: 54/65 正在处理参数: assessor
+2025-03-13 22:17:16,743 - INFO - 开始处理文件: merged_assessor_qwen25_72b_t0
+2025-03-13 22:18:15,177 - INFO - 进度: 55/65 正在处理参数: defender_type
+2025-03-13 22:18:15,177 - INFO - 开始处理文件: merged_defender_type_qwen25_72b_t0
+2025-03-13 22:19:14,761 - INFO - 进度: 56/65 正在处理参数: pretrial_conference
+2025-03-13 22:19:14,762 - INFO - 开始处理文件: merged_pretrial_conference_qwen25_72b_t0
+2025-03-13 22:20:11,827 - INFO - 进度: 57/65 正在处理参数: judicial_committee
+2025-03-13 22:20:11,828 - INFO - 开始处理文件: merged_judicial_committee_qwen25_72b_t0
+2025-03-13 22:21:06,502 - INFO - 进度: 58/65 正在处理参数: online_broadcast
+2025-03-13 22:21:06,503 - INFO - 开始处理文件: merged_online_broadcast_qwen25_72b_t0
+2025-03-13 22:22:01,778 - INFO - 进度: 59/65 正在处理参数: open_trial
+2025-03-13 22:22:01,780 - INFO - 开始处理文件: merged_open_trial_qwen25_72b_t0
+2025-03-13 22:22:59,557 - INFO - 进度: 60/65 正在处理参数: court_level
+2025-03-13 22:22:59,558 - INFO - 开始处理文件: merged_court_level_qwen25_72b_t0
+2025-03-13 22:24:12,907 - INFO - 进度: 61/65 正在处理参数: court_location
+2025-03-13 22:24:12,907 - INFO - 开始处理文件: merged_court_location_qwen25_72b_t0
+2025-03-13 22:25:04,797 - INFO - 进度: 62/65 正在处理参数: compulsory_measure
+2025-03-13 22:25:04,799 - INFO - 开始处理文件: merged_compulsory_measure_qwen25_72b_t0
+2025-03-13 22:25:56,708 - INFO - 进度: 63/65 正在处理参数: trial_duration
+2025-03-13 22:25:56,709 - INFO - 开始处理文件: merged_trial_duration_qwen25_72b_t0
+2025-03-13 22:26:48,413 - INFO - 进度: 64/65 正在处理参数: recusal_applied
+2025-03-13 22:26:48,413 - INFO - 开始处理文件: merged_recusal_applied_qwen25_72b_t0
+2025-03-13 22:27:40,361 - INFO - 进度: 65/65 正在处理参数: immediate_judgement
+2025-03-13 22:27:40,361 - INFO - 开始处理文件: merged_immediate_judgement_qwen25_72b_t0

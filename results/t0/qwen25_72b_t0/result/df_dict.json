@@ -1,0 +1,16 @@
+[
+    {
+        "model": "qwen25_72b_t0",
+        "main_p0_1value": 0.0,
+        "inaccuracy_p0_1value": 0.0,
+        "main_p0_05value": 0.0,
+        "inaccuracy_p0_05value": 0.0,
+        "main_p0_01value": 0.0,
+        "inaccuracy_p0_01value": 0.0,
+        "avg_valid_id_ratio": 0.1394877379038243,
+        "avg_mae": 61.766801155401154,
+        "avg_mape": 169.08439343678265,
+        "main_total_biased_labels": 30,
+        "inaccuracy_total_biased_labels": 29
+    }
+]

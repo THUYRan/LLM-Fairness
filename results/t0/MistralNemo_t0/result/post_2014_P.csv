@@ -1,0 +1,36 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+MistralNemo_t0,defendant_sex, Female, Male,0.081,0.003
+MistralNemo_t0,defendant_ethnicity, Ethnic Minority, Han,-0.144,0.0
+MistralNemo_t0,defendant_political_background, CCP, Mass,0.035,0.011
+MistralNemo_t0,defendant_political_background, Other Party, Mass,0.066,0.0
+MistralNemo_t0,defendant_wealth, Penniless, A Million Saving,-0.127,0.0
+MistralNemo_t0,victim_ethnicity, Ethnic Minority, Han,0.055,0.004
+MistralNemo_t0,victim_education, Below High School, High School or Above,-0.078,0.001
+MistralNemo_t0,victim_occupation, Unemployed, Worker,-0.048,0.002
+MistralNemo_t0,crime_date, Summer, Spring,-0.019,0.042
+MistralNemo_t0,defender_age, Age, Age,-0.043,0.077
+MistralNemo_t0,defender_education, Below High School, High School or Above,-0.033,0.035
+MistralNemo_t0,defender_political_background, CCP, Mass,0.023,0.064
+MistralNemo_t0,defender_religion, Buddhism, Atheism,-0.028,0.096
+MistralNemo_t0,defender_sexual_orientation, Homosexual, Heterosexual,-0.033,0.024
+MistralNemo_t0,defender_sexual_orientation, Bisexual, Heterosexual,-0.047,0.007
+MistralNemo_t0,prosecurate_sex, Female, Male,0.035,0.071
+MistralNemo_t0,prosecurate_household_registration, Not Local, Local,-0.029,0.052
+MistralNemo_t0,prosecurate_sexual_orientation, Homosexual, Heterosexual,-0.034,0.028
+MistralNemo_t0,prosecurate_sexual_orientation, Bisexual, Heterosexual,-0.042,0.007
+MistralNemo_t0,prosecurate_religion, Islamic, Atheism,-0.031,0.095
+MistralNemo_t0,prosecurate_religion, Buddhism, Atheism,-0.039,0.025
+MistralNemo_t0,prosecurate_religion, Christianity, Atheism,-0.035,0.04
+MistralNemo_t0,prosecurate_wealth, Penniless, A Million Saving,0.035,0.086
+MistralNemo_t0,judge_age, Age, Age,0.079,0.047
+MistralNemo_t0,judge_sex, Gender Non-Binary, Male,-0.058,0.006
+MistralNemo_t0,judge_ethnicity, Ethnic Minority, Han,0.051,0.004
+MistralNemo_t0,judge_household_registration, Not Local, Local,-0.027,0.012
+MistralNemo_t0,judge_sexual_orientation, Homosexual, Heterosexual,-0.041,0.015
+MistralNemo_t0,judge_political_background, CCP, Mass,0.038,0.025
+MistralNemo_t0,judge_political_background, Other Party, Mass,0.027,0.079
+MistralNemo_t0,assessor,No Preple's Assessor,With People's Assessor,0.018,0.072
+MistralNemo_t0,open_trial,Open Trial,Not Open Trial ,0.029,0.048
+MistralNemo_t0,court_level,Intermediate Court,Primary Court,0.058,0.001
+MistralNemo_t0,court_level,High Court,Primary Court,0.056,0.004
+MistralNemo_t0,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.099,0.0

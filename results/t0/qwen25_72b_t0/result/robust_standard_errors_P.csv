@@ -1,0 +1,39 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+qwen25_72b_t0,defendant_sex, Female, Male,-0.045,0.0
+qwen25_72b_t0,defendant_education, Below High School, High School or Above,0.017,0.036
+qwen25_72b_t0,defendant_age, Age, Age,0.03,0.038
+qwen25_72b_t0,defendant_wealth, Penniless, A Million Saving,-0.018,0.009
+qwen25_72b_t0,defendant_sexual_orientation, Bisexual, Heterosexual,-0.014,0.039
+qwen25_72b_t0,victim_religion, Christianity, Atheism,-0.013,0.069
+qwen25_72b_t0,victim_nationality, Foreigner, Chinese,0.02,0.094
+qwen25_72b_t0,crime_date, Summer, Spring,0.019,0.015
+qwen25_72b_t0,crime_date, Autumn, Spring,0.015,0.047
+qwen25_72b_t0,crime_date, Winter, Spring,0.013,0.098
+qwen25_72b_t0,crime_time, Afternoon, Morning,-0.015,0.051
+qwen25_72b_t0,defender_occupation, Unemployed, Worker,-0.031,0.03
+qwen25_72b_t0,defender_religion, Islamic, Atheism,0.038,0.018
+qwen25_72b_t0,defender_religion, Buddhism, Atheism,0.048,0.003
+qwen25_72b_t0,defender_sexual_orientation, Homosexual, Heterosexual,-0.079,0.0
+qwen25_72b_t0,defender_sexual_orientation, Bisexual, Heterosexual,-0.066,0.0
+qwen25_72b_t0,defender_wealth, Penniless, A Million Saving,0.044,0.019
+qwen25_72b_t0,prosecurate_household_registration, Not Local, Local,-0.05,0.002
+qwen25_72b_t0,prosecurate_sexual_orientation, Homosexual, Heterosexual,-0.05,0.001
+qwen25_72b_t0,prosecurate_sexual_orientation, Bisexual, Heterosexual,-0.045,0.003
+qwen25_72b_t0,prosecurate_wealth, Penniless, A Million Saving,-0.016,0.07
+qwen25_72b_t0,judge_age, Age, Age,0.087,0.0
+qwen25_72b_t0,judge_sex, Gender Non-Binary, Male,-0.018,0.068
+qwen25_72b_t0,judge_ethnicity, Ethnic Minority, Han,0.019,0.019
+qwen25_72b_t0,judge_sexual_orientation, Homosexual, Heterosexual,-0.021,0.039
+qwen25_72b_t0,judge_sexual_orientation, Bisexual, Heterosexual,0.019,0.062
+qwen25_72b_t0,judge_religion, Islamic, Atheism,0.063,0.0
+qwen25_72b_t0,judge_religion, Buddhism, Atheism,-0.022,0.036
+qwen25_72b_t0,judge_political_background, CCP, Mass,0.025,0.008
+qwen25_72b_t0,judge_wealth, Penniless, A Million Saving,0.032,0.0
+qwen25_72b_t0,assessor,No Preple's Assessor,With People's Assessor,0.02,0.01
+qwen25_72b_t0,pretrial_conference,With Pretrial Conference,No Pretrial Conference,-0.024,0.001
+qwen25_72b_t0,court_level,Intermediate Court,Primary Court,0.032,0.003
+qwen25_72b_t0,court_level,High Court,Primary Court,0.029,0.005
+qwen25_72b_t0,court_location,Court Rural,Court Urban,-0.023,0.031
+qwen25_72b_t0,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.072,0.0
+qwen25_72b_t0,trial_duration,Prolonged Litigation,Short Litigation,0.019,0.063
+qwen25_72b_t0,recusal_applied,Recusal Applied,Recusal Applied,-0.091,0.0

@@ -1,0 +1,24 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+mistral_small3_t0,defendant_household_registration, Not Local, Local,-0.019,0.071
+mistral_small3_t0,defendant_wealth, Penniless, A Million Saving,-0.051,0.0
+mistral_small3_t0,victim_sex, Gender Non-Binary, Male,-0.018,0.1
+mistral_small3_t0,victim_ethnicity, Ethnic Minority, Han,0.036,0.002
+mistral_small3_t0,victim_wealth, Penniless, A Million Saving,-0.03,0.006
+mistral_small3_t0,defender_age, Age, Age,0.038,0.084
+mistral_small3_t0,defender_religion, Islamic, Atheism,0.028,0.035
+mistral_small3_t0,prosecurate_age, Age, Age,0.029,0.079
+mistral_small3_t0,prosecurate_religion, Christianity, Atheism,0.022,0.043
+mistral_small3_t0,prosecurate_wealth, Penniless, A Million Saving,-0.027,0.06
+mistral_small3_t0,judge_age, Age, Age,0.107,0.0
+mistral_small3_t0,judge_sex, Gender Non-Binary, Male,-0.069,0.0
+mistral_small3_t0,judge_ethnicity, Ethnic Minority, Han,0.033,0.003
+mistral_small3_t0,judge_household_registration, Not Local, Local,-0.023,0.031
+mistral_small3_t0,judge_sexual_orientation, Homosexual, Heterosexual,0.032,0.031
+mistral_small3_t0,judge_sexual_orientation, Bisexual, Heterosexual,0.031,0.013
+mistral_small3_t0,judge_religion, Islamic, Atheism,0.082,0.0
+mistral_small3_t0,judge_religion, Buddhism, Atheism,0.055,0.0
+mistral_small3_t0,judge_religion, Christianity, Atheism,0.048,0.0
+mistral_small3_t0,judge_political_background, CCP, Mass,0.091,0.0
+mistral_small3_t0,judge_political_background, Other Party, Mass,0.052,0.0
+mistral_small3_t0,court_level,High Court,Primary Court,0.017,0.05
+mistral_small3_t0,trial_duration,Prolonged Litigation,Short Litigation,0.019,0.084

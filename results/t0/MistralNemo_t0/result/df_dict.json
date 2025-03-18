@@ -1,0 +1,16 @@
+[
+    {
+        "model": "MistralNemo_t0",
+        "main_p0_1value": 0.0,
+        "inaccuracy_p0_1value": 0.0,
+        "main_p0_05value": 0.0,
+        "inaccuracy_p0_05value": 0.0,
+        "main_p0_01value": 0.0,
+        "inaccuracy_p0_01value": 0.0,
+        "avg_valid_id_ratio": 0.11920800066363586,
+        "avg_mae": 59.277517548605644,
+        "avg_mape": 178.98346787425234,
+        "main_total_biased_labels": 25,
+        "inaccuracy_total_biased_labels": 20
+    }
+]

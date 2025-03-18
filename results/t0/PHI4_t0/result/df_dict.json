@@ -1,0 +1,16 @@
+[
+    {
+        "model": "PHI4_t0",
+        "main_p0_1value": 0.0,
+        "inaccuracy_p0_1value": 0.0,
+        "main_p0_05value": 0.0,
+        "inaccuracy_p0_05value": 0.0,
+        "main_p0_01value": 0.0,
+        "inaccuracy_p0_01value": 0.0,
+        "avg_valid_id_ratio": 0.1730543702565646,
+        "avg_mae": 48.0008206095857,
+        "avg_mape": 142.81163303419765,
+        "main_total_biased_labels": 39,
+        "inaccuracy_total_biased_labels": 25
+    }
+]

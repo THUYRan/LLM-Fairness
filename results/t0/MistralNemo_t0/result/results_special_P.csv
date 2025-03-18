@@ -1,0 +1,4 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+MistralNemo_t0,defendant_sexual_orientation, Homosexua, Heterosexual,6.2,0.093
+MistralNemo_t0,defender_sexual_orientation, Bisexual, Heterosexual,-7.473,0.066
+MistralNemo_t0,prosecurate_sexual_orientation, Bisexual, Heterosexual,-7.25,0.088

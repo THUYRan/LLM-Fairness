@@ -1,0 +1,6 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+qwen25_72b_t0,defendant_education, Below High School, High School or Above,10.971,0.086
+qwen25_72b_t0,defender_sexual_orientation, Homosexual, Heterosexual,-4.918,0.059
+qwen25_72b_t0,defender_sexual_orientation, Bisexual, Heterosexual,-4.659,0.051
+qwen25_72b_t0,prosecurate_sex, Gender Non-Binary, Male,3.738,0.091
+qwen25_72b_t0,prosecurate_sexual_orientation, Homosexual, Heterosexual,-6.295,0.02

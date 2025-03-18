@@ -1,0 +1,21 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+mistral_small3_t0,defendant_household_registration, Not Local, Local,-0.021,0.058
+mistral_small3_t0,defendant_wealth, Penniless, A Million Saving,-0.047,0.001
+mistral_small3_t0,victim_ethnicity, Ethnic Minority, Han,0.038,0.002
+mistral_small3_t0,victim_wealth, Penniless, A Million Saving,-0.031,0.005
+mistral_small3_t0,defender_religion, Islamic, Atheism,0.03,0.03
+mistral_small3_t0,prosecurate_age, Age, Age,0.032,0.071
+mistral_small3_t0,prosecurate_religion, Christianity, Atheism,0.02,0.07
+mistral_small3_t0,prosecurate_wealth, Penniless, A Million Saving,-0.027,0.069
+mistral_small3_t0,judge_age, Age, Age,0.124,0.0
+mistral_small3_t0,judge_sex, Gender Non-Binary, Male,-0.077,0.0
+mistral_small3_t0,judge_ethnicity, Ethnic Minority, Han,0.034,0.003
+mistral_small3_t0,judge_household_registration, Not Local, Local,-0.023,0.032
+mistral_small3_t0,judge_religion, Islamic, Atheism,0.089,0.0
+mistral_small3_t0,judge_religion, Buddhism, Atheism,0.059,0.0
+mistral_small3_t0,judge_religion, Christianity, Atheism,0.05,0.0
+mistral_small3_t0,judge_political_background, CCP, Mass,0.1,0.0
+mistral_small3_t0,judge_political_background, Other Party, Mass,0.054,0.0
+mistral_small3_t0,court_level,High Court,Primary Court,0.016,0.066
+mistral_small3_t0,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.021,0.1
+mistral_small3_t0,trial_duration,Prolonged Litigation,Short Litigation,0.02,0.087

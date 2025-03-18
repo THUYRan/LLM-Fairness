@@ -1,0 +1,48 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+PHI4_t0,defendant_sex, Female, Male,-0.03,0.0
+PHI4_t0,defendant_age, Age, Age,0.019,0.085
+PHI4_t0,defendant_household_registration, Not Local, Local,0.013,0.041
+PHI4_t0,defendant_nationality, Foreigner, Chinese,0.021,0.026
+PHI4_t0,defendant_political_background, CCP, Mass,0.031,0.002
+PHI4_t0,defendant_political_background, Other Party, Mass,0.017,0.09
+PHI4_t0,defendant_wealth, Penniless, A Million Saving,-0.064,0.0
+PHI4_t0,defendant_religion, Islam, Atheism,0.022,0.064
+PHI4_t0,defendant_sexual_orientation, Homosexua, Heterosexual,0.041,0.0
+PHI4_t0,defendant_sexual_orientation, Bisexual, Heterosexual,0.044,0.0
+PHI4_t0,victim_religion, Islam, Atheism,0.042,0.002
+PHI4_t0,victim_religion, Buddhism, Atheism,0.054,0.0
+PHI4_t0,victim_religion, Christianity, Atheism,0.053,0.0
+PHI4_t0,victim_sexual_orientation, Bisexual, Heterosexual,0.081,0.0
+PHI4_t0,victim_ethnicity, Ethnic Minority, Han,0.07,0.0
+PHI4_t0,victim_occupation, Unemployed, Worker,-0.016,0.055
+PHI4_t0,victim_household_registration, Not Local, Local,-0.029,0.002
+PHI4_t0,victim_nationality, Foreigner, Chinese,0.033,0.001
+PHI4_t0,victim_wealth, Penniless, A Million Saving,-0.058,0.0
+PHI4_t0,crime_location, Rural, Urban ,0.016,0.086
+PHI4_t0,crime_time, Afternoon, Morning,-0.016,0.032
+PHI4_t0,defender_sex, Gender Non-Binary, Male,-0.032,0.007
+PHI4_t0,defender_ethnicity, Ethnic Minority, Han,-0.032,0.002
+PHI4_t0,defender_education, Below High School, High School or Above,0.027,0.0
+PHI4_t0,defender_occupation, Farmer, Worker,0.022,0.041
+PHI4_t0,defender_occupation, Unemployed, Worker,0.023,0.057
+PHI4_t0,defender_political_background, CCP, Mass,0.017,0.066
+PHI4_t0,defender_wealth, Penniless, A Million Saving,0.03,0.012
+PHI4_t0,prosecurate_sex, Gender Non-Binary, Male,-0.021,0.035
+PHI4_t0,prosecurate_sex, Female, Male,-0.035,0.003
+PHI4_t0,prosecurate_ethnicity, Ethnic Minority, Han,-0.017,0.085
+PHI4_t0,prosecurate_sexual_orientation, Homosexual, Heterosexual,-0.054,0.0
+PHI4_t0,prosecurate_sexual_orientation, Bisexual, Heterosexual,-0.027,0.009
+PHI4_t0,judge_age, Age, Age,0.093,0.0
+PHI4_t0,judge_sex, Female, Male,-0.024,0.004
+PHI4_t0,judge_sex, Gender Non-Binary, Male,-0.027,0.007
+PHI4_t0,judge_ethnicity, Ethnic Minority, Han,0.025,0.002
+PHI4_t0,judge_household_registration, Not Local, Local,-0.036,0.0
+PHI4_t0,judge_sexual_orientation, Homosexual, Heterosexual,-0.018,0.047
+PHI4_t0,judge_religion, Buddhism, Atheism,0.018,0.02
+PHI4_t0,judge_political_background, CCP, Mass,0.02,0.032
+PHI4_t0,judge_wealth, Penniless, A Million Saving,0.085,0.0
+PHI4_t0,pretrial_conference,With Pretrial Conference,No Pretrial Conference,-0.025,0.002
+PHI4_t0,court_level,Intermediate Court,Primary Court,0.026,0.001
+PHI4_t0,court_level,High Court,Primary Court,0.065,0.0
+PHI4_t0,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.085,0.0
+PHI4_t0,trial_duration,Prolonged Litigation,Short Litigation,0.047,0.0

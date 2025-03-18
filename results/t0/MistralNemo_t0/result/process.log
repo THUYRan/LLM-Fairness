@@ -1,0 +1,131 @@
+2025-03-13 21:13:28,591 - INFO - ====== 开始处理流程 ======
+2025-03-13 21:13:28,594 - INFO - 进度: 1/65 正在处理参数: defendant_sex
+2025-03-13 21:13:28,596 - INFO - 开始处理文件: merged_defendant_sex_MistralNemo_t0
+2025-03-13 21:14:27,599 - INFO - 进度: 2/65 正在处理参数: defendant_ethnicity
+2025-03-13 21:14:27,600 - INFO - 开始处理文件: merged_defendant_ethnicity_MistralNemo_t0
+2025-03-13 21:15:19,063 - INFO - 进度: 3/65 正在处理参数: defendant_education
+2025-03-13 21:15:19,064 - INFO - 开始处理文件: merged_defendant_education_MistralNemo_t0
+2025-03-13 21:16:09,334 - INFO - 进度: 4/65 正在处理参数: defendant_age
+2025-03-13 21:16:09,335 - INFO - 开始处理文件: merged_defendant_age_MistralNemo_t0
+2025-03-13 21:17:00,812 - INFO - 进度: 5/65 正在处理参数: defendant_occupation
+2025-03-13 21:17:00,819 - INFO - 开始处理文件: merged_defendant_occupation_MistralNemo_t0
+2025-03-13 21:18:30,931 - INFO - 进度: 6/65 正在处理参数: defendant_household_registration
+2025-03-13 21:18:30,931 - INFO - 开始处理文件: merged_defendant_household_registration_MistralNemo_t0
+2025-03-13 21:19:35,291 - INFO - 进度: 7/65 正在处理参数: defendant_nationality
+2025-03-13 21:19:35,292 - INFO - 开始处理文件: merged_defendant_nationality_MistralNemo_t0
+2025-03-13 21:20:37,848 - INFO - 进度: 8/65 正在处理参数: defendant_political_background
+2025-03-13 21:20:37,849 - INFO - 开始处理文件: merged_defendant_political_background_MistralNemo_t0
+2025-03-13 21:21:56,563 - INFO - 进度: 9/65 正在处理参数: defendant_wealth
+2025-03-13 21:21:56,564 - INFO - 开始处理文件: merged_defendant_wealth_MistralNemo_t0
+2025-03-13 21:23:02,754 - INFO - 进度: 10/65 正在处理参数: defendant_religion
+2025-03-13 21:23:02,755 - INFO - 开始处理文件: merged_defendant_religion_MistralNemo_t0
+2025-03-13 21:24:31,205 - INFO - 进度: 11/65 正在处理参数: defendant_sexual_orientation
+2025-03-13 21:24:31,206 - INFO - 开始处理文件: merged_defendant_sexual_orientation_MistralNemo_t0
+2025-03-13 21:25:48,109 - INFO - 进度: 12/65 正在处理参数: victim_religion
+2025-03-13 21:25:48,111 - INFO - 开始处理文件: merged_victim_religion_MistralNemo_t0
+2025-03-13 21:27:14,587 - INFO - 进度: 13/65 正在处理参数: victim_sexual_orientation
+2025-03-13 21:29:17,768 - INFO - 开始处理文件: merged_victim_sexual_orientation_MistralNemo_t0
+2025-03-13 21:31:12,071 - INFO - 进度: 14/65 正在处理参数: victim_sex
+2025-03-13 21:31:12,072 - INFO - 开始处理文件: merged_victim_sex_MistralNemo_t0
+2025-03-13 21:32:15,048 - INFO - 进度: 15/65 正在处理参数: victim_age
+2025-03-13 21:32:15,049 - INFO - 开始处理文件: merged_victim_age_MistralNemo_t0
+2025-03-13 21:32:55,999 - INFO - 进度: 16/65 正在处理参数: victim_ethnicity
+2025-03-13 21:32:55,999 - INFO - 开始处理文件: merged_victim_ethnicity_MistralNemo_t0
+2025-03-13 21:33:47,485 - INFO - 进度: 17/65 正在处理参数: victim_education
+2025-03-13 21:33:47,485 - INFO - 开始处理文件: merged_victim_education_MistralNemo_t0
+2025-03-13 21:34:45,442 - INFO - 进度: 18/65 正在处理参数: victim_occupation
+2025-03-13 21:34:45,444 - INFO - 开始处理文件: merged_victim_occupation_MistralNemo_t0
+2025-03-13 21:35:59,661 - INFO - 进度: 19/65 正在处理参数: victim_household_registration
+2025-03-13 21:35:59,662 - INFO - 开始处理文件: merged_victim_household_registration_MistralNemo_t0
+2025-03-13 21:37:00,475 - INFO - 进度: 20/65 正在处理参数: victim_nationality
+2025-03-13 21:37:00,475 - INFO - 开始处理文件: merged_victim_nationality_MistralNemo_t0
+2025-03-13 21:37:57,398 - INFO - 进度: 21/65 正在处理参数: victim_political_background
+2025-03-13 21:37:57,399 - INFO - 开始处理文件: merged_victim_political_background_MistralNemo_t0
+2025-03-13 21:39:11,832 - INFO - 进度: 22/65 正在处理参数: victim_wealth
+2025-03-13 21:39:11,833 - INFO - 开始处理文件: merged_victim_wealth_MistralNemo_t0
+2025-03-13 21:40:11,571 - INFO - 进度: 23/65 正在处理参数: crime_location
+2025-03-13 21:40:11,573 - INFO - 开始处理文件: merged_crime_location_MistralNemo_t0
+2025-03-13 21:41:04,969 - INFO - 进度: 24/65 正在处理参数: crime_date
+2025-03-13 21:41:04,970 - INFO - 开始处理文件: merged_crime_date_MistralNemo_t0
+2025-03-13 21:42:36,552 - INFO - 进度: 25/65 正在处理参数: crime_time
+2025-03-13 21:42:36,553 - INFO - 开始处理文件: merged_crime_time_MistralNemo_t0
+2025-03-13 21:43:43,317 - INFO - 进度: 26/65 正在处理参数: defender_sex
+2025-03-13 21:43:43,318 - INFO - 开始处理文件: merged_defender_sex_MistralNemo_t0
+2025-03-13 21:44:57,403 - INFO - 进度: 27/65 正在处理参数: defender_age
+2025-03-13 21:44:57,403 - INFO - 开始处理文件: merged_defender_age_MistralNemo_t0
+2025-03-13 21:45:56,576 - INFO - 进度: 28/65 正在处理参数: defender_ethnicity
+2025-03-13 21:45:56,578 - INFO - 开始处理文件: merged_defender_ethnicity_MistralNemo_t0
+2025-03-13 21:46:54,815 - INFO - 进度: 29/65 正在处理参数: defender_education
+2025-03-13 21:46:54,816 - INFO - 开始处理文件: merged_defender_education_MistralNemo_t0
+2025-03-13 21:47:50,501 - INFO - 进度: 30/65 正在处理参数: defender_occupation
+2025-03-13 21:47:50,503 - INFO - 开始处理文件: merged_defender_occupation_MistralNemo_t0
+2025-03-13 21:49:06,792 - INFO - 进度: 31/65 正在处理参数: defender_household_registration
+2025-03-13 21:49:06,792 - INFO - 开始处理文件: merged_defender_household_registration_MistralNemo_t0
+2025-03-13 21:50:10,532 - INFO - 进度: 32/65 正在处理参数: defender_nationality
+2025-03-13 21:50:10,533 - INFO - 开始处理文件: merged_defender_nationality_MistralNemo_t0
+2025-03-13 21:51:12,941 - INFO - 进度: 33/65 正在处理参数: defender_political_background
+2025-03-13 21:51:12,942 - INFO - 开始处理文件: merged_defender_political_background_MistralNemo_t0
+2025-03-13 21:52:27,811 - INFO - 进度: 34/65 正在处理参数: defender_religion
+2025-03-13 21:52:27,814 - INFO - 开始处理文件: merged_defender_religion_MistralNemo_t0
+2025-03-13 21:54:04,172 - INFO - 进度: 35/65 正在处理参数: defender_sexual_orientation
+2025-03-13 21:54:04,173 - INFO - 开始处理文件: merged_defender_sexual_orientation_MistralNemo_t0
+2025-03-13 21:55:12,304 - INFO - 进度: 36/65 正在处理参数: defender_wealth
+2025-03-13 21:55:12,305 - INFO - 开始处理文件: merged_defender_wealth_MistralNemo_t0
+2025-03-13 21:56:12,213 - INFO - 进度: 37/65 正在处理参数: prosecurate_sex
+2025-03-13 21:56:12,215 - INFO - 开始处理文件: merged_prosecurate_sex_MistralNemo_t0
+2025-03-13 21:57:20,550 - INFO - 进度: 38/65 正在处理参数: prosecurate_age
+2025-03-13 21:57:20,553 - INFO - 开始处理文件: merged_prosecurate_age_MistralNemo_t0
+2025-03-13 21:58:18,726 - INFO - 进度: 39/65 正在处理参数: prosecurate_ethnicity
+2025-03-13 21:58:18,728 - INFO - 开始处理文件: merged_prosecurate_ethnicity_MistralNemo_t0
+2025-03-13 21:59:16,288 - INFO - 进度: 40/65 正在处理参数: prosecurate_household_registration
+2025-03-13 21:59:16,289 - INFO - 开始处理文件: merged_prosecurate_household_registration_MistralNemo_t0
+2025-03-13 22:00:18,615 - INFO - 进度: 41/65 正在处理参数: prosecurate_sexual_orientation
+2025-03-13 22:00:18,616 - INFO - 开始处理文件: merged_prosecurate_sexual_orientation_MistralNemo_t0
+2025-03-13 22:01:32,335 - INFO - 进度: 42/65 正在处理参数: prosecurate_religion
+2025-03-13 22:01:32,337 - INFO - 开始处理文件: merged_prosecurate_religion_MistralNemo_t0
+2025-03-13 22:03:08,292 - INFO - 进度: 43/65 正在处理参数: prosecurate_political_background
+2025-03-13 22:03:08,293 - INFO - 开始处理文件: merged_prosecurate_political_background_MistralNemo_t0
+2025-03-13 22:04:33,589 - INFO - 进度: 44/65 正在处理参数: prosecurate_wealth
+2025-03-13 22:04:33,589 - INFO - 开始处理文件: merged_prosecurate_wealth_MistralNemo_t0
+2025-03-13 22:05:26,138 - INFO - 进度: 45/65 正在处理参数: judge_age
+2025-03-13 22:05:26,139 - INFO - 开始处理文件: merged_judge_age_MistralNemo_t0
+2025-03-13 22:06:25,033 - INFO - 进度: 46/65 正在处理参数: judge_sex
+2025-03-13 22:06:25,034 - INFO - 开始处理文件: merged_judge_sex_MistralNemo_t0
+2025-03-13 22:07:34,062 - INFO - 进度: 47/65 正在处理参数: judge_ethnicity
+2025-03-13 22:07:34,063 - INFO - 开始处理文件: merged_judge_ethnicity_MistralNemo_t0
+2025-03-13 22:08:33,982 - INFO - 进度: 48/65 正在处理参数: judge_household_registration
+2025-03-13 22:08:33,983 - INFO - 开始处理文件: merged_judge_household_registration_MistralNemo_t0
+2025-03-13 22:09:35,111 - INFO - 进度: 49/65 正在处理参数: judge_sexual_orientation
+2025-03-13 22:09:35,112 - INFO - 开始处理文件: merged_judge_sexual_orientation_MistralNemo_t0
+2025-03-13 22:10:46,332 - INFO - 进度: 50/65 正在处理参数: judge_religion
+2025-03-13 22:10:46,333 - INFO - 开始处理文件: merged_judge_religion_MistralNemo_t0
+2025-03-13 22:12:25,595 - INFO - 进度: 51/65 正在处理参数: judge_political_background
+2025-03-13 22:12:25,595 - INFO - 开始处理文件: merged_judge_political_background_MistralNemo_t0
+2025-03-13 22:13:46,757 - INFO - 进度: 52/65 正在处理参数: judge_wealth
+2025-03-13 22:13:46,759 - INFO - 开始处理文件: merged_judge_wealth_MistralNemo_t0
+2025-03-13 22:14:41,698 - INFO - 进度: 53/65 正在处理参数: collegial_panel
+2025-03-13 22:14:41,701 - INFO - 开始处理文件: merged_collegial_panel_MistralNemo_t0
+2025-03-13 22:15:40,962 - INFO - 进度: 54/65 正在处理参数: assessor
+2025-03-13 22:15:40,963 - INFO - 开始处理文件: merged_assessor_MistralNemo_t0
+2025-03-13 22:16:41,825 - INFO - 进度: 55/65 正在处理参数: defender_type
+2025-03-13 22:16:41,826 - INFO - 开始处理文件: merged_defender_type_MistralNemo_t0
+2025-03-13 22:17:41,683 - INFO - 进度: 56/65 正在处理参数: pretrial_conference
+2025-03-13 22:17:41,684 - INFO - 开始处理文件: merged_pretrial_conference_MistralNemo_t0
+2025-03-13 22:18:41,346 - INFO - 进度: 57/65 正在处理参数: judicial_committee
+2025-03-13 22:18:41,347 - INFO - 开始处理文件: merged_judicial_committee_MistralNemo_t0
+2025-03-13 22:19:41,442 - INFO - 进度: 58/65 正在处理参数: online_broadcast
+2025-03-13 22:19:41,443 - INFO - 开始处理文件: merged_online_broadcast_MistralNemo_t0
+2025-03-13 22:20:41,781 - INFO - 进度: 59/65 正在处理参数: open_trial
+2025-03-13 22:20:41,782 - INFO - 开始处理文件: merged_open_trial_MistralNemo_t0
+2025-03-13 22:21:38,607 - INFO - 进度: 60/65 正在处理参数: court_level
+2025-03-13 22:21:38,608 - INFO - 开始处理文件: merged_court_level_MistralNemo_t0
+2025-03-13 22:22:59,663 - INFO - 进度: 61/65 正在处理参数: court_location
+2025-03-13 22:22:59,666 - INFO - 开始处理文件: merged_court_location_MistralNemo_t0
+2025-03-13 22:24:00,140 - INFO - 进度: 62/65 正在处理参数: compulsory_measure
+2025-03-13 22:24:00,140 - INFO - 开始处理文件: merged_compulsory_measure_MistralNemo_t0
+2025-03-13 22:24:53,909 - INFO - 进度: 63/65 正在处理参数: trial_duration
+2025-03-13 22:24:53,910 - INFO - 开始处理文件: merged_trial_duration_MistralNemo_t0
+2025-03-13 22:25:48,377 - INFO - 进度: 64/65 正在处理参数: recusal_applied
+2025-03-13 22:25:48,378 - INFO - 开始处理文件: merged_recusal_applied_MistralNemo_t0
+2025-03-13 22:26:40,738 - INFO - 进度: 65/65 正在处理参数: immediate_judgement
+2025-03-13 22:26:40,738 - INFO - 开始处理文件: merged_immediate_judgement_MistralNemo_t0

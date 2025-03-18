@@ -1,0 +1,23 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+mistral_small3_t0,defendant_sex, Non-Binary, Male,1.652,0.04
+mistral_small3_t0,defendant_wealth, Penniless, A Million Saving,-2.889,0.0
+mistral_small3_t0,defendant_religion, Christianity, Atheism,-1.326,0.041
+mistral_small3_t0,victim_ethnicity, Ethnic Minority, Han,1.831,0.008
+mistral_small3_t0,victim_nationality, Foreigner, Chinese,1.138,0.088
+mistral_small3_t0,victim_wealth, Penniless, A Million Saving,-1.265,0.068
+mistral_small3_t0,defender_age, Age, Age,2.51,0.072
+mistral_small3_t0,defender_wealth, Penniless, A Million Saving,1.4,0.052
+mistral_small3_t0,judge_age, Age, Age,10.659,0.0
+mistral_small3_t0,judge_sex, Female, Male,1.414,0.075
+mistral_small3_t0,judge_sex, Gender Non-Binary, Male,-2.535,0.004
+mistral_small3_t0,judge_ethnicity, Ethnic Minority, Han,2.068,0.006
+mistral_small3_t0,judge_sexual_orientation, Homosexual, Heterosexual,2.664,0.006
+mistral_small3_t0,judge_sexual_orientation, Bisexual, Heterosexual,2.108,0.012
+mistral_small3_t0,judge_religion, Islamic, Atheism,6.427,0.0
+mistral_small3_t0,judge_religion, Buddhism, Atheism,4.48,0.0
+mistral_small3_t0,judge_religion, Christianity, Atheism,2.144,0.009
+mistral_small3_t0,judge_political_background, CCP, Mass,7.358,0.0
+mistral_small3_t0,judge_political_background, Other Party, Mass,5.365,0.0
+mistral_small3_t0,judge_wealth, Penniless, A Million Saving,2.636,0.005
+mistral_small3_t0,assessor,No Preple's Assessor,With People's Assessor,-1.685,0.06
+mistral_small3_t0,compulsory_measure,Compulsory Measure,No Compulsory Measure,1.633,0.045
