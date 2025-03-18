@@ -1,12 +1,12 @@
 [
     {
         "model": "glm4_flash",
-        "main_p0_1value": 0.0,
-        "inaccuracy_p0_1value": 0.0,
-        "main_p0_05value": 0.0,
-        "inaccuracy_p0_05value": 0.0,
-        "main_p0_01value": 0.0,
-        "inaccuracy_p0_01value": 0.0,
+        "main_p0_1value": 1.2513718038554976e-13,
+        "inaccuracy_p0_1value": 6.032362345028901e-06,
+        "main_p0_05value": 1.7019309427805407e-14,
+        "inaccuracy_p0_05value": 4.557669736358886e-11,
+        "main_p0_01value": 1.8637631546614965e-11,
+        "inaccuracy_p0_01value": 4.040391960997669e-09,
         "avg_valid_id_ratio": 0.07485448903305632,
         "avg_mae": 73.38437047052335,
         "avg_mape": 219.83619755308976,
