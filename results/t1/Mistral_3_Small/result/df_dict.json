@@ -1,12 +1,12 @@
 [
     {
         "model": "Mistral_3_Small",
-        "main_p0_1value": 0.0,
-        "inaccuracy_p0_1value": 0.0,
-        "main_p0_05value": 0.0,
-        "inaccuracy_p0_05value": 0.0,
-        "main_p0_01value": 0.0,
-        "inaccuracy_p0_01value": 0.0,
+        "main_p0_1value": 0.014114723528940288,
+        "inaccuracy_p0_1value": 0.6306978713605049,
+        "main_p0_05value": 0.0010000449905513196,
+        "inaccuracy_p0_05value": 0.20481136988819018,
+        "main_p0_01value": 0.0028791497258766224,
+        "inaccuracy_p0_01value": 0.61895288189545,
         "avg_valid_id_ratio": 0.7684267977830722,
         "avg_mae": 74.64500925486267,
         "avg_mape": 266.75391120602944,
