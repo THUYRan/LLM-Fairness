@@ -1,0 +1,16 @@
+[
+    {
+        "model": "Gemini_1.5_8b",
+        "main_p0_1value": 1.9279735774767698e-05,
+        "inaccuracy_p0_1value": 0.0011774604822662395,
+        "main_p0_05value": 1.2126038314917762e-06,
+        "inaccuracy_p0_05value": 0.00100004499055132,
+        "main_p0_01value": 5.923818523777427e-07,
+        "inaccuracy_p0_01value": 0.00043000228879385094,
+        "avg_valid_id_ratio": 0.4156922592835886,
+        "avg_mae": 57.22027310772796,
+        "avg_mape": 218.96848798379992,
+        "main_total_biased_labels": 24,
+        "inaccuracy_total_biased_labels": 19
+    }
+]
