@@ -1,12 +1,12 @@
 [
     {
         "model": "NOVALite_t0",
-        "main_p0_1value": 0.0,
-        "inaccuracy_p0_1value": 0.0,
-        "main_p0_05value": 0.0,
-        "inaccuracy_p0_05value": 0.0,
-        "main_p0_01value": 0.0,
-        "inaccuracy_p0_01value": 0.0,
+        "main_p0_1value": 6.032362345028901e-06,
+        "inaccuracy_p0_1value": 6.032362345028901e-06,
+        "main_p0_05value": 9.678816481188255e-09,
+        "inaccuracy_p0_05value": 2.577865380338913e-07,
+        "main_p0_01value": 1.8637631546614965e-11,
+        "inaccuracy_p0_01value": 4.040391960997669e-09,
         "avg_valid_id_ratio": 0.18558768709140677,
         "avg_mae": 58.05338662822064,
         "avg_mape": 224.93696240986864,
