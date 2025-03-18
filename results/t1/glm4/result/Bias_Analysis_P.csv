@@ -1,0 +1,37 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+glm4,defendant_sex, Female, Male,-0.028,0.012
+glm4,defendant_ethnicity, Ethnic Minority, Han,0.017,0.08
+glm4,defendant_household_registration, Not Local, Local,0.01,0.028
+glm4,defendant_political_background, CCP, Mass,0.027,0.013
+glm4,defendant_wealth, Penniless, A Million Saving,-0.055,0.0
+glm4,victim_sex, Female, Male,0.011,0.023
+glm4,victim_age, Age, Age,0.022,0.058
+glm4,victim_wealth, Penniless, A Million Saving,-0.049,0.0
+glm4,crime_location, Rural, Urban ,-0.033,0.008
+glm4,defender_occupation, Farmer, Worker,-0.039,0.001
+glm4,defender_religion, Islamic, Atheism,0.024,0.031
+glm4,defender_religion, Buddhism, Atheism,0.027,0.024
+glm4,defender_sexual_orientation, Homosexual, Heterosexual,0.023,0.043
+glm4,defender_sexual_orientation, Bisexual, Heterosexual,0.029,0.011
+glm4,defender_wealth, Penniless, A Million Saving,-0.046,0.0
+glm4,prosecurate_age, Age, Age,0.035,0.024
+glm4,prosecurate_ethnicity, Ethnic Minority, Han,-0.025,0.018
+glm4,prosecurate_household_registration, Not Local, Local,-0.017,0.026
+glm4,prosecurate_wealth, Penniless, A Million Saving,-0.022,0.089
+glm4,judge_age, Age, Age,0.028,0.071
+glm4,judge_sex, Female, Male,-0.018,0.034
+glm4,judge_sex, Gender Non-Binary, Male,-0.032,0.005
+glm4,judge_household_registration, Not Local, Local,-0.012,0.092
+glm4,judge_sexual_orientation, Homosexual, Heterosexual,-0.085,0.0
+glm4,judge_sexual_orientation, Bisexual, Heterosexual,-0.033,0.002
+glm4,judge_political_background, Other Party, Mass,0.018,0.065
+glm4,judge_wealth, Penniless, A Million Saving,0.07,0.0
+glm4,assessor,No Preple's Assessor,With People's Assessor,-0.016,0.037
+glm4,defender_type,Appointed ,Privately Attained ,-0.018,0.077
+glm4,pretrial_conference,With Pretrial Conference,No Pretrial Conference,-0.015,0.068
+glm4,court_level,Intermediate Court,Primary Court,0.05,0.0
+glm4,court_level,High Court,Primary Court,0.069,0.0
+glm4,court_location,Court Rural,Court Urban,-0.046,0.0
+glm4,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.056,0.002
+glm4,trial_duration,Prolonged Litigation,Short Litigation,0.032,0.001
+glm4,recusal_applied,Recusal Applied,Recusal Applied,-0.031,0.082

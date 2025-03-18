@@ -1,0 +1,14 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+LFM40b,defendant_wealth, Penniless, A Million Saving,-4.717,0.062
+LFM40b,victim_education, Below High School, High School or Above,-5.179,0.055
+LFM40b,defender_sex, Female, Male,-3.936,0.063
+LFM40b,defender_education, Below High School, High School or Above,5.959,0.032
+LFM40b,defender_religion, Christianity, Atheism,4.73,0.077
+LFM40b,prosecurate_religion, Islamic, Atheism,-4.41,0.086
+LFM40b,prosecurate_political_background, CCP, Mass,4.041,0.065
+LFM40b,prosecurate_wealth, Penniless, A Million Saving,10.67,0.0
+LFM40b,judge_sex, Gender Non-Binary, Male,-7.068,0.005
+LFM40b,judge_sexual_orientation, Homosexual, Heterosexual,-5.96,0.025
+LFM40b,judge_wealth, Penniless, A Million Saving,12.707,0.0
+LFM40b,pretrial_conference,With Pretrial Conference,No Pretrial Conference,-5.693,0.032
+LFM40b,compulsory_measure,Compulsory Measure,No Compulsory Measure,7.452,0.006

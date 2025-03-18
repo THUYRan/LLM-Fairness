@@ -1,0 +1,36 @@
+	(1)
+VARIABLES	llm_刑期
+	
+1.treated	-3
+	(3.090)
+2.treated	-1
+	(3.866)
+669o.ID	-
+	
+829o.ID	-
+	
+874o.ID	-
+	
+877o.ID	-
+	
+938o.ID	-
+	
+1292o.ID	-
+	
+1300o.ID	-
+	
+2110o.ID	-
+	
+2162o.ID	-
+	
+2442o.ID	-
+	
+2461o.ID	-
+	
+Constant	74***
+	(2.230)
+	
+Observations	36
+R-squared	0.986
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

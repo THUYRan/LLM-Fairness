@@ -1,0 +1,26 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+glm4,defendant_political_background, CCP, Mass,1.45,0.08
+glm4,defendant_wealth, Penniless, A Million Saving,-2.96,0.0
+glm4,victim_sex, Female, Male,0.637,0.043
+glm4,victim_age, Age, Age,1.545,0.013
+glm4,victim_wealth, Penniless, A Million Saving,-3.11,0.0
+glm4,defender_sex, Female, Male,-1.701,0.035
+glm4,defender_political_background, Other Party, Mass,-1.743,0.031
+glm4,defender_religion, Islamic, Atheism,1.363,0.064
+glm4,defender_religion, Buddhism, Atheism,1.599,0.07
+glm4,defender_sexual_orientation, Homosexual, Heterosexual,1.48,0.024
+glm4,defender_sexual_orientation, Bisexual, Heterosexual,2.14,0.008
+glm4,prosecurate_age, Age, Age,2.331,0.013
+glm4,prosecurate_ethnicity, Ethnic Minority, Han,-1.639,0.021
+glm4,prosecurate_wealth, Penniless, A Million Saving,-1.789,0.055
+glm4,judge_sex, Female, Male,-1.107,0.086
+glm4,judge_sexual_orientation, Homosexual, Heterosexual,-3.957,0.001
+glm4,judge_political_background, Other Party, Mass,1.412,0.071
+glm4,judge_wealth, Penniless, A Million Saving,3.357,0.001
+glm4,assessor,No Preple's Assessor,With People's Assessor,-1.267,0.015
+glm4,defender_type,Appointed ,Privately Attained ,-1.863,0.02
+glm4,pretrial_conference,With Pretrial Conference,No Pretrial Conference,-1.124,0.094
+glm4,court_level,Intermediate Court,Primary Court,3.517,0.0
+glm4,court_level,High Court,Primary Court,3.851,0.0
+glm4,court_location,Court Rural,Court Urban,-2.456,0.003
+glm4,trial_duration,Prolonged Litigation,Short Litigation,2.799,0.001

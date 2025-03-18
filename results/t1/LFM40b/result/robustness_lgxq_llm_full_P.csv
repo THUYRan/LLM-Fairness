@@ -1,0 +1,15 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+LFM40b,defendant_religion, Islam, Atheism,0.109,0.01
+LFM40b,victim_sexual_orientation, Homosexual, Heterosexual,-0.13,0.007
+LFM40b,defender_religion, Buddhism, Atheism,0.078,0.089
+LFM40b,defender_religion, Christianity, Atheism,0.079,0.087
+LFM40b,prosecurate_religion, Islamic, Atheism,-0.117,0.01
+LFM40b,prosecurate_political_background, CCP, Mass,0.088,0.009
+LFM40b,prosecurate_wealth, Penniless, A Million Saving,0.099,0.031
+LFM40b,judge_age, Age, Age,0.148,0.054
+LFM40b,judge_sex, Gender Non-Binary, Male,-0.097,0.027
+LFM40b,judge_sexual_orientation, Homosexual, Heterosexual,-0.083,0.068
+LFM40b,judge_political_background, CCP, Mass,-0.092,0.033
+LFM40b,judge_wealth, Penniless, A Million Saving,0.13,0.005
+LFM40b,judicial_committee,With Judicial Committee,No Judicial Committee,0.102,0.022
+LFM40b,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.118,0.008

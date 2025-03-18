@@ -1,0 +1,33 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+glm4,defendant_sex, Female, Male,-0.022,0.041
+glm4,defendant_household_registration, Not Local, Local,0.009,0.048
+glm4,defendant_political_background, CCP, Mass,0.027,0.019
+glm4,defendant_wealth, Penniless, A Million Saving,-0.054,0.0
+glm4,victim_sex, Female, Male,0.012,0.023
+glm4,victim_age, Age, Age,0.024,0.058
+glm4,victim_wealth, Penniless, A Million Saving,-0.046,0.0
+glm4,crime_location, Rural, Urban ,-0.03,0.021
+glm4,defender_sex, Female, Male,-0.021,0.098
+glm4,defender_occupation, Farmer, Worker,-0.038,0.002
+glm4,defender_religion, Islamic, Atheism,0.024,0.041
+glm4,defender_religion, Buddhism, Atheism,0.02,0.091
+glm4,defender_sexual_orientation, Homosexual, Heterosexual,0.02,0.087
+glm4,defender_sexual_orientation, Bisexual, Heterosexual,0.03,0.011
+glm4,defender_wealth, Penniless, A Million Saving,-0.043,0.001
+glm4,prosecurate_age, Age, Age,0.027,0.071
+glm4,prosecurate_ethnicity, Ethnic Minority, Han,-0.02,0.059
+glm4,prosecurate_household_registration, Not Local, Local,-0.018,0.018
+glm4,judge_age, Age, Age,0.029,0.085
+glm4,judge_sex, Female, Male,-0.015,0.07
+glm4,judge_sex, Gender Non-Binary, Male,-0.029,0.014
+glm4,judge_sexual_orientation, Homosexual, Heterosexual,-0.082,0.0
+glm4,judge_sexual_orientation, Bisexual, Heterosexual,-0.029,0.007
+glm4,judge_political_background, Other Party, Mass,0.017,0.076
+glm4,judge_wealth, Penniless, A Million Saving,0.067,0.0
+glm4,assessor,No Preple's Assessor,With People's Assessor,-0.015,0.055
+glm4,pretrial_conference,With Pretrial Conference,No Pretrial Conference,-0.016,0.048
+glm4,court_level,Intermediate Court,Primary Court,0.046,0.0
+glm4,court_level,High Court,Primary Court,0.067,0.0
+glm4,court_location,Court Rural,Court Urban,-0.048,0.0
+glm4,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.056,0.002
+glm4,trial_duration,Prolonged Litigation,Short Litigation,0.032,0.002
