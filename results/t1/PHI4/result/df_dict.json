@@ -1,12 +1,12 @@
 [
     {
         "model": "PHI4",
-        "main_p0_1value": 0.0,
-        "inaccuracy_p0_1value": 0.0,
-        "main_p0_05value": 0.0,
-        "inaccuracy_p0_05value": 0.0,
-        "main_p0_01value": 0.0,
-        "inaccuracy_p0_01value": 0.0,
+        "main_p0_1value": 0.028583242865007588,
+        "inaccuracy_p0_1value": 0.364247644925263,
+        "main_p0_05value": 0.003051550134108439,
+        "inaccuracy_p0_05value": 0.5274819236917064,
+        "main_p0_01value": 0.016056627784093763,
+        "inaccuracy_p0_01value": 0.61895288189545,
         "avg_valid_id_ratio": 0.7641857931199417,
         "avg_mae": 50.99078064014387,
         "avg_mape": 157.94407514489754,
