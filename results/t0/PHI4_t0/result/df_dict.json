@@ -1,0 +1,16 @@
+[
+    {
+        "model": "PHI4_t0",
+        "main_p0_1value": 4.591787589007338e-23,
+        "inaccuracy_p0_1value": 3.498767634645298e-08,
+        "main_p0_05value": 1.267239506411694e-25,
+        "inaccuracy_p0_05value": 9.678816481188256e-09,
+        "main_p0_01value": 6.782083673916846e-33,
+        "inaccuracy_p0_01value": 5.479619994783526e-05,
+        "avg_valid_id_ratio": 0.1730543702565646,
+        "avg_mae": 48.0008206095857,
+        "avg_mape": 142.81163303419765,
+        "main_total_biased_labels": 39,
+        "inaccuracy_total_biased_labels": 25
+    }
+]
