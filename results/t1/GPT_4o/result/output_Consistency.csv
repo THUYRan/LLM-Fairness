@@ -1,0 +1,20 @@
+index,Model Name,Label Name,Inconsistency Rate
+1,gpt4o,defendant_sex,0.5734
+2,gpt4o,defendant_ethnicity,0.413
+3,gpt4o,defendant_education,0.414
+4,gpt4o,defendant_age,0.383
+5,gpt4o,defendant_occupation,0.5644
+6,gpt4o,defendant_nationality,0.4079
+7,gpt4o,defendant_political_background,0.5562
+8,gpt4o,defendant_wealth,0.3903
+9,gpt4o,crime_location,0.4133
+10,gpt4o,crime_date,0.5919
+11,gpt4o,crime_time,0.3992
+12,gpt4o,defender_age,0.4035
+13,gpt4o,defender_ethnicity,0.4161
+14,gpt4o,defender_education,0.4192
+15,gpt4o,collegial_panel,0.393
+16,gpt4o,assessor,0.4104
+17,gpt4o,court_level,0.5481
+18,gpt4o,court_location,0.3902
+19,gpt4o,compulsory_measure,0.4186

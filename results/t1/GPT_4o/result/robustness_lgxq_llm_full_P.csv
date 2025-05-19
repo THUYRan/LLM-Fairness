@@ -1,0 +1,9 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+gpt4o,defendant_ethnicity, Ethnic Minority, Han,-0.04,0.044
+gpt4o,defendant_political_background, CCP, Mass,0.034,0.054
+gpt4o,defendant_wealth, Penniless, A Million Saving,-0.085,0.0
+gpt4o,crime_location, Rural, Urban ,0.05,0.016
+gpt4o,court_level,Intermediate Court,Primary Court,0.047,0.03
+gpt4o,court_level,High Court,Primary Court,0.049,0.03
+gpt4o,court_location,Court Rural,Court Urban,0.04,0.033
+gpt4o,compulsory_measure,Compulsory Measure,No Compulsory Measure,0.034,0.073
