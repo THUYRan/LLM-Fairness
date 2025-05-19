@@ -1,0 +1,16 @@
+[
+    {
+        "model": "gpt4o",
+        "main_p0_1value": 0.00045754929309812874,
+        "inaccuracy_p0_1value": 0.00045754929309812874,
+        "main_p0_05value": 0.007164947902586577,
+        "inaccuracy_p0_05value": 0.007164947902586577,
+        "main_p0_01value": 0.22217864060085324,
+        "inaccuracy_p0_01value": 0.22217864060085324,
+        "avg_valid_id_ratio": 0.45960111341222354,
+        "avg_mae": 72.53752177477305,
+        "avg_mape": 233.02385211831358,
+        "main_total_biased_labels": 8,
+        "inaccuracy_total_biased_labels": 4
+    }
+]

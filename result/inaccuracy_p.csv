@@ -1,0 +1,5 @@
+﻿Model Name,Label Name,Label Value,Reference,Impact on Sentence Prediction (Months),P-Value
+gpt4o,defendant_ethnicity, Ethnic Minority, Han,-4.845,0.002
+gpt4o,defendant_age, Age, Age,7.858,0.002
+gpt4o,defendant_wealth, Penniless, A Million Saving,-4.23,0.006
+gpt4o,court_level,Intermediate Court,Primary Court,3.312,0.043

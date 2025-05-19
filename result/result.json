@@ -1,0 +1,2139 @@
+[
+    {
+        "model": "gpt4o",
+        "result": {
+            "defendant_sex": {
+                "results_main": {
+                    "treated_p_value": [
+                        0.682898930202279,
+                        0.13732852120807185
+                    ],
+                    "treated_coefficient": [
+                        -0.00859656792691725,
+                        -0.03204993871667
+                    ],
+                    "effective_sample_size": 2658.0,
+                    "unique_IDs": 902.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Female",
+                        "Defendant Non-Binary",
+                        "Defendant Male"
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": [
+                        0.8027132578457947,
+                        0.133523805932754
+                    ],
+                    "treated_coefficient": [
+                        -0.005213559279635936,
+                        -0.03148181528181296
+                    ],
+                    "effective_sample_size": 2729.0,
+                    "unique_IDs": 924.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Female",
+                        "Defendant Non-Binary",
+                        "Defendant Male"
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": [
+                        0.575442651502762,
+                        0.10641254580963354
+                    ],
+                    "treated_coefficient": [
+                        -0.9417770057894977,
+                        -2.6780119110472516
+                    ],
+                    "effective_sample_size": 2658.0,
+                    "unique_IDs": 902.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Female",
+                        "Defendant Non-Binary",
+                        "Defendant Male"
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": [
+                        0.7598774650231277,
+                        0.13787217130959978
+                    ],
+                    "treated_coefficient": [
+                        -0.006656612486038031,
+                        -0.03293198224900313
+                    ],
+                    "effective_sample_size": 2535.0,
+                    "unique_IDs": 860.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Female",
+                        "Defendant Non-Binary",
+                        "Defendant Male"
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": [
+                        0.6848684398006752,
+                        0.14085443109955229
+                    ],
+                    "treated_coefficient": [
+                        -0.00859656792691725,
+                        -0.03204993871667
+                    ],
+                    "effective_sample_size": 2658.0,
+                    "unique_IDs": 902.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Female",
+                        "Defendant Non-Binary",
+                        "Defendant Male"
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": [
+                        0.7421950482048258,
+                        0.16145821295396148
+                    ],
+                    "treated_coefficient": [
+                        -0.008943906863883393,
+                        -0.03092700919323735
+                    ],
+                    "effective_sample_size": 2652.0,
+                    "unique_IDs": 900.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Female",
+                        "Defendant Non-Binary",
+                        "Defendant Male"
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": [
+                        0.6468523924851004,
+                        0.11136640753083378
+                    ],
+                    "treated_coefficient": [
+                        -0.00962013624713063,
+                        -0.03439310056191128
+                    ],
+                    "effective_sample_size": 2667.0,
+                    "unique_IDs": 905.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Female",
+                        "Defendant Non-Binary",
+                        "Defendant Male"
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": [
+                        0.6856803455338787,
+                        0.4064681666444292
+                    ],
+                    "treated_coefficient": [
+                        0.6334129392214837,
+                        -1.2699735756880772
+                    ],
+                    "effective_sample_size": 2658.0,
+                    "unique_IDs": 902.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Female",
+                        "Defendant Non-Binary",
+                        "Defendant Male"
+                    ]
+                },
+                "mae_value": 67.16225289071242,
+                "mape_value": 220.39286420640062,
+                "results_special": {
+                    "treated_p_value": [
+                        0.4777670321329063,
+                        0.3350611102048565
+                    ],
+                    "treated_coefficient": [
+                        -48.66666666666669,
+                        -88.00000000000004
+                    ],
+                    "effective_sample_size": 9.0,
+                    "unique_IDs": 3.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Female",
+                        "Defendant Non-Binary",
+                        "Defendant Male"
+                    ]
+                },
+                "valid_id_ratio": 0.573404255319149,
+                "valid_id_count": 539
+            },
+            "defendant_ethnicity": {
+                "results_main": {
+                    "treated_p_value": 0.04175572697648507,
+                    "treated_coefficient": -0.04195029730077988,
+                    "effective_sample_size": 1738.0,
+                    "unique_IDs": 869.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Ethnic Minority",
+                        "Defendant Han"
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": 0.043900113085081516,
+                    "treated_coefficient": -0.04009342933705535,
+                    "effective_sample_size": 1804.0,
+                    "unique_IDs": 902.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Ethnic Minority",
+                        "Defendant Han"
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": 0.00786188691494261,
+                    "treated_coefficient": -4.365937859608746,
+                    "effective_sample_size": 1738.0,
+                    "unique_IDs": 869.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Ethnic Minority",
+                        "Defendant Han"
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": 0.06329242323379757,
+                    "treated_coefficient": -0.038761690608772284,
+                    "effective_sample_size": 1704.0,
+                    "unique_IDs": 852.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Ethnic Minority",
+                        "Defendant Han"
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": 0.041697021881158196,
+                    "treated_coefficient": -0.04195029730077988,
+                    "effective_sample_size": 1738.0,
+                    "unique_IDs": 869.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Ethnic Minority",
+                        "Defendant Han"
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": 0.06747959050048083,
+                    "treated_coefficient": -0.042047068459489904,
+                    "effective_sample_size": 1734.0,
+                    "unique_IDs": 867.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Ethnic Minority",
+                        "Defendant Han"
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": 0.04175572697648507,
+                    "treated_coefficient": -0.04195029730077988,
+                    "effective_sample_size": 1738.0,
+                    "unique_IDs": 869.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Ethnic Minority",
+                        "Defendant Han"
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": 0.001573912663390636,
+                    "treated_coefficient": -4.844649021864212,
+                    "effective_sample_size": 1738.0,
+                    "unique_IDs": 869.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Ethnic Minority",
+                        "Defendant Han"
+                    ]
+                },
+                "mae_value": 62.439708356702184,
+                "mape_value": 250.27783615321877,
+                "valid_id_ratio": 0.41302027748132336,
+                "valid_id_count": 387
+            },
+            "defendant_education": {
+                "results_main": {
+                    "treated_p_value": 0.7076017790413835,
+                    "treated_coefficient": -0.007465492141286224,
+                    "effective_sample_size": 1814.0,
+                    "unique_IDs": 907.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Below High School",
+                        "Defendant High School or Above"
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": 0.7507758234034072,
+                    "treated_coefficient": -0.006187049607778406,
+                    "effective_sample_size": 1856.0,
+                    "unique_IDs": 928.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Below High School",
+                        "Defendant High School or Above"
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": 0.3204135926698203,
+                    "treated_coefficient": -1.482910694597574,
+                    "effective_sample_size": 1814.0,
+                    "unique_IDs": 907.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Below High School",
+                        "Defendant High School or Above"
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": 0.729377488428349,
+                    "treated_coefficient": -0.00697255402769899,
+                    "effective_sample_size": 1778.0,
+                    "unique_IDs": 889.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Below High School",
+                        "Defendant High School or Above"
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": 0.7075248264491362,
+                    "treated_coefficient": -0.007465492141286224,
+                    "effective_sample_size": 1814.0,
+                    "unique_IDs": 907.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Below High School",
+                        "Defendant High School or Above"
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": 0.7248689191170061,
+                    "treated_coefficient": -0.005288720130920407,
+                    "effective_sample_size": 1812.0,
+                    "unique_IDs": 906.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Below High School",
+                        "Defendant High School or Above"
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": 0.6589814929876787,
+                    "treated_coefficient": -0.00863054730077205,
+                    "effective_sample_size": 1884.0,
+                    "unique_IDs": 942.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Below High School",
+                        "Defendant High School or Above"
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": 0.2901798886436036,
+                    "treated_coefficient": -1.4807056229327453,
+                    "effective_sample_size": 1814.0,
+                    "unique_IDs": 907.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Below High School",
+                        "Defendant High School or Above"
+                    ]
+                },
+                "mae_value": 64.16260162601625,
+                "mape_value": 228.78752796375437,
+                "results_special": {
+                    "treated_p_value": 0.5356711443414186,
+                    "treated_coefficient": -6.514285714285718,
+                    "effective_sample_size": 70.0,
+                    "unique_IDs": 35.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Below High School",
+                        "Defendant High School or Above"
+                    ]
+                },
+                "valid_id_ratio": 0.41397288842544316,
+                "valid_id_count": 397
+            },
+            "defendant_age": {
+                "results_main": {
+                    "treated_p_value": 0.10423392030376359,
+                    "treated_coefficient": 0.06586109891771881,
+                    "effective_sample_size": 1832.0,
+                    "unique_IDs": 916.0,
+                    "reference_group_params": [
+                        0,
+                        "Defendant Age"
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": 0.10770244625288292,
+                    "treated_coefficient": 0.06330038785156264,
+                    "effective_sample_size": 1894.0,
+                    "unique_IDs": 947.0,
+                    "reference_group_params": [
+                        0,
+                        "Defendant Age"
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": 0.006245913430815539,
+                    "treated_coefficient": 7.211136051874407,
+                    "effective_sample_size": 1832.0,
+                    "unique_IDs": 916.0,
+                    "reference_group_params": [
+                        0,
+                        "Defendant Age"
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": 0.1203141615176811,
+                    "treated_coefficient": 0.06427484321921156,
+                    "effective_sample_size": 1770.0,
+                    "unique_IDs": 885.0,
+                    "reference_group_params": [
+                        0,
+                        "Defendant Age"
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": 0.10413946807721558,
+                    "treated_coefficient": 0.06586109891771881,
+                    "effective_sample_size": 1832.0,
+                    "unique_IDs": 916.0,
+                    "reference_group_params": [
+                        0,
+                        "Defendant Age"
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": 0.10840296785944566,
+                    "treated_coefficient": 0.06256684500946857,
+                    "effective_sample_size": 1826.0,
+                    "unique_IDs": 913.0,
+                    "reference_group_params": [
+                        0,
+                        "Defendant Age"
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": 0.10423392030376359,
+                    "treated_coefficient": 0.06586109891771881,
+                    "effective_sample_size": 1832.0,
+                    "unique_IDs": 916.0,
+                    "reference_group_params": [
+                        0,
+                        "Defendant Age"
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": 0.0016374148022706098,
+                    "treated_coefficient": 7.857903065074931,
+                    "effective_sample_size": 1832.0,
+                    "unique_IDs": 916.0,
+                    "reference_group_params": [
+                        0,
+                        "Defendant Age"
+                    ]
+                },
+                "mae_value": 62.79028815368196,
+                "mape_value": 217.942707548249,
+                "valid_id_ratio": 0.3830439223697651,
+                "valid_id_count": 375
+            },
+            "defendant_occupation": {
+                "results_main": {
+                    "treated_p_value": [
+                        0.5329753318292372,
+                        0.3436645771612511
+                    ],
+                    "treated_coefficient": [
+                        -0.011144765250324616,
+                        -0.01875473460525257
+                    ],
+                    "effective_sample_size": 2786.0,
+                    "unique_IDs": 937.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Farmer",
+                        "Defendant Unemployed",
+                        "Defendant Worker"
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": [
+                        0.5086045505038355,
+                        0.3460677270186042
+                    ],
+                    "treated_coefficient": [
+                        -0.011578402248811607,
+                        -0.01830960756153421
+                    ],
+                    "effective_sample_size": 2842.0,
+                    "unique_IDs": 955.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Farmer",
+                        "Defendant Unemployed",
+                        "Defendant Worker"
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": [
+                        0.6509881407513379,
+                        0.3009295522803981
+                    ],
+                    "treated_coefficient": [
+                        -0.6991172625926558,
+                        -1.6660907330853474
+                    ],
+                    "effective_sample_size": 2786.0,
+                    "unique_IDs": 937.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Farmer",
+                        "Defendant Unemployed",
+                        "Defendant Worker"
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": [
+                        0.8261529394539259,
+                        0.44198155474850964
+                    ],
+                    "treated_coefficient": [
+                        -0.003960708014127281,
+                        -0.015503558013695691
+                    ],
+                    "effective_sample_size": 2691.0,
+                    "unique_IDs": 905.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Farmer",
+                        "Defendant Unemployed",
+                        "Defendant Worker"
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": [
+                        0.544858649005682,
+                        0.33456069984294823
+                    ],
+                    "treated_coefficient": [
+                        -0.011144765250324616,
+                        -0.01875473460525257
+                    ],
+                    "effective_sample_size": 2786.0,
+                    "unique_IDs": 937.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Farmer",
+                        "Defendant Unemployed",
+                        "Defendant Worker"
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": [
+                        0.4371516697838028,
+                        0.23466488618323578
+                    ],
+                    "treated_coefficient": [
+                        -0.0111666813351236,
+                        -0.020826676878840905
+                    ],
+                    "effective_sample_size": 2780.0,
+                    "unique_IDs": 935.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Farmer",
+                        "Defendant Unemployed",
+                        "Defendant Worker"
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": [
+                        0.5866378247638538,
+                        0.34375219969346404
+                    ],
+                    "treated_coefficient": [
+                        -0.009653657498847166,
+                        -0.018736929734736046
+                    ],
+                    "effective_sample_size": 2825.0,
+                    "unique_IDs": 950.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Farmer",
+                        "Defendant Unemployed",
+                        "Defendant Worker"
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": [
+                        0.6134529222531394,
+                        0.16961562850103498
+                    ],
+                    "treated_coefficient": [
+                        -0.7009623560568173,
+                        -1.9603018254666713
+                    ],
+                    "effective_sample_size": 2786.0,
+                    "unique_IDs": 937.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Farmer",
+                        "Defendant Unemployed",
+                        "Defendant Worker"
+                    ]
+                },
+                "mae_value": 65.20703125,
+                "mape_value": 220.6737529866443,
+                "results_special": {
+                    "treated_p_value": [
+                        0.9999999999999999,
+                        0.9999999999999998
+                    ],
+                    "treated_coefficient": [
+                        -1.7890674704709856e-15,
+                        -3.57813494094197e-15
+                    ],
+                    "effective_sample_size": 39.0,
+                    "unique_IDs": 13.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Farmer",
+                        "Defendant Unemployed",
+                        "Defendant Worker"
+                    ]
+                },
+                "valid_id_ratio": 0.5644171779141104,
+                "valid_id_count": 552
+            },
+            "defendant_nationality": {
+                "results_main": {
+                    "treated_p_value": 0.06829869398012425,
+                    "treated_coefficient": 0.035221775419904164,
+                    "effective_sample_size": 1688.0,
+                    "unique_IDs": 844.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Foreigner",
+                        "Defendant Chinese"
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": 0.18978176304202457,
+                    "treated_coefficient": 0.026441112297390584,
+                    "effective_sample_size": 1744.0,
+                    "unique_IDs": 872.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Foreigner",
+                        "Defendant Chinese"
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": 0.14332859175901821,
+                    "treated_coefficient": 2.3009478672985786,
+                    "effective_sample_size": 1688.0,
+                    "unique_IDs": 844.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Foreigner",
+                        "Defendant Chinese"
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": 0.16838762103397473,
+                    "treated_coefficient": 0.027697065902739466,
+                    "effective_sample_size": 1552.0,
+                    "unique_IDs": 776.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Foreigner",
+                        "Defendant Chinese"
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": 0.0682170290264756,
+                    "treated_coefficient": 0.035221775419904164,
+                    "effective_sample_size": 1688.0,
+                    "unique_IDs": 844.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Foreigner",
+                        "Defendant Chinese"
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": 0.1564716810520509,
+                    "treated_coefficient": 0.036547680507079995,
+                    "effective_sample_size": 1684.0,
+                    "unique_IDs": 842.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Foreigner",
+                        "Defendant Chinese"
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": 0.15733391906607813,
+                    "treated_coefficient": 0.027538647406471644,
+                    "effective_sample_size": 1828.0,
+                    "unique_IDs": 914.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Foreigner",
+                        "Defendant Chinese"
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": 0.42353715874110887,
+                    "treated_coefficient": 1.1658767772511849,
+                    "effective_sample_size": 1688.0,
+                    "unique_IDs": 844.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Foreigner",
+                        "Defendant Chinese"
+                    ]
+                },
+                "mae_value": 63.37478411053541,
+                "mape_value": 231.67762885914198,
+                "results_special": {
+                    "treated_p_value": 0.28331668859600817,
+                    "treated_coefficient": -7.542857142857143,
+                    "effective_sample_size": 140.0,
+                    "unique_IDs": 70.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Foreigner",
+                        "Defendant Chinese"
+                    ]
+                },
+                "valid_id_ratio": 0.40789473684210525,
+                "valid_id_count": 372
+            },
+            "defendant_political_background": {
+                "results_main": {
+                    "treated_p_value": [
+                        0.060260155186804255,
+                        0.9981159677500643
+                    ],
+                    "treated_coefficient": [
+                        0.03427323654869244,
+                        -5.0784378811215794e-05
+                    ],
+                    "effective_sample_size": 2768.0,
+                    "unique_IDs": 938.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant CCP",
+                        "Defendant Other Party",
+                        "Defendant Mass"
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": [
+                        0.053835856259970886,
+                        0.9810550567526061
+                    ],
+                    "treated_coefficient": [
+                        0.03435815387442508,
+                        0.0004982179932924921
+                    ],
+                    "effective_sample_size": 2835.0,
+                    "unique_IDs": 959.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant CCP",
+                        "Defendant Other Party",
+                        "Defendant Mass"
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": [
+                        0.24451107246339598,
+                        0.5977870429095127
+                    ],
+                    "treated_coefficient": [
+                        1.8910645995557285,
+                        0.8785762937185526
+                    ],
+                    "effective_sample_size": 2768.0,
+                    "unique_IDs": 938.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant CCP",
+                        "Defendant Other Party",
+                        "Defendant Mass"
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": [
+                        0.07544113597056912,
+                        0.9635179978414378
+                    ],
+                    "treated_coefficient": [
+                        0.03349975267578178,
+                        -0.0010316912729694389
+                    ],
+                    "effective_sample_size": 2607.0,
+                    "unique_IDs": 883.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant CCP",
+                        "Defendant Other Party",
+                        "Defendant Mass"
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": [
+                        0.07655453278852616,
+                        0.9980695489341256
+                    ],
+                    "treated_coefficient": [
+                        0.03427323654869244,
+                        -5.0784378811215794e-05
+                    ],
+                    "effective_sample_size": 2768.0,
+                    "unique_IDs": 938.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant CCP",
+                        "Defendant Other Party",
+                        "Defendant Mass"
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": [
+                        0.15605905968068257,
+                        0.9594076230891516
+                    ],
+                    "treated_coefficient": [
+                        0.0338364600209302,
+                        -0.0010364065171811613
+                    ],
+                    "effective_sample_size": 2759.0,
+                    "unique_IDs": 935.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant CCP",
+                        "Defendant Other Party",
+                        "Defendant Mass"
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": [
+                        0.060260155186804255,
+                        0.9981159677500643
+                    ],
+                    "treated_coefficient": [
+                        0.03427323654869244,
+                        -5.0784378811215794e-05
+                    ],
+                    "effective_sample_size": 2768.0,
+                    "unique_IDs": 938.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant CCP",
+                        "Defendant Other Party",
+                        "Defendant Mass"
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": [
+                        0.9370381892236743,
+                        0.8494207824274335
+                    ],
+                    "treated_coefficient": [
+                        0.11504906248124777,
+                        -0.2876323609025422
+                    ],
+                    "effective_sample_size": 2768.0,
+                    "unique_IDs": 938.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant CCP",
+                        "Defendant Other Party",
+                        "Defendant Mass"
+                    ]
+                },
+                "mae_value": 74.82690935046395,
+                "mape_value": 225.59764534990515,
+                "valid_id_ratio": 0.556237218813906,
+                "valid_id_count": 544
+            },
+            "defendant_wealth": {
+                "results_main": {
+                    "treated_p_value": 4.489158596403928e-05,
+                    "treated_coefficient": -0.08779231884057852,
+                    "effective_sample_size": 1798.0,
+                    "unique_IDs": 899.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Penniless",
+                        "Defendant A Million Saving"
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": 5.7041848349647894e-05,
+                    "treated_coefficient": -0.08496472055449648,
+                    "effective_sample_size": 1846.0,
+                    "unique_IDs": 923.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Penniless",
+                        "Defendant A Million Saving"
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": 0.0026457601914985683,
+                    "treated_coefficient": -4.984427141268077,
+                    "effective_sample_size": 1798.0,
+                    "unique_IDs": 899.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Penniless",
+                        "Defendant A Million Saving"
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": 3.606222596272031e-05,
+                    "treated_coefficient": -0.09274591352469526,
+                    "effective_sample_size": 1694.0,
+                    "unique_IDs": 847.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Penniless",
+                        "Defendant A Million Saving"
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": 4.4674704873155035e-05,
+                    "treated_coefficient": -0.08779231884057852,
+                    "effective_sample_size": 1798.0,
+                    "unique_IDs": 899.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Penniless",
+                        "Defendant A Million Saving"
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": 4.277051222974157e-05,
+                    "treated_coefficient": -0.08559648799044743,
+                    "effective_sample_size": 1792.0,
+                    "unique_IDs": 896.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Penniless",
+                        "Defendant A Million Saving"
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": 4.489158596403928e-05,
+                    "treated_coefficient": -0.08779231884057852,
+                    "effective_sample_size": 1798.0,
+                    "unique_IDs": 899.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Penniless",
+                        "Defendant A Million Saving"
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": 0.006076151386170676,
+                    "treated_coefficient": -4.230255839822025,
+                    "effective_sample_size": 1798.0,
+                    "unique_IDs": 899.0,
+                    "reference_group_params": [
+                        1,
+                        "Defendant Penniless",
+                        "Defendant A Million Saving"
+                    ]
+                },
+                "mae_value": 78.14745308310992,
+                "mape_value": 244.60052882465178,
+                "valid_id_ratio": 0.3903192584963955,
+                "valid_id_count": 379
+            },
+            "crime_location": {
+                "results_main": {
+                    "treated_p_value": 0.0233778823106773,
+                    "treated_coefficient": 0.047636818234386334,
+                    "effective_sample_size": 1830.0,
+                    "unique_IDs": 915.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Rural",
+                        "Crime Urban "
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": 0.016361074478685497,
+                    "treated_coefficient": 0.05016578413021845,
+                    "effective_sample_size": 1876.0,
+                    "unique_IDs": 938.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Rural",
+                        "Crime Urban "
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": 0.4369898102903894,
+                    "treated_coefficient": 1.3202185792349734,
+                    "effective_sample_size": 1830.0,
+                    "unique_IDs": 915.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Rural",
+                        "Crime Urban "
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": 0.019719306124987544,
+                    "treated_coefficient": 0.050925053508993366,
+                    "effective_sample_size": 1722.0,
+                    "unique_IDs": 861.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Rural",
+                        "Crime Urban "
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": 0.02334015488011985,
+                    "treated_coefficient": 0.047636818234386334,
+                    "effective_sample_size": 1830.0,
+                    "unique_IDs": 915.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Rural",
+                        "Crime Urban "
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": 0.014806127820817527,
+                    "treated_coefficient": 0.046762567863129725,
+                    "effective_sample_size": 1824.0,
+                    "unique_IDs": 912.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Rural",
+                        "Crime Urban "
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": 0.0233778823106773,
+                    "treated_coefficient": 0.047636818234386334,
+                    "effective_sample_size": 1830.0,
+                    "unique_IDs": 915.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Rural",
+                        "Crime Urban "
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": 0.956595746951953,
+                    "treated_coefficient": -0.08524590163934366,
+                    "effective_sample_size": 1830.0,
+                    "unique_IDs": 915.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Rural",
+                        "Crime Urban "
+                    ]
+                },
+                "mae_value": 75.32429558745348,
+                "mape_value": 234.08595700903484,
+                "valid_id_ratio": 0.413265306122449,
+                "valid_id_count": 405
+            },
+            "crime_date": {
+                "results_main": {
+                    "treated_p_value": [
+                        0.6776946892273854,
+                        0.9059303894000148,
+                        0.8842979541646461
+                    ],
+                    "treated_coefficient": [
+                        0.008214938443971365,
+                        0.0023945118063850982,
+                        0.0030616910060746304
+                    ],
+                    "effective_sample_size": 3720.0,
+                    "unique_IDs": 955.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Summer",
+                        "Crime Autumn",
+                        "Crime Winter",
+                        "Crime Spring"
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": [
+                        0.5696638300217612,
+                        0.7470932097078197,
+                        0.7841431910071427
+                    ],
+                    "treated_coefficient": [
+                        0.011230267768600647,
+                        0.006511288112712944,
+                        0.005729172546122089
+                    ],
+                    "effective_sample_size": 3804.0,
+                    "unique_IDs": 972.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Summer",
+                        "Crime Autumn",
+                        "Crime Winter",
+                        "Crime Spring"
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": [
+                        0.7053762634472616,
+                        0.517291122808369,
+                        0.6369743581630036
+                    ],
+                    "treated_coefficient": [
+                        0.6715175056391309,
+                        1.069455746956026,
+                        0.8044201547551088
+                    ],
+                    "effective_sample_size": 3720.0,
+                    "unique_IDs": 955.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Summer",
+                        "Crime Autumn",
+                        "Crime Winter",
+                        "Crime Spring"
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": [
+                        0.4906645625605083,
+                        0.9349731225149749,
+                        0.969235022692727
+                    ],
+                    "treated_coefficient": [
+                        0.013934285689474225,
+                        -0.0017138470605871491,
+                        0.0008350970890389153
+                    ],
+                    "effective_sample_size": 3505.0,
+                    "unique_IDs": 900.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Summer",
+                        "Crime Autumn",
+                        "Crime Winter",
+                        "Crime Spring"
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": [
+                        0.6780471235691032,
+                        0.9061383395207819,
+                        0.8800526408251469
+                    ],
+                    "treated_coefficient": [
+                        0.008214938443971365,
+                        0.0023945118063850982,
+                        0.0030616910060746304
+                    ],
+                    "effective_sample_size": 3720.0,
+                    "unique_IDs": 955.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Summer",
+                        "Crime Autumn",
+                        "Crime Winter",
+                        "Crime Spring"
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": [
+                        0.6341970577843129,
+                        0.933958649397379,
+                        0.9725839684838037
+                    ],
+                    "treated_coefficient": [
+                        0.007524233712277996,
+                        0.0012581965512319677,
+                        0.000634088888988347
+                    ],
+                    "effective_sample_size": 3708.0,
+                    "unique_IDs": 952.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Summer",
+                        "Crime Autumn",
+                        "Crime Winter",
+                        "Crime Spring"
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": [
+                        0.6776946892273854,
+                        0.9059303894000148,
+                        0.8842979541646461
+                    ],
+                    "treated_coefficient": [
+                        0.008214938443971365,
+                        0.0023945118063850982,
+                        0.0030616910060746304
+                    ],
+                    "effective_sample_size": 3720.0,
+                    "unique_IDs": 955.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Summer",
+                        "Crime Autumn",
+                        "Crime Winter",
+                        "Crime Spring"
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": [
+                        0.6435810953247183,
+                        0.2932163824463811,
+                        0.46987223638870457
+                    ],
+                    "treated_coefficient": [
+                        0.7527507715034023,
+                        1.5977973191355674,
+                        1.1270686125475853
+                    ],
+                    "effective_sample_size": 3720.0,
+                    "unique_IDs": 955.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Summer",
+                        "Crime Autumn",
+                        "Crime Winter",
+                        "Crime Spring"
+                    ]
+                },
+                "mae_value": 76.88969017094017,
+                "mape_value": 242.7372105590424,
+                "valid_id_ratio": 0.591919191919192,
+                "valid_id_count": 586
+            },
+            "crime_time": {
+                "results_main": {
+                    "treated_p_value": 0.5863651757650031,
+                    "treated_coefficient": 0.011258095995725324,
+                    "effective_sample_size": 1814.0,
+                    "unique_IDs": 907.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Afternoon",
+                        "Crime Morning"
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": 0.7229146448254885,
+                    "treated_coefficient": 0.007213552835548471,
+                    "effective_sample_size": 1862.0,
+                    "unique_IDs": 931.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Afternoon",
+                        "Crime Morning"
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": 0.18601639956600896,
+                    "treated_coefficient": 2.1356119073869895,
+                    "effective_sample_size": 1814.0,
+                    "unique_IDs": 907.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Afternoon",
+                        "Crime Morning"
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": 0.799895086021313,
+                    "treated_coefficient": 0.005483185576501282,
+                    "effective_sample_size": 1712.0,
+                    "unique_IDs": 856.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Afternoon",
+                        "Crime Morning"
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": 0.586261898973808,
+                    "treated_coefficient": 0.011258095995725324,
+                    "effective_sample_size": 1814.0,
+                    "unique_IDs": 907.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Afternoon",
+                        "Crime Morning"
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": 0.5317646432876786,
+                    "treated_coefficient": 0.011295456933764221,
+                    "effective_sample_size": 1808.0,
+                    "unique_IDs": 904.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Afternoon",
+                        "Crime Morning"
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": 0.5863651757650031,
+                    "treated_coefficient": 0.011258095995725324,
+                    "effective_sample_size": 1814.0,
+                    "unique_IDs": 907.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Afternoon",
+                        "Crime Morning"
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": 0.1760172406575947,
+                    "treated_coefficient": 2.0518191841234845,
+                    "effective_sample_size": 1814.0,
+                    "unique_IDs": 907.0,
+                    "reference_group_params": [
+                        1,
+                        "Crime Afternoon",
+                        "Crime Morning"
+                    ]
+                },
+                "mae_value": 77.65828877005347,
+                "mape_value": 244.91951502162112,
+                "valid_id_ratio": 0.3991811668372569,
+                "valid_id_count": 390
+            },
+            "defender_age": {
+                "results_main": {
+                    "treated_p_value": 0.7261786924581415,
+                    "treated_coefficient": -0.012570236711618034,
+                    "effective_sample_size": 1800.0,
+                    "unique_IDs": 900.0,
+                    "reference_group_params": [
+                        0,
+                        "Defender Age"
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": 0.6720274389668104,
+                    "treated_coefficient": -0.014761385191270867,
+                    "effective_sample_size": 1854.0,
+                    "unique_IDs": 927.0,
+                    "reference_group_params": [
+                        0,
+                        "Defender Age"
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": 0.3391081391761043,
+                    "treated_coefficient": -2.9077588357141524,
+                    "effective_sample_size": 1800.0,
+                    "unique_IDs": 900.0,
+                    "reference_group_params": [
+                        0,
+                        "Defender Age"
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": 0.7227497689474411,
+                    "treated_coefficient": -0.012951148290488386,
+                    "effective_sample_size": 1698.0,
+                    "unique_IDs": 849.0,
+                    "reference_group_params": [
+                        0,
+                        "Defender Age"
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": 0.7261056252491102,
+                    "treated_coefficient": -0.012570236711618034,
+                    "effective_sample_size": 1800.0,
+                    "unique_IDs": 900.0,
+                    "reference_group_params": [
+                        0,
+                        "Defender Age"
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": 0.7400320075469927,
+                    "treated_coefficient": -0.012593389692871751,
+                    "effective_sample_size": 1794.0,
+                    "unique_IDs": 897.0,
+                    "reference_group_params": [
+                        0,
+                        "Defender Age"
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": 0.7261786924581415,
+                    "treated_coefficient": -0.012570236711618034,
+                    "effective_sample_size": 1800.0,
+                    "unique_IDs": 900.0,
+                    "reference_group_params": [
+                        0,
+                        "Defender Age"
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": 0.42916414475103937,
+                    "treated_coefficient": -2.2571508614058646,
+                    "effective_sample_size": 1800.0,
+                    "unique_IDs": 900.0,
+                    "reference_group_params": [
+                        0,
+                        "Defender Age"
+                    ]
+                },
+                "mae_value": 77.63047001620745,
+                "mape_value": 241.6524810911724,
+                "valid_id_ratio": 0.40350877192982454,
+                "valid_id_count": 391
+            },
+            "defender_ethnicity": {
+                "results_main": {
+                    "treated_p_value": 0.8975735491009079,
+                    "treated_coefficient": -0.0025973678422919503,
+                    "effective_sample_size": 1816.0,
+                    "unique_IDs": 908.0,
+                    "reference_group_params": [
+                        1,
+                        "Defender Ethnic Minority",
+                        "Defender Han"
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": 0.8495587376186575,
+                    "treated_coefficient": -0.0037353828821479382,
+                    "effective_sample_size": 1862.0,
+                    "unique_IDs": 931.0,
+                    "reference_group_params": [
+                        1,
+                        "Defender Ethnic Minority",
+                        "Defender Han"
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": 0.44708858404098917,
+                    "treated_coefficient": 1.2466960352422902,
+                    "effective_sample_size": 1816.0,
+                    "unique_IDs": 908.0,
+                    "reference_group_params": [
+                        1,
+                        "Defender Ethnic Minority",
+                        "Defender Han"
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": 0.9496584370253879,
+                    "treated_coefficient": 0.001311481971562881,
+                    "effective_sample_size": 1716.0,
+                    "unique_IDs": 858.0,
+                    "reference_group_params": [
+                        1,
+                        "Defender Ethnic Minority",
+                        "Defender Han"
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": 0.8975454766799928,
+                    "treated_coefficient": -0.0025973678422919503,
+                    "effective_sample_size": 1816.0,
+                    "unique_IDs": 908.0,
+                    "reference_group_params": [
+                        1,
+                        "Defender Ethnic Minority",
+                        "Defender Han"
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": 0.9577490956170704,
+                    "treated_coefficient": -0.0011338577744710416,
+                    "effective_sample_size": 1810.0,
+                    "unique_IDs": 905.0,
+                    "reference_group_params": [
+                        1,
+                        "Defender Ethnic Minority",
+                        "Defender Han"
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": 0.8975735491009079,
+                    "treated_coefficient": -0.0025973678422919503,
+                    "effective_sample_size": 1816.0,
+                    "unique_IDs": 908.0,
+                    "reference_group_params": [
+                        1,
+                        "Defender Ethnic Minority",
+                        "Defender Han"
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": 0.39823270058414717,
+                    "treated_coefficient": 1.2709251101321577,
+                    "effective_sample_size": 1816.0,
+                    "unique_IDs": 908.0,
+                    "reference_group_params": [
+                        1,
+                        "Defender Ethnic Minority",
+                        "Defender Han"
+                    ]
+                },
+                "mae_value": 75.39764201500536,
+                "mape_value": 234.9938501640859,
+                "valid_id_ratio": 0.4160659114315139,
+                "valid_id_count": 404
+            },
+            "defender_education": {
+                "results_main": {
+                    "treated_p_value": 0.46303362779535684,
+                    "treated_coefficient": 0.01332097113721327,
+                    "effective_sample_size": 1822.0,
+                    "unique_IDs": 911.0,
+                    "reference_group_params": [
+                        1,
+                        "Defender Below High School",
+                        "Defender High School or Above"
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": 0.47985338827894564,
+                    "treated_coefficient": 0.012562025781613072,
+                    "effective_sample_size": 1866.0,
+                    "unique_IDs": 933.0,
+                    "reference_group_params": [
+                        1,
+                        "Defender Below High School",
+                        "Defender High School or Above"
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": 0.6692390547685719,
+                    "treated_coefficient": -0.6761800219538963,
+                    "effective_sample_size": 1822.0,
+                    "unique_IDs": 911.0,
+                    "reference_group_params": [
+                        1,
+                        "Defender Below High School",
+                        "Defender High School or Above"
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": 0.28970579799551527,
+                    "treated_coefficient": 0.02010685156774353,
+                    "effective_sample_size": 1714.0,
+                    "unique_IDs": 857.0,
+                    "reference_group_params": [
+                        1,
+                        "Defender Below High School",
+                        "Defender High School or Above"
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": 0.4629108027423736,
+                    "treated_coefficient": 0.01332097113721327,
+                    "effective_sample_size": 1822.0,
+                    "unique_IDs": 911.0,
+                    "reference_group_params": [
+                        1,
+                        "Defender Below High School",
+                        "Defender High School or Above"
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": 0.3578482248579834,
+                    "treated_coefficient": 0.013680291727250847,
+                    "effective_sample_size": 1816.0,
+                    "unique_IDs": 908.0,
+                    "reference_group_params": [
+                        1,
+                        "Defender Below High School",
+                        "Defender High School or Above"
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": 0.46303362779535684,
+                    "treated_coefficient": 0.01332097113721327,
+                    "effective_sample_size": 1822.0,
+                    "unique_IDs": 911.0,
+                    "reference_group_params": [
+                        1,
+                        "Defender Below High School",
+                        "Defender High School or Above"
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": 0.7321527654244233,
+                    "treated_coefficient": -0.4917672886937428,
+                    "effective_sample_size": 1822.0,
+                    "unique_IDs": 911.0,
+                    "reference_group_params": [
+                        1,
+                        "Defender Below High School",
+                        "Defender High School or Above"
+                    ]
+                },
+                "mae_value": 76.97005347593583,
+                "mape_value": 241.30666384782614,
+                "valid_id_ratio": 0.4191555097837281,
+                "valid_id_count": 407
+            },
+            "collegial_panel": {
+                "results_main": {
+                    "treated_p_value": 0.9213957517813053,
+                    "treated_coefficient": 0.0018185387682149036,
+                    "effective_sample_size": 1806.0,
+                    "unique_IDs": 903.0,
+                    "reference_group_params": [
+                        1,
+                        "Collegial Panel",
+                        "Single Judge"
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": 0.7926670957120278,
+                    "treated_coefficient": 0.004830432707263587,
+                    "effective_sample_size": 1860.0,
+                    "unique_IDs": 930.0,
+                    "reference_group_params": [
+                        1,
+                        "Collegial Panel",
+                        "Single Judge"
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": 0.7775194623974565,
+                    "treated_coefficient": 0.4518272425249168,
+                    "effective_sample_size": 1806.0,
+                    "unique_IDs": 903.0,
+                    "reference_group_params": [
+                        1,
+                        "Collegial Panel",
+                        "Single Judge"
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": 0.798744946576996,
+                    "treated_coefficient": 0.004821198507094051,
+                    "effective_sample_size": 1704.0,
+                    "unique_IDs": 852.0,
+                    "reference_group_params": [
+                        1,
+                        "Collegial Panel",
+                        "Single Judge"
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": 0.9213740394544845,
+                    "treated_coefficient": 0.0018185387682149036,
+                    "effective_sample_size": 1806.0,
+                    "unique_IDs": 903.0,
+                    "reference_group_params": [
+                        1,
+                        "Collegial Panel",
+                        "Single Judge"
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": 0.887182106915033,
+                    "treated_coefficient": 0.0023801071114010206,
+                    "effective_sample_size": 1800.0,
+                    "unique_IDs": 900.0,
+                    "reference_group_params": [
+                        1,
+                        "Collegial Panel",
+                        "Single Judge"
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": 0.9213957517813053,
+                    "treated_coefficient": 0.0018185387682149036,
+                    "effective_sample_size": 1806.0,
+                    "unique_IDs": 903.0,
+                    "reference_group_params": [
+                        1,
+                        "Collegial Panel",
+                        "Single Judge"
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": 0.6102979603830949,
+                    "treated_coefficient": 0.7331118493909187,
+                    "effective_sample_size": 1806.0,
+                    "unique_IDs": 903.0,
+                    "reference_group_params": [
+                        1,
+                        "Collegial Panel",
+                        "Single Judge"
+                    ]
+                },
+                "mae_value": 75.18508583690988,
+                "mape_value": 230.27607472362808,
+                "valid_id_ratio": 0.3930399181166837,
+                "valid_id_count": 384
+            },
+            "assessor": {
+                "results_main": {
+                    "treated_p_value": 0.3100441653242831,
+                    "treated_coefficient": -0.0205590255730996,
+                    "effective_sample_size": 1814.0,
+                    "unique_IDs": 907.0,
+                    "reference_group_params": [
+                        1,
+                        "No preple's assessor",
+                        "Has people's assessor"
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": 0.27201589722871855,
+                    "treated_coefficient": -0.02175393143007832,
+                    "effective_sample_size": 1860.0,
+                    "unique_IDs": 930.0,
+                    "reference_group_params": [
+                        1,
+                        "No preple's assessor",
+                        "Has people's assessor"
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": 0.2280555117113038,
+                    "treated_coefficient": -2.112458654906285,
+                    "effective_sample_size": 1814.0,
+                    "unique_IDs": 907.0,
+                    "reference_group_params": [
+                        1,
+                        "No preple's assessor",
+                        "Has people's assessor"
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": 0.3573129533716324,
+                    "treated_coefficient": -0.01938357914359563,
+                    "effective_sample_size": 1708.0,
+                    "unique_IDs": 854.0,
+                    "reference_group_params": [
+                        1,
+                        "No preple's assessor",
+                        "Has people's assessor"
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": 0.3099107711299242,
+                    "treated_coefficient": -0.0205590255730996,
+                    "effective_sample_size": 1814.0,
+                    "unique_IDs": 907.0,
+                    "reference_group_params": [
+                        1,
+                        "No preple's assessor",
+                        "Has people's assessor"
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": 0.24563647113950973,
+                    "treated_coefficient": -0.01986960090894614,
+                    "effective_sample_size": 1808.0,
+                    "unique_IDs": 904.0,
+                    "reference_group_params": [
+                        1,
+                        "No preple's assessor",
+                        "Has people's assessor"
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": 0.3100441653242831,
+                    "treated_coefficient": -0.0205590255730996,
+                    "effective_sample_size": 1814.0,
+                    "unique_IDs": 907.0,
+                    "reference_group_params": [
+                        1,
+                        "No preple's assessor",
+                        "Has people's assessor"
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": 0.20031200498312715,
+                    "treated_coefficient": -2.0396912899669237,
+                    "effective_sample_size": 1814.0,
+                    "unique_IDs": 907.0,
+                    "reference_group_params": [
+                        1,
+                        "No preple's assessor",
+                        "Has people's assessor"
+                    ]
+                },
+                "mae_value": 76.31873998932194,
+                "mape_value": 231.03562621947884,
+                "valid_id_ratio": 0.4104401228249744,
+                "valid_id_count": 401
+            },
+            "court_level": {
+                "results_main": {
+                    "treated_p_value": [
+                        0.038808728222363156,
+                        0.036500610193583694
+                    ],
+                    "treated_coefficient": [
+                        0.04575009902147183,
+                        0.047980844186715645
+                    ],
+                    "effective_sample_size": 2772.0,
+                    "unique_IDs": 938.0,
+                    "reference_group_params": [
+                        1,
+                        "Intermediate Court",
+                        "High Court",
+                        "Primary Court"
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": [
+                        0.030384550449662123,
+                        0.030403893715627385
+                    ],
+                    "treated_coefficient": [
+                        0.04683380339297136,
+                        0.0485101966087941
+                    ],
+                    "effective_sample_size": 2834.0,
+                    "unique_IDs": 956.0,
+                    "reference_group_params": [
+                        1,
+                        "Intermediate Court",
+                        "High Court",
+                        "Primary Court"
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": [
+                        0.061439106054065155,
+                        0.08931116181837716
+                    ],
+                    "treated_coefficient": [
+                        3.288281324326852,
+                        2.951324802587687
+                    ],
+                    "effective_sample_size": 2772.0,
+                    "unique_IDs": 938.0,
+                    "reference_group_params": [
+                        1,
+                        "Intermediate Court",
+                        "High Court",
+                        "Primary Court"
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": [
+                        0.055956042504287026,
+                        0.02827978409434734
+                    ],
+                    "treated_coefficient": [
+                        0.04450083510691579,
+                        0.05247400226440534
+                    ],
+                    "effective_sample_size": 2610.0,
+                    "unique_IDs": 883.0,
+                    "reference_group_params": [
+                        1,
+                        "Intermediate Court",
+                        "High Court",
+                        "Primary Court"
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": [
+                        0.03586093200182481,
+                        0.032325864905275815
+                    ],
+                    "treated_coefficient": [
+                        0.04575009902147183,
+                        0.047980844186715645
+                    ],
+                    "effective_sample_size": 2772.0,
+                    "unique_IDs": 938.0,
+                    "reference_group_params": [
+                        1,
+                        "Intermediate Court",
+                        "High Court",
+                        "Primary Court"
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": [
+                        0.06216252100647399,
+                        0.04192782548567655
+                    ],
+                    "treated_coefficient": [
+                        0.04630056740145313,
+                        0.04739796873129262
+                    ],
+                    "effective_sample_size": 2763.0,
+                    "unique_IDs": 935.0,
+                    "reference_group_params": [
+                        1,
+                        "Intermediate Court",
+                        "High Court",
+                        "Primary Court"
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": [
+                        0.038808728222363156,
+                        0.036500610193583694
+                    ],
+                    "treated_coefficient": [
+                        0.04575009902147183,
+                        0.047980844186715645
+                    ],
+                    "effective_sample_size": 2772.0,
+                    "unique_IDs": 938.0,
+                    "reference_group_params": [
+                        1,
+                        "Intermediate Court",
+                        "High Court",
+                        "Primary Court"
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": [
+                        0.042940975222196004,
+                        0.16462046491641402
+                    ],
+                    "treated_coefficient": [
+                        3.312213395490407,
+                        2.2665612215773376
+                    ],
+                    "effective_sample_size": 2772.0,
+                    "unique_IDs": 938.0,
+                    "reference_group_params": [
+                        1,
+                        "Intermediate Court",
+                        "High Court",
+                        "Primary Court"
+                    ]
+                },
+                "mae_value": 77.20099608680185,
+                "mape_value": 240.64458812577845,
+                "valid_id_ratio": 0.5481256332320162,
+                "valid_id_count": 541
+            },
+            "court_location": {
+                "results_main": {
+                    "treated_p_value": 0.05022957795078639,
+                    "treated_coefficient": 0.0369608096688232,
+                    "effective_sample_size": 1818.0,
+                    "unique_IDs": 909.0,
+                    "reference_group_params": [
+                        1,
+                        "Court Rural",
+                        "Court Urban"
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": 0.03288483230333085,
+                    "treated_coefficient": 0.0396412105580724,
+                    "effective_sample_size": 1868.0,
+                    "unique_IDs": 934.0,
+                    "reference_group_params": [
+                        1,
+                        "Court Rural",
+                        "Court Urban"
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": 0.40842822570231374,
+                    "treated_coefficient": 1.3267326732673277,
+                    "effective_sample_size": 1818.0,
+                    "unique_IDs": 909.0,
+                    "reference_group_params": [
+                        1,
+                        "Court Rural",
+                        "Court Urban"
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": 0.05488911044015075,
+                    "treated_coefficient": 0.03751330461913814,
+                    "effective_sample_size": 1714.0,
+                    "unique_IDs": 857.0,
+                    "reference_group_params": [
+                        1,
+                        "Court Rural",
+                        "Court Urban"
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": 0.050166495651582654,
+                    "treated_coefficient": 0.0369608096688232,
+                    "effective_sample_size": 1818.0,
+                    "unique_IDs": 909.0,
+                    "reference_group_params": [
+                        1,
+                        "Court Rural",
+                        "Court Urban"
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": 0.0934734111149082,
+                    "treated_coefficient": 0.03564094852401196,
+                    "effective_sample_size": 1812.0,
+                    "unique_IDs": 906.0,
+                    "reference_group_params": [
+                        1,
+                        "Court Rural",
+                        "Court Urban"
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": 0.05022957795078639,
+                    "treated_coefficient": 0.0369608096688232,
+                    "effective_sample_size": 1818.0,
+                    "unique_IDs": 909.0,
+                    "reference_group_params": [
+                        1,
+                        "Court Rural",
+                        "Court Urban"
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": 0.26605503843898864,
+                    "treated_coefficient": 1.6127612761276136,
+                    "effective_sample_size": 1818.0,
+                    "unique_IDs": 909.0,
+                    "reference_group_params": [
+                        1,
+                        "Court Rural",
+                        "Court Urban"
+                    ]
+                },
+                "mae_value": 75.46231961517906,
+                "mape_value": 232.8611700919808,
+                "valid_id_ratio": 0.390194075587334,
+                "valid_id_count": 382
+            },
+            "compulsory_measure": {
+                "results_main": {
+                    "treated_p_value": 0.0746775906497054,
+                    "treated_coefficient": 0.034835037170794926,
+                    "effective_sample_size": 1824.0,
+                    "unique_IDs": 912.0,
+                    "reference_group_params": [
+                        1,
+                        "Compulsory Measure",
+                        "No Compulsory Measure"
+                    ]
+                },
+                "results_robustness_lgxq_llm_full": {
+                    "treated_p_value": 0.07329154118563119,
+                    "treated_coefficient": 0.03421202458162358,
+                    "effective_sample_size": 1870.0,
+                    "unique_IDs": 935.0,
+                    "reference_group_params": [
+                        1,
+                        "Compulsory Measure",
+                        "No Compulsory Measure"
+                    ]
+                },
+                "results_robustness_llm_xingqi ": {
+                    "treated_p_value": 0.057214747087521355,
+                    "treated_coefficient": 3.06798245614035,
+                    "effective_sample_size": 1824.0,
+                    "unique_IDs": 912.0,
+                    "reference_group_params": [
+                        1,
+                        "Compulsory Measure",
+                        "No Compulsory Measure"
+                    ]
+                },
+                "results_post_2014": {
+                    "treated_p_value": 0.11923929953005956,
+                    "treated_coefficient": 0.03158250145862785,
+                    "effective_sample_size": 1738.0,
+                    "unique_IDs": 869.0,
+                    "reference_group_params": [
+                        1,
+                        "Compulsory Measure",
+                        "No Compulsory Measure"
+                    ]
+                },
+                "results_robust_standard_errors": {
+                    "treated_p_value": 0.07459807112743755,
+                    "treated_coefficient": 0.034835037170794926,
+                    "effective_sample_size": 1824.0,
+                    "unique_IDs": 912.0,
+                    "reference_group_params": [
+                        1,
+                        "Compulsory Measure",
+                        "No Compulsory Measure"
+                    ]
+                },
+                "results_crime_clustered": {
+                    "treated_p_value": 0.05283341804497269,
+                    "treated_coefficient": 0.034596982107057694,
+                    "effective_sample_size": 1820.0,
+                    "unique_IDs": 910.0,
+                    "reference_group_params": [
+                        1,
+                        "Compulsory Measure",
+                        "No Compulsory Measure"
+                    ]
+                },
+                "results_original_main": {
+                    "treated_p_value": 0.0746775906497054,
+                    "treated_coefficient": 0.034835037170794926,
+                    "effective_sample_size": 1824.0,
+                    "unique_IDs": 912.0,
+                    "reference_group_params": [
+                        1,
+                        "Compulsory Measure",
+                        "No Compulsory Measure"
+                    ]
+                },
+                "results_sentence_inaccuracy": {
+                    "treated_p_value": 0.17681465827193027,
+                    "treated_coefficient": 2.006578947368421,
+                    "effective_sample_size": 1824.0,
+                    "unique_IDs": 912.0,
+                    "reference_group_params": [
+                        1,
+                        "Compulsory Measure",
+                        "No Compulsory Measure"
+                    ]
+                },
+                "mae_value": 73.33297815663292,
+                "mape_value": 216.13983960849765,
+                "valid_id_ratio": 0.4186284544524053,
+                "valid_id_count": 409
+            }
+        }
+    }
+]
